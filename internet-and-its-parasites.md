@@ -2,6 +2,7 @@
 title: The Internet and its Parasites
 subtitle: Freedom and Participation
 type: presentation
+event: Libre Graphics Meeting 2013
 format: video
 urls:
 - https://www.youtube.com/watch?v=YIpwg72ZACk
@@ -201,3 +202,53 @@ tags:
 - could say same for participation
 
 ## Q&A
+1.  Which font did you use?
+  - Graphic
+2.  Friedrich Kittler
+  - realm of possibility of freedom dictated by technology we adopt
+  - we also have the ability to explore how to affect technology
+  - cloud computing
+  - GPL doesn't really work for cloud computing
+  - > How do we infect cloud computing practice with the same principles of free software ...?
+3.  Is cloud computing the right target?  Managing your own information.  A lot of your personal information managed by someone else.
+  - e.g. hypervisor
+  - alive and well within cloud computing, but have this other information, private information
+  - can we solve the problem the same way?
+4.  building a free internet, bigger predators, best tech to fight GMail etc. is AdBlock
+  - diversity central in healthy ecosystem, evolution
+  - the world Silicon Valley is creating right now
+  - monopolizing, reducing diversity
+  - does this cyclically
+  - fight back to produce more diversity
+  - may also be other ways besides open source and free software
+5.  (in Spanish)
+  - trying to figure out difference between participation within group and general-universal participation
+  - tend not to believe the latter exists
+  - scale and modularity
+  - patterns of participation
+  - Carol Pateman: "patterns of participation in society"
+  - local patterns build to create better patterns at the political level
+  - participation, not just downloading
+6.  anything predefining the next iteration, does current definition of proprietary software hold within it the next definition of freedom
+  - agnostic on such theories
+  - technological determinism, conceptual determinism
+  - if it happens, it's fundamentally local
+  - not autonomous
+  - function of maintenance
+    - undervalue
+    - underappreciated
+    - hidden
+    - if that stops ... it's not seeds of own destruction ... it's that we stopped maintaining it
+  - understanding the human component
+  - about as Marxist as I get
+7.  (inaudible) ... startup culture ... attacking one specific strand in "Silicon Valley" ... revival ... "sharing economy" ... expand on weight of this strand of political thought ... can we reduce it so?
+  - clarification: Silicon Valley and startup culture
+  - if you go there, you will discover worlds and worlds of difference
+  - what's wrong with Silicon Valley is its media presentation
+  - enhanced by journalists
+  - always looking for pundits telling us what will come next
+  - all kinds of people in it
+  - associating libertarianism with Silicon Valley is unfair to other 90%
+  - > Why does the media and why does the discourse around it automatically come back to this punditry?
+  - problem with lots of areas of our culture
+  - What about media startups in New York?
