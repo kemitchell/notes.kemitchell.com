@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+SITE=notes.kemitchell.com
+bundle exec jekyll build
+rsync -a --delete _site/ $SITE:/var/www/$SITE/

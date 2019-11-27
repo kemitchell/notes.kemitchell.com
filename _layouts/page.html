@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang=en-US>
+  <head>
+    <meta charset=UTF-8>
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <title>{{page.title}}</title>
+  </head>
+  <body>
+    <h1>{{page.title}}</h1>
+    {% if page.subtitle %}<p class=subtitle>{{page.subtitle}}</p>{% endif %}
+
+    <dl>
+      {% if page.people %}
+      <dt>People</dt>
+      <dd>
+        <ul>
+          {% for person in page.people %}
+          <li>{{person}}</li>
+          {% endfor %}
+        </ul>
+      </dd>
+      {% endif %}
+      {% if page.year %}<dt>Year</dt><dd>{{page.year}}</dd>{% endif %}
+      {% if page.type %}<dt>Type</dt><dd>{{page.type}}</dd>{% endif %}
+      {% if page.format %}<dt>Format</dt><dd>{{page.format}}</dd>{% endif %}
+      {% if page.urls %}
+      <dt>URLs</dt>
+      <dd>
+        <ul>
+          {% for url in page.urls %}
+          <li><a href="{{url}}">{{url}}</a></li>
+          {% endfor %}
+        </ul>
+      </dd>
+      {% endif %}
+      {% if page.tags %}
+      <dt>Tags</dt>
+      <dd>
+        <ul>
+          {% for tag in page.tags %}
+          <li>{{tag}}</li>
+          {% endfor %}
+        </ul>
+      </dd>
+      {% endif %}
+    </dl>
+    {{content}}
+  </body>
+</html>
