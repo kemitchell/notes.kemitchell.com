@@ -1,4 +1,5 @@
 title: K.E. Mitchell's Notes
 exclude:
+- publish
 - Gemfile
 - Gemfile.lock
