@@ -19,6 +19,7 @@ tags:
 - Open Culture
 - Open Source
 - Politics
+- Silicon Valley
 ---
 
 ## Parasitism
