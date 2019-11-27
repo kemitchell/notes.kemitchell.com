@@ -54,7 +54,7 @@ tags:
   4.  everything new is old again (pessimistic dismissal)
 - all miss: concepts are malleable, not just technologies
 - the more we implement freedom, the more we change it
-- > Concepts themselves are malleable, right, not just technologies.  And The more we implement freedom, the more we change it.  The more we think what we're doing with our technologies is enhancing or spreading or changing it, the more we actually have an effect on what that concept is, what it reveals to us freedom can be and what kinds of freedom it creates in the world.
+- "Concepts themselves are malleable, right, not just technologies.  And The more we implement freedom, the more we change it.  The more we think what we're doing with our technologies is enhancing or spreading or changing it, the more we actually have an effect on what that concept is, what it reveals to us freedom can be and what kinds of freedom it creates in the world."
 - better to change a concept than criticize it
 - recursive publics
   - internal components, e.g. shareable code, legal hacking, definition of open
@@ -210,7 +210,7 @@ tags:
   - we also have the ability to explore how to affect technology
   - cloud computing
   - GPL doesn't really work for cloud computing
-  - > How do we infect cloud computing practice with the same principles of free software ...?
+  - "How do we infect cloud computing practice with the same principles of free software ...?"
 3.  Is cloud computing the right target?  Managing your own information.  A lot of your personal information managed by someone else.
   - e.g. hypervisor
   - alive and well within cloud computing, but have this other information, private information
@@ -250,6 +250,6 @@ tags:
   - always looking for pundits telling us what will come next
   - all kinds of people in it
   - associating libertarianism with Silicon Valley is unfair to other 90%
-  - > Why does the media and why does the discourse around it automatically come back to this punditry?
+  - "Why does the media and why does the discourse around it automatically come back to this punditry?"
   - problem with lots of areas of our culture
   - What about media startups in New York?
