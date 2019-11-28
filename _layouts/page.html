@@ -18,7 +18,7 @@
         <dd>
           <ul>
             {% for person in page.people %}
-            <li>{{person | smartify}}</li>
+            <li><a href="people/{{person | slugify}}">{{person | smartify}}</a></li>
             {% endfor %}
           </ul>
         </dd>
@@ -42,7 +42,7 @@
         <dd>
           <ul>
             {% for tag in page.tags %}
-            <li><a href="tags/{{tag}}">{{tag | smartify}}</a></li>
+            <li><a href="tags/{{tag | slugify}}">{{tag | smartify}}</a></li>
             {% endfor %}
           </ul>
         </dd>
