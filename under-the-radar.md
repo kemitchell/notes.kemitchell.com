@@ -1,6 +1,6 @@
 ---
 title: Under the Radar
-subtitle: How Red Hat Changed the Software Business — and Took Microsoft by Surprised
+subtitle: How Red Hat Changed the Software Business — and Took Microsoft by Surprise
 people:
   - Robert Young
   - Wendy Goldman Rohm
