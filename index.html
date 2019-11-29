@@ -15,7 +15,8 @@
     </header>
     <main>
       <ul>
-      {% for page in site.pages %}
+      {% assign sorted = site.pages | sort: 'title' %}
+      {% for page in sorted %}
       {% if page.title %}
       <li>{% include page_link.html %}</li>
       {% endif %}
