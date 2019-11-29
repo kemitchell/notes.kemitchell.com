@@ -11,6 +11,10 @@ tags:
   - Government
   - History
   - Trades
+  - Labor
+  - Guilds
+  - Journeymen
+  - Masters
 type: book
 ---
 
