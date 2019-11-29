@@ -4,7 +4,7 @@ type: book
 tags:
 - Computer Programming
 - C Programming Language
-- Assembly Languagetype: book
+- Assembly Language
 ---
 
 ## Assembly-Language Functions using the C Calling Convention

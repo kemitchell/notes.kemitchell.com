@@ -7,6 +7,8 @@ people:
   - Christopher M. Kelty
 urls:
   - https://lccn.loc.gov/2007049447
+  - http://twobits.net/pub/Kelty-TwoBits.pdf
+  - https://twobits.net/type: book
 tags:
   - Anthropology
   - Free Software
@@ -14,8 +16,6 @@ tags:
   - Open Source
   - Politics
   - Software
-online: http://twobits.net/pub/Kelty-TwoBits.pdf
-homepage: https://twobits.net/type: book
 ---
 
 ## Pointer
