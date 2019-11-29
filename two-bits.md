@@ -283,6 +283,8 @@ Reading Part I took me months.  Reading Parts II and III took me two days.
 
 - RMS v. Tim O'Reilly on paid doc  (257)
 
+- > The commitment to openness and the modulation of the meaning of source code thus create implications for the meaning of Free Software licenses: do such licenses cover this kind of content?  Are new licenses necessary?  What should they look like?  Connexions was by no means the first project to stimulate questions about the applicability of Free Software licenses to texts and documents.  In the case of EMACS and the GPL, for example, Richard Stallman had faced the problem of licensing the manual at the same time as the source code for the editor.  Indeed, such issues would ultimately result in a GNU Free Documentation License intended narrowly to cover software manuals.  Stallman, due to his concern, had clashed during the 1990s with Tim O'Reilly, publisher and head of O'Reilly Press, which had long produced books and manuals for Free Soft- ware programs.  O'Reilly argued that the principles reflected in Free Software licenses should not be applied to instructional books, be- cause such books provided a service, a way for more people to learn how to use Free Software, and in turn created a larger audience.  Stallman argued the opposite: manuals, just like the software they served, needed to be freely modifiable to remain useful.  By the late 1990s, after Free Software and Open Source had been  (256-257)
+
 - Open Content License  (257)
 
 - _Shamans, Software, and Spleen_  (258)
