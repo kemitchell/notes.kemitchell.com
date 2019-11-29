@@ -17,7 +17,7 @@
       <ul>
       {% for page in site.pages %}
       {% if page.title %}
-      <li><a href="{{page.url}}">{{page.title | smartify}}</a></li>
+      <li>{% include page_link.html %}</li>
       {% endif %}
       {% endfor %}
       </ul>

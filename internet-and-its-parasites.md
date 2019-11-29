@@ -9,7 +9,6 @@ urls:
 year: 2013
 people:
 - Christopher M. Kelty
-layout: page
 tags:
 - Academics
 - Free Software
@@ -19,7 +18,7 @@ tags:
 - Open Culture
 - Open Source
 - Politics
-- Silicon Valley
+- Silicon Valleytype: book
 ---
 
 ## Parasitism
