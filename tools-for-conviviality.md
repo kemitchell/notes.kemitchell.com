@@ -3,6 +3,7 @@ title: Tools for Conviviality
 people:
 - Ivan Illich
 type: book
+year: 1979
 tags:
 - Technology
 - Politics
