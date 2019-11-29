@@ -10,6 +10,7 @@
     <header>
       <h1>{{page.title | smartify}}</h1>
       {% if page.subtitle %}<p class=subtitle>{{page.subtitle | smartify}}</p>{% endif %}
+      {% if page.edition %}<p class=edition>{{page.edition | smartify}}</p>{% endif %}
     </header>
     <main>
       <dl>
