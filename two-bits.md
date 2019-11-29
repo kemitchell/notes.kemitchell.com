@@ -95,6 +95,8 @@ Reading Part I took me months.  Reading Parts II and III took me two days.
 
 - ESR rejected liberty philosophy, wanted no political movement but to cash in  (109)
 
+- > Raymond was determined to reject the philosophy of liberty that Stallman and the Free Software Foundation represented, but not in order to create a political movement of his own.  Rather, Raymond (and the others at the Freeware Summit) sought to cash in on the rising tide of the Internet economy by turning the creation of Free Software into something that made more sense to investors, venture capitalists, and the stock-buying public.  To Raymond, Stallman and the Free Software Foundation represented not freedom or liberty, but a kind of dogmatic, impossible communism.  As Raymond was a committed libertarian, one might expect his core beliefs in the necessity of strong property rights to conflict with the strange communalism of Free Software---and, indeed, his rhetoric was focused on pragmatic, business-minded, profit-driven, and market-oriented uses of Free Software.  For Raymond, the essentially interesting component of Free Software was not its enhancement of human liberty, but the innovation in software production that it represented (the "development model").  It was clear that Free Software achieved something amazing through a clever inversion of strong property rights, an inversion which could be expected to bring massive revenue in some other form, either through cost-cutting or, Netscape-style, through the stock market.  (109)
+
 - "dogmatic, impossible communism"  (109)
 
 - libertarian: strong property rights  (109)
