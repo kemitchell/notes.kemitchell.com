@@ -11,7 +11,8 @@ tags:
   - Management
   - Open Source
   - Red Hat
-type: book
+types:
+  - book
 ---
 
 ## Notes

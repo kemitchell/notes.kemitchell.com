@@ -12,7 +12,8 @@ tags:
   - Law
   - News
   - Politics
-type: book
+types:
+  - book
 ---
 
 ## Notes

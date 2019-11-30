@@ -12,7 +12,8 @@ tags:
   - Open Source
   - Red Hat
   - Software
-type: book
+types:
+  - book
 ---
 
 ## Notes

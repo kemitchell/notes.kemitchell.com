@@ -11,5 +11,6 @@ tags:
   - Licensing
   - Open Source
   - Software
-type: book
+types:
+  - book
 ---

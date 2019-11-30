@@ -25,7 +25,16 @@
         </dd>
         {% endif %}
         {% if page.year %}<dt>Year</dt><dd>{{page.year}}</dd>{% endif %}
-        {% if page.type %}<dt>Type</dt><dd>{{page.type}}</dd>{% endif %}
+        {% if page.types %}
+        <dt>Types</dt>
+        <dd>
+          <ul>
+            {% for type in page.types %}
+            <li><a href="types/{{type | slugify}}">{{type | smartify}}</a></li>
+            {% endfor %}
+          </ul>
+        </dd>
+        {% endif %}
         {% if page.format %}<dt>Format</dt><dd>{{page.format}}</dd>{% endif %}
         {% if page.event %}<dt>Event</dt><dd>{{page.event}}</dd>{% endif %}
         {% if page.urls %}

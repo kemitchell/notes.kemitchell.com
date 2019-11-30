@@ -10,7 +10,8 @@ tags:
   - Law
   - History
   - United States
-type: book
+types:
+  - book
 ---
 
 ## Overall

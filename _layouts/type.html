@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang=en-US>
+  <head>
+    <meta charset=UTF-8>
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <title>“{{page.type | smartify}}” Type</title>
+    <link rel=stylesheet href=https://readable.kemitchell.com/all.css>
+  </head>
+  <body>
+    <header>
+      <h1>“{{page.type | smartify}}” Type</h1>
+    </header>
+    <main>
+      <ul>
+        {% for page in page.pages %}
+        <li><a href="{{page.url}}">{{page.title | smartify}}</a></li>
+        {% endfor %}
+      </ul>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

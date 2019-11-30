@@ -10,7 +10,8 @@ people:
 tags:
   - Antitrust
   - Intellectual Property
-type: book
+types:
+  - book
 ---
 
 ## Overall

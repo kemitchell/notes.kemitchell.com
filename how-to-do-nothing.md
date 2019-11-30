@@ -11,7 +11,8 @@ tags:
   - Social Media
   - Ecology
   - San Francisco Bay Area
-type: book
+types:
+  - book
 ---
 
 ## Overall

@@ -11,5 +11,6 @@ tags:
   - Privacy
   - Security
   - Technology
-type: book
+types:
+  - book
 ---

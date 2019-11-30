@@ -15,7 +15,8 @@ tags:
   - Psychology
   - Science
   - Politics
-type: book
+types:
+  - book
 ---
 
 ## Notes

@@ -10,7 +10,8 @@ tags:
   - Music
   - Music Industry
   - Copyright
-type: book
+types:
+  - book
 ---
 
 ## Notes

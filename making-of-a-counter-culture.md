@@ -10,7 +10,8 @@ urls:
 tags:
   - History
   - United States
-type: book
+types:
+  - book
 ---
 
 ## Notes

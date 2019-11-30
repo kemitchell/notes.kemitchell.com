@@ -8,7 +8,8 @@ tags:
   - Licensing
   - Open Source
   - Technology
-type: book
+types:
+  - book
 ---
 
 ## Notes

@@ -10,7 +10,8 @@ tags:
   - Software
   - Open Source
   - Business
-type: book
+types:
+  - book
 ---
 
 ## Notes

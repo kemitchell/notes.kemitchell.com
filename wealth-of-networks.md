@@ -11,5 +11,6 @@ tags:
   - Economics
   - Intellectual Property
   - Open Source
-type: book
+types:
+  - book
 ---

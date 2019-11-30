@@ -14,7 +14,8 @@ tags:
   - Negotiation
   - Patent
   - Trade
-type: book
+types:
+  - book
 ---
 
 ## Overview

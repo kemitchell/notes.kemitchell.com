@@ -1,7 +1,8 @@
 ---
 title: The Internet and its Parasites
 subtitle: Freedom and Participation
-type: presentation
+types:
+  - presentation
 event: Libre Graphics Meeting 2013
 format: video
 urls:

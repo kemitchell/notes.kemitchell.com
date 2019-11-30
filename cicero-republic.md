@@ -9,7 +9,8 @@ tags:
   - Philosophy
   - Politics
   - Ancient Rome
-type: book
+types:
+  - book
 ---
 
 ## Quotes

@@ -11,5 +11,6 @@ tags:
   - Patent
   - Trade Secret
   - Trademark
-type: book
+types:
+  - book
 ---

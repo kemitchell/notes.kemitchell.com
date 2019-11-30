@@ -11,7 +11,8 @@ tags:
   - Music
   - Music Business
   - Licensing
-type: book
+types:
+  - book
 ---
 
 ## Notes

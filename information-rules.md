@@ -13,7 +13,8 @@ tags:
   - Intellectual Property
   - Business
   - Economics
-type: book
+types:
+  - book
 ---
 
 ## Overview

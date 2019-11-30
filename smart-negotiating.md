@@ -9,7 +9,8 @@ tags:
   - Law
   - Business
   - Negotiation
-type: book
+types:
+  - book
 ---
 
 ## Notes

@@ -11,7 +11,8 @@ tags:
   - Music
   - Music Industry
   - Business
-type: book
+types:
+  - book
 ---
 
 ## Overall

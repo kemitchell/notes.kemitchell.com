@@ -13,5 +13,6 @@ tags:
   - Law
   - Legal Theory
   - Linguistics
-type: book
+types:
+  - book
 ---

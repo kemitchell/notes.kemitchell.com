@@ -12,7 +12,8 @@ tags:
   - Open Source
   - Patent
   - Trademark
-type: book
+types:
+  - book
 ---
 
 ## Notes

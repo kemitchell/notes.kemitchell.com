@@ -1,6 +1,7 @@
 ---
 title: Programming from the Ground Up
-type: book
+types:
+  - book
 tags:
 - Computer Programming
 - C Programming Language

@@ -11,5 +11,6 @@ tags:
   - Blockchain
   - Law
   - Technology
-type: book
+types:
+  - book
 ---
