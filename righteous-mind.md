@@ -74,7 +74,7 @@ type: book
 - inner lawyer, not judge or scientist  (83)
 - reason not fit to rule  (86)
 - people care more about appearance and reputation than reality  (86)
-- know have to explain, think more systematically, self-critically  (88)
+- know how to explain, think more systematically, self-critically  (88)
 - exploratory versus confirmatory thought  (88)
 - accountability:  (88)
   1.  know accountable before form opinion
