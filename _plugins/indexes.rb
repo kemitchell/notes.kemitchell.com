@@ -3,47 +3,26 @@ module Jekyll
   class IndexPages < Generator
     safe true
     def generate(site)
-      index_tags(site) if site.layouts.key? 'tag'
-      index_people(site) if site.layouts.key? 'person'
+      index(site, 'tags', TagPage) if site.layouts.key? 'tag'
+      index(site, 'people', PersonPage) if site.layouts.key? 'person'
     end
 
-    def index_tags(site)
-      find_tags(site).each do |tag, pages|
-        path = File.join('tags')
-        page = TagPage.new(site, site.source, path, tag, pages)
+    def index(site, key, page_type)
+      find_all(site, key).each do |element, pages|
+        path = File.join(key)
+        page = page_type.new(site, site.source, path, element, pages)
         site.pages << page
       end
     end
 
-    def find_tags(site)
+    def find_all(site, key)
       map = {}
       site.pages.each do |page|
-        next unless page.data.key?('tags')
+        next unless page.data.key?(key)
 
-        page.data['tags'].each do |tag|
-          map[tag] ||= []
-          map[tag] << page
-        end
-      end
-      map
-    end
-
-    def index_people(site)
-      find_people(site).each do |person, pages|
-        path = File.join('people')
-        page = PersonPage.new(site, site.source, path, person, pages)
-        site.pages << page
-      end
-    end
-
-    def find_people(site)
-      map = {}
-      site.pages.each do |page|
-        next unless page.data.key?('people')
-
-        page.data['people'].each do |person|
-          map[person] ||= []
-          map[person] << page
+        page.data[key].each do |element|
+          map[element] ||= []
+          map[element] << page
         end
       end
       map
