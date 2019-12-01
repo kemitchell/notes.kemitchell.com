@@ -1,6 +1,7 @@
 ---
 title: COSS Academy #1
-type: podcast
+types:
+- podcast
 people:
 - Heather Meeker
 - Joseph Jacks
