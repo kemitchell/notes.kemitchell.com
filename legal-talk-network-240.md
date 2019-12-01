@@ -4,6 +4,7 @@ types:
 - podcast
 urls:
 - https://www.youtube.com/watch?v=bSeCWeCNLT8
+date: 2019-09-05
 tags:
 - Law
 - Constitutional Law
