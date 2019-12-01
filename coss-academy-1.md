@@ -1,6 +1,9 @@
 ---
 title: COSS Academy #1
 type: podcast
+people:
+- Heather Meeker
+- Joseph Jacks
 tags:
 - COSS Academy
 - Open Source
