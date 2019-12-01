@@ -2,6 +2,8 @@
 title: Legal Talk Network 240
 types:
 - podcast
+urls:
+- https://www.youtube.com/watch?v=bSeCWeCNLT8
 tags:
 - Law
 - Constitutional Law
