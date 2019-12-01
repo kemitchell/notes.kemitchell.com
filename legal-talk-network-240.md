@@ -1,5 +1,5 @@
 ---
-title: Legal Talk Network #240
+title: Legal Talk Network \#240
 types:
 - podcast
 tags:
