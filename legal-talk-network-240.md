@@ -1,0 +1,78 @@
+---
+title: Legal Talk Network #240
+types:
+- podcast
+tags:
+- Law
+- Constitutional Law
+- Politics
+- United States
+- Legal Talk Network
+---
+
+- constitutional theory in E. Europe
+- same question: technical context
+- enables certain freedoms or takes away certain opportunities
+- lawyer with a guilty conscience
+- thread: law in context, can't separate law firm context
+- Internet would guarantee its own Utopia
+- Romantic vision
+- debates with John Perry Barlow
+- feeling vindicated
+- digital Cassandra
+- 8chan
+- freedom from consequences v. freedom of speech
+- anonymity: escape consequences
+- John Stuart Mill: more concerned about norms of English society limiting speech
+- much more difficult regulatory probvlem
+- infrastructure
+- core structural problem: the system isn't representative
+- Tweedism: I pick the nominees
+- money in politics only the most obvious manifestation
+- preclearance
+- Hong Kong
+- public opinion has no effect on outcomes
+- The 1%, a fraction thereof
+- HR1: ambitious, public campaign funding, gerrmandering reform, revolving door
+- fundamental reform first
+- get someone elected with that commitment
+- They Don't Represent Us
+- Fidelity and Constraint
+- constitution and role of Supreme Court
+- too political → weakened
+- courts openly embracing politics
+- e.g. Roe v. Wade
+- appointing people to overturn 
+- PP v. Casey expectation of overturning
+- fidelity to meaning
+- fidelity to role
+- "I'm an originalist, but I'm not a nut." --- Scalia
+- "That's the safer way to play this game."
+- disappointment: partisan gerrymandering case
+- any result against party viewed as partisan result
+- the death of all norms
+- courts as winner-take-all as politics
+- our constitution adopted against the rules of the Articles of Confederation
+- Is our constitution constitutional?
+- no constitution can limit change to itself
+- vigorous Article 5 convention movement
+- upshot: Take pride in institutional capacity of the judiciary.
+- seems to stand above partisan fights
+- flip side: "just have to convince five justices" weakens democracy
+- avoiding convincing ordinary citizens
+- won't stick
+- change a culture through the law alone can't succeed
+- go lobby, go be active
+- constitution for democracy, not to rule a democracy
+- professionalized making constitutional law in the courts
+- bring constitution closer to the people
+- "focus" not descriptive of Lessig's life
+- hundreds of slides
+- came from tech conferences
+- pay attention: constantly moving, changing
+- complement the speaker
+- force people to pay attention
+- punctuation of words
+- takes forever to make
+- starting Lessig: main-stage TED talks
+
