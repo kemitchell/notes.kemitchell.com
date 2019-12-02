@@ -3,7 +3,7 @@ title: async/await with async-std
 types:
 - presentation
 urls:
-- https://www.youtube.com/watch?v=L7X0vpAU-sU--
+- https://www.youtube.com/watch?v=L7X0vpAU-sU
 people:
 - Florian Gilcher
 tags:
