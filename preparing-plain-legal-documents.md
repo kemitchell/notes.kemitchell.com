@@ -11,9 +11,9 @@ tags:
 - English Style
 ---
 
-- The Oxford Guide to Plain English
-- Joseph Kimble's Plain Words
-- Goldfarb's Raymondi Clear Understandings
-- Flesch's How to Write Plain English
-- Crump's Against Plain English
-- Hyland's A Defense of Legal Writing
+- _The Oxford Guide to Plain English_
+- Joseph Kimble's _Plain Words_
+- Goldfarb and Raymond's _Clear Understandings_
+- Flesch's _How to Write Plain English_
+- Crump's _Against Plain English_
+- Hyland's _A Defense of Legal Writing_
