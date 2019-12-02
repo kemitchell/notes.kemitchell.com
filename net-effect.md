@@ -1,5 +1,6 @@
 ---
 title: The Net Effect
+subtitle: Romanticism, Capitalism, and the Internet
 people:
 - Thomas Streeter
 types:
