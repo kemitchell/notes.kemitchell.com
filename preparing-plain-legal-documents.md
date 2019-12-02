@@ -1,6 +1,5 @@
 ---
 title: Preparing Plain Legal Documents for Lawyers
-subtitle:
 people:
 - Wayne Schiess
 types:
