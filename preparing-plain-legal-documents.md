@@ -5,6 +5,7 @@ people:
 types:
 - book
 year: 2015
+tags:
 - Legal Drafting
 - Plain English
 - English Style
