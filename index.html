@@ -13,11 +13,13 @@ layout: none
   <body>
     <header>
       <h1>{{site.title | smartify}}</h1>
+    </header>
+    <nav>
       <ul>
         <li><a href=/timeline>Timeline</a></li>
         <li><a href=/tags>Tags</a></li>
       </ul>
-    </header>
+    </nav>
     <main>
       <ul>
       {% assign sorted = site.pages | sort: 'title' %}
