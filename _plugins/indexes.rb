@@ -4,6 +4,7 @@ module Jekyll
     safe true
     def generate(site)
       index(site, 'tags', TagPage) if site.layouts.key? 'tag'
+      list_all(site, 'tags', TagsPage) if site.layouts.key? 'tags'
       index(site, 'people', PersonPage) if site.layouts.key? 'person'
       index(site, 'types', TypePage) if site.layouts.key? 'type'
     end
@@ -14,6 +15,11 @@ module Jekyll
         page = page_type.new(site, site.source, path, element, pages)
         site.pages << page
       end
+    end
+
+    def list_all(site, key, page_type)
+      elements = find_all(site, key).keys.sort
+      site.pages << page_type.new(site, site.source, elements)
     end
 
     def find_all(site, key)
@@ -43,6 +49,20 @@ module Jekyll
       read_yaml(File.join(base, '_layouts'), 'tag.html')
       data['tag'] = tag
       data['pages'] = pages
+    end
+  end
+
+  # Page listing all tags.
+  class TagsPage < Page
+    def initialize(site, base, tags)
+      @site = site
+      @base = base
+      @tasg = tags
+      @name = 'tags.html'
+
+      process(@name)
+      read_yaml(File.join(base, '_layouts'), 'tags.html')
+      data['tags'] = tags
     end
   end
 

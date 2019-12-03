@@ -52,7 +52,7 @@
         <dd>
           <ul>
             {% for tag in page.tags %}
-            <li><a href="tags/{{tag | slugify}}">{{tag | smartify}}</a></li>
+            <li>{% include tag.html %}</li>
             {% endfor %}
           </ul>
         </dd>
