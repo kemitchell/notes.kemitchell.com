@@ -1,0 +1,177 @@
+---
+title: Changelog 355
+types:
+- podcast
+people:
+- CJ Silverio
+year: 2019
+urls:
+- https://changelog.com/podcast/355
+tags:
+- Open Source
+---
+
+- second hire and former CTO
+- The Economies of Open Source
+- bomb dropped: Entropic
+- never had a conf speaking moment like that
+- had no idea how crowd would react
+- a bunch of history people don't know
+- started in 2009
+- never needed to know where it came from
+- because I was an insider, I could talk about
+- costs money to run
+- Laurie: could run npm for 99 years for the amount Uber burned in a quarter
+- still a notable amount of money
+- $30k+ in AWS per month
+- have to have a story
+- free is relative
+- it just works
+- leave out a little dish of milk
+- worked on the technical side
+- where they money came from, why the money had to be there, what the consequences
+- took all of our commons ... handed them over to a company that's VC-funded
+- I was totally OK with this at the time.
+- I thought we'd be OK.
+- my realization that I was fundamentally wrong
+- I made a mistake.
+- don't regret pushing Node
+- fantastic team
+- npm team was just fantastic people
+- in the service of the wrong cause
+- underlying profit motive
+- when you take VC money, you are in it in order to give the VCs a payoff
+- completely open transaction
+- you can't opt out of that once you've handed over a chunk of your company
+- control
+- sometimes that's exactly the right trade-off
+- current company: VC makes perfect sense
+- not a short-term project
+- not go big or go home
+- you can't shut down with the thing that all of JavaScript needs to keep running
+- VC sustained it for years
+- centralized the commons
+- got involved when they raised
+- probably wouldn't have got involved without it
+- people don't do that for free
+- npm was a tire fire, down all the time, nine sixes
+- needed serious attention and serious operational work to stabilize
+- hard to get that from human beings
+- on-call 24/7
+- most other language systems haven't done this
+- CPAN
+- RubyGems is volunteer-run
+- expectations are very different
+- the scale .. possible because had a team of professionals
+- npm support was and is legendary
+- empathetic, customer-centric people
+- most time supporting open source users
+- people came to expect like a SLA
+- uptime
+- volunteers get forgiveness
+- they may not be awake
+- up, fast, professional support
+- It was a company.  It could do this.
+- unthinking use level
+- only in last six months or so seeing chinks in armor
+- why is this a problem?
+- incentives not aligned with yours
+- Node part of OpenJS Foundation
+- community resource
+- funded by corporations, but not by any one corporation
+- turtles climbing over each other
+- checks and balances
+- where the community needs Node to go is where it goes
+- the things we give away to each other ... to build the web with
+- advertising from npm client
+- VCs would proudly suggest to npm
+- package maintainers doing that, backlash
+- find some way to get the money
+- Adam: "great adventure"
+- Adam: payback process
+- New Master
+- if you come up with a product that pays the bills
+- wouldn't be having conversation if found a way to monetize
+- couldn't turn their biggest expense into income
+- nearly exponential download graph is cost
+- solid engineering work, not brilliant
+- turned it mostly into linear costs but still continue to rise
+- goal of new CEO was to turn costs into profits
+- got really rocky
+- he's an interesting character
+- surprisingly to me still the CEO
+- questioned assumptions in useful and healthy way
+- earth-shaking: Why do we have to run the public registry?
+- Host: "let's just turn this cost thing off"
+- give the cost thing away
+- why did everyone work there? to run the public registry.
+- mission-driven
+- the public registry was why I cared about my job
+- high impact on the world and developers
+
+## Entropic
+- problems litany in talk kind of depressing, then announced Entropic
+- open source federated package manager and CLI for JavaScript
+- has goals of solving other languages, JavaScript first
+- make it possible for everyone to run their own registry
+- no shouldering centralized burden
+- mirror the part of the registry you use
+- Mastodon's concept of ActivityPub
+- runs a Mastodon instance
+- Chris Dickinson, partner, now joined by Kat
+- understand the set of problems at scale
+- problems with data model
+- knew the problems with the API
+- let's keep working on the mission
+- whoever does this next doesn't need VC money
+- Substack
+- Dominic Tarr
+- give them back their stuff
+- sell access to it if they want to make money
+- want OpenJS Foundation to run an instance
+- something people can run themselves
+- Chris' brain melting out of ears writing sync algorithm
+- Host: Bringing code to the table.
+
+## Continued
+- had been working on it four weeks before talk
+- didn't write a line until day after his last day at npm
+- "I'm not gonna say a darn word for you until you're out."
+- sent design doc back with one change
+- Chris completely rewrote it.
+- SemVer v. npm SemVer
+- diff: twiddle and hat are npm extra features
+- Rust interprets them differently
+- almost but not quite standards
+- how about this but we federate it
+- we had missed working with each other
+- frenetic four weeks of hacking
+- threw away a lot
+- radically different styles
+- Chris hates semicolons
+- CJ likes semicolons
+- trolling each other with code style
+- Chris does two spaces
+- wrote a working registry in four weeks
+- could install through it
+- tarball as unit of communication
+- package.json is a vague document
+- three-line change makes a completely new tarball
+- Kate Marchan tink: talk in terms of files
+- still not rsync blocks-in-files
+- unit of exchange
+- content-addressable storage
+- package as list of hashes
+- package documents grow unbounded, because infinity versions
+- some packages have over 5,000 versions
+- host: no trimming, no truncation
+- CPAN an inspiration
+- network of volunteer sites mirroring packages
+- have all of JavaScript redundant and safe
+- anti-goals: CocoaPods on GitHub, brew
+- GitHub packages
+  - team management
+  - incremental step
+  - aggregation theory
+
+35:35
