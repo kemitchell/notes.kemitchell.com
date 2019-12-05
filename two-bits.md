@@ -32,7 +32,7 @@ Reading Part I took me months.  Reading Parts II and III took me two days.
 
 - "recursive public"  (3)
 
-- Connexions  (3)
+- Connexions project  (3)
 
 - become one more settled form of power  (3)
 
@@ -104,7 +104,7 @@ Reading Part I took me months.  Reading Parts II and III took me two days.
 
 - dot-com boom didn't enrich the people responsible for the software  (110)
 
-- O'Reilly's Open Sources came out in 1999  (111)
+- O'Reilly's _Open Sources_ came out in 1999  (111)
 
 - VA Linux let contributors buy in pre-IPO  (112)
 
