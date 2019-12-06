@@ -33,23 +33,23 @@ Easy to recommend to other intellectual property wonks, but almost entirely for 
 - cross-licensing: game for equals (45)
 - mutually assured litigation (46)
 - post-WWI patent confiscation (47)
-- TODO: A Poor Man's Tale of a Patent
+- [ ] A Poor Man's Tale of a Patent
 - patents to function like cartels, trusts, holding companies before (51)
 - no designer  of "the knowledge game" (52)
 - Dupont-ICI/Nobel (53)
 - "Patent-sharing agreements did exactly the same things that ... cartel agreements did." (53)
 - electric lamp agreement (53)
 - synthetic rubber (54)
-- TODO: Motion Picture Patents Company (54)
-- TODO: British Publishers Traditional Market Agreement (55)
-- TODO: Chemical Foundation (56)
+- [ ] Motion Picture Patents Company (54)
+- [ ] British Publishers Traditional Market Agreement (55)
+- [ ] Chemical Foundation (56)
 - obsessive use of "corporate"
 - enamored with "knowledge game" coinage
 - Berne accession of colonies (75)
 - Universal Copyright Convention
 - Macmillan textbook deals
 - Indian pharmaceutical patent law of 1970 (81)
-- TODO: Japanese special law for software protection (90)
+- [ ] Japanese special law for software protection (90)
 - IIPA member organizations (91)
 - committee power (72)
 - failures to link labor standards and environmental protections to trade (92)
@@ -71,7 +71,7 @@ Easy to recommend to other intellectual property wonks, but almost entirely for 
 - Athens Agreement (183)
 - ancient Egyptian steam engine toy (187)
 - courts approved patent cartels (187)
-- TODO: Alfred Chandler on cartels and antitrust (187)
+- [ ] Alfred Chandler on cartels and antitrust (187)
 - foreign lawyers used to promote TRIPS (191)
 - nondomination as condition of democratic deliberation (192)
 - Olson diffuse public interest (193)
@@ -81,8 +81,8 @@ Easy to recommend to other intellectual property wonks, but almost entirely for 
 - information wealth and double cow patent (198)
 - inequalities table (199)
 - civil concerns trumping utilitarianism (200)
-- TODO: Deepak Somaya (202)
-- TODO: David Soskice (202)
+- [ ] Deepak Somaya (202)
+- [ ] David Soskice (202)
 - developing country vote coalition (208)
 - priority: compulsive licensing of drugs (209)
 - few communist pharmaceutical inventions (210)
