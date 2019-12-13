@@ -1,0 +1,225 @@
+---
+title: Shamans, Software, & Spleens
+subtitle: Law and the Construction of the Information Society
+year: 1996
+star: yes
+people:
+  - James Boyle
+urls:
+types:
+  - book
+tags:
+  - Blackmail
+  - Free Software
+  - Insider Trading
+  - Intellectual Property
+  - Licensing
+  - Open Source
+  - Politics
+  - Politics
+  - Software
+---
+
+## Notes
+- information economy ix
+- social relationships, wealth distribution, belief systems stay the same---just bad science fiction ix
+- rhetorical and interpretive construction ix
+- book: social theory of the information society ix
+- Jetson's Jurisprudence: list tech marvels in hope they'll make related legal rules seem futuristic x
+- "we are driven to confer property rights in information on those who come closes to the image of the romantic author, those whose contributions to information production are most easily seen as original and transformative" x
+- too many IP rights x
+- wrong owners x
+- undervalue sources and audiences xi
+- "unconscious use of the author paradigm" xi
+- public good qualities v. efficiency qualities xii
+- author : information :: divine right of kings : monarchy xi
+- "imperial author" xi
+- corporations employing authors xiii
+- no conspiracy xiii
+- Bellagio Declaration xiv
+- feudal serfs, power loom, tithes xiv
+- [ ] Branscomb's Who Owns Information?
+- legal analysis in isolation, fitting to nearest legal category xv
+- French academics reading each other xvi
+- knowledge/power nexus xvi
+- Ross Perot: electronic town meeting 1
+- academic: collapse of disciplinary boundaries means more readers for my work 2
+- sanctity of IP analogous to freedom of the seas, compensation for national expropriation 3
+- advertisers will know everything 3
+- not slavemasters but creators 5
+- National Information Infrastructure 6
+- homologization, liquidity of information forms 7
+- classic public goods problem 8
+- Locke: property must leave enough and as good for future claimants 9
+- universal service 10
+- IP : information society :: wage-labor nexus : 1900s 13
+- copyright:
+  - fence to keep the public out, scaffolding for billboards in marketplace of ideas 18
+  - The most basic questions continually 19
+  - ample precedent ... almost every ... issue ... every conceivable direction 19
+  - breakdown of simplifying assumptions, constant return to first principles 19
+- blackmail: legal to do as threatened 20
+- insider trading: how harmful? 21
+- UC exploitation of John Moore's spleen 22
+- California Supreme Court vivid picture of research community 23
+- compromise exchange of scientific materials 24
+- recurring pattern of contradictions 24
+- equality only in public sphere 26
+- fear of state power invading private sphere 26
+- placing issues in public or private realm 27
+- egalitarianism and vigorous debate 28
+- information treated as both finite and infinite 30
+- Scottish Enlightenment social hopes for commerce and exchange 32
+- changed their minds, but US only heard optimistic message 32
+- argue _both_ noninterference in market _and_ free speech, equal protection 33
+- autodialers 33
+- line drawing or typing divorced from ideals 34
+- no Godel in economics 36
+- motivation versus efficiency 37
+- "To postulate efficiency ... assume away the incentive to product.  To postulate the incentive ... make efficiency impossible." 37
+- [ ] Easterbrook, Intellectual Property is Still Property 220 n.9
+- offering price versus asking price 220 n.9
+- INS v. AP 37
+- "aporia" 39
+- price as public good 40
+- secret stock market 40
+- Chicago Board of Trade v. Dow Jones 40
+- Feist 41
+- [ ] without intellectual property, information production to gain temporary advantage, no greater allocation effect 42
+- avoid tension by falling back on romantic author 42
+- pushes toward incentives-commodity 42
+- law and economics blind spots 227
+- scientistic 46
+- conceals its indeterminacy through romance 46
+- bundles of rights change with utilities 49
+- day-to-day property rules sacrifice role in liberal vision 49
+- 18th Century Germany: impoverished authors household names 52
+- Medieval churches: against new authorship, scribes copy old works 53
+- divine inspiration God's not vessel's 54
+- originality 54
+- disaggregation: physical item, idea, expression 55
+  1.  limited rights with eliminating property 56
+  2.  moral justification 56
+  3.  separate author treatment from laborers in craft and industry 57
+  4.  public gets idea, authors gets expression 58
+- economics doesn't render romantic authorship unnecessary 58
+- solution to a series of ideological problems 60
+- blackmail as legal-theory test-case 61
+- analogy to baseball team demands of home city to stay 61
+- preserves state monopoly on law enforcement 62
+- "all trade involves threatening not to do something unless certain demands are met" 67
+- absolute terror: private law assuming a redistributive function 76
+- social belief: some things not reduced to cash 77
+- blackmail: victim decides whether the information is bad 77
+- privacy vision of information 79
+- commoditifcation of the private, e.g. contracts for sex, baby selling 78
+- statutory island of egalitarianism at the very heart of capitalism 83
+- "say things about ... disparate access to information which they would never say about ... wealth ... power or property" 90
+- just because trading on information that we have egalitarian regulation 90
+- "The writ of equality does not run to the marketplace." 90
+- nonrational association of information with the public sphere 90
+- entrepreneur as romantic author 92
+- Schumpeter: entrepreneur doesn't need large returns for motivation 93
+- terse summary of romantic author justification and use 98
+- "The court bumbles and pontificates, apparently at random." 99
+- examples of common, non-absolute kinds of property 100
+- analogies to right of publicity 101
+- genetics: no labor, but unique? original? 104
+- privacy: social, not natural, facts 105
+- "Authorship devalues sources." 107
+- "Moore was the author of his destiny, but not of his spleen." 107
+- different reified visions of information 109
+- blackmail analogous to wrongful birth cases 109
+- typing not so deeply rooted 110
+- analogy: connect untyped facts to other facts already typed 111
+- information immune to critique of reification 112
+- Prodigy censorship case 112
+- protecting legitimacy and suasion of liberal world view 113
+- what IP law has to do 114
+- figure: romantic author
+  theme: originality
+  conceptual distinction: idea v. expression 114
+- information : neoclassical economics :: rent : classical economics 115
+- "international authorial dystopia" 119
+- analogy: resources of deep seabed 125
+- "causes of tilt" 125
+- authorial regime values raw material at $0 126
+- community v. individual
+  tradition v. innovation
+  evolution v. transformation 126
+- neem tree pesticide 126
+- [ ] Posey and Duffield's Beyond Intellectual Property Rights
+- drug company high yield from testing shamans' black bag of plants 128
+- Madagascar biodiversity like an Arab oil sheikdom 128
+- colonial form of IP 129
+- data banks → no conservation motive 129
+- "bunker ideology" 129
+- "transformative" taints fair use with author ideology it was meant to limit 131
+- ex nihilo or with minimal cultural debts 132
+- IP in computer programming 132
+- [ ] RMS' League for Programming Freedom 132
+- [ ] Nu Prometheus chip trade secret theft 133
+- patent litigation grew 50% in 1980s 133
+- Reagan administration: Justice stopped antitrust actions versus firms refusing to license patents 134
+- Al Gore: universal access for all Americans 135
+- White House's information toll road 135
+- National Information Infrastructure White Paper 135
+- it's complicated 137
+- constitutional limitations 138
+- "dogged consistency ... unlikely passion" 138
+- drug companies: spend more on ads than R&D 140
+- questions for interrogating an IP regime 140
+- developing world outputs tawdry and shallow, developed world outputs noble and fine 142
+- [ ] Peter Jaszi 143
+- [ ] Martha Woodmansee 143
+- typing: make and avoid moral judgment 144
+- "moral lexicography" 144
+- Gay Olympic Games 145
+- "state grant of a monopoly rent on a piece of the linguistic landscape" 145
+- "homestead law on the English language" 146
+- state censorship not only threat 148
+- While England Sleeps 148
+- "biddable nature" 150
+- Chimpy the human-chimp worker 150
+- reinvent slavery, hide from ourselves 153
+- "Creation of nonhuman intelligences could be understood as the ultimate act of authorship." 154
+- "definitional denial" of consequences 155
+- "speechways" 158
+- [ ] Clause 1.5 of ACM Code of Ethics
+- lack of coalition politics for the public domain 168
+- too little incentive for databases 169
+- "Any legal rule ends up covering both too much and too little." 171
+- "two-size-fits-all" 171
+- sui generis regime for software 171
+- proposed reforms:
+  - 20-year copyright term, clearer fair use 172
+  - sui generis software rights 172
+  - tax and revenue sharing for ethnobotanists' drug discoveries 172
+  - void patents paid out by first-to-market benefit alone 172
+  - periodic audit of IP incentives 172
+- against expansion via trade sanctions 172
+- "focal point of a language of entitlement" 173
+- "Information is different." 174
+- "information ... only resource ... 'supposed' to be distributed in an egalitarian manner" 174
+- courts willing to void contracts for unequal information 174
+- false premise: have to surrender of rigorous balancing framework 175
+- "Authors and inventors _do_ need to be encouraged, protected, lauded, and rewarded." 176
+- "Creative labor" 176
+- "work and play" 176
+- "Workers have a real connection to and control over the fruits of their labors" 176
+- fears about information 176
+- Marx: wealth socially produced but privately appropriated 177
+- class system: information manipulators and data sources 177
+- tactic: counter-rhetoric of entitlement 177
+- authors, coders, artists, engineers don't inherit the earth 178
+- indifferent to needs and interests of actual authors and creators 178
+- undervalue public domain → too many IP rights → oligopolies 179
+- information overload 179
+- too much legal time on leveraged buyouts 179
+- "hyperlexis" 179
+- specialization, balkanization of disciplines, fixation on authority, cross-references, citation 180
+- ironic footnote 180 n.5, 257
+- information pollution 180
+- Almost anything better than "if only...". 184
+- "Societies justify themselves; they have to." 187
+- method qualifications 188
