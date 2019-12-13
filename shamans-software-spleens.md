@@ -185,7 +185,7 @@ tags:
 - "Creation of nonhuman intelligences could be understood as the ultimate act of authorship." 154
 - "definitional denial" of consequences 155
 - "speechways" 158
-- [ ] Clause 1.5 of ACM Code of Ethics
+- [ ] Clause 1.5 of [ACM Code of Ethics](https://ethics.acm.org/code-of-ethics/)
 - lack of coalition politics for the public domain 168
 - too little incentive for databases 169
 - "Any legal rule ends up covering both too much and too little." 171
