@@ -19,5 +19,5 @@ tags:
 - All information should be free.
 - Mistrust authority.  Promote decentralization.
 - Judge hackers by their hacking.
-- Create and art and beauty with computers.
+- Create art and beauty with computers.
 - Improve your life with computers.
