@@ -93,3 +93,53 @@ tags:
       - UNICEF: values-based software development principles
       - codes of conduct
       - vote with our code
+
+## Q&A
+
+1.  - Question
+      - Eben Moglen's stack of morality of freedom
+      - opportunity theory
+      - young people ... opportunity to develop capability
+    - Answer
+      - would disagree
+      - concrete empowerment sells movement
+      - do emppower people who want to hack code
+2.  - Question
+      - less empowering stack than used to be
+      - means of software also changed
+      - services
+      - mobile
+    - Answer
+      - huge challenges
+      - industry has shaved off rough edges
+      - not so big an advantage over them
+      - got into free software because Office crashed repeatedly during poli. sci. paper
+      - Office is pretty good these days
+      - killer app for privacy is a social app with privacy as a feature
+      - privacy and freedom secondary to communicating with friends and family
+4.  - Question
+      - P2P foundation peer production license
+      - licensing fees or contribution back
+    - Answer
+      - need to think about sustainability
+      - dump code on the Internet
+      - "I did a good thing."
+      - time to experiment on licensing
+      - noncommercial use worth thinking about
+      - pay for IRC channel moderators
+      - better for freedom overall?
+5.  - Question
+      - do not have versus not exercising capability
+    - Answer
+      - no organized answer
+      - different methodologies
+      - e.g. Nussbaum's surveys
+      - non-license: usability, security, collaboration...
+      - balances between them can be argued
+      - secondary to asking question in the first place
+6.  - Question
+      - separating users and developers
+      - contribute other than code
+    - Answer
+      - UNICEF measures user collaboration
+      - empowerment v. engagement
