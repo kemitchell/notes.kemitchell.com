@@ -21,7 +21,7 @@ tags:
 - philosophers before Richard Stallman ... laugh
 - John Locke
   - badly plagiarized by Thomas Jefferson
-  - natural rihts
+  - natural rights
   - empowerment as part of justice
   - the best system is one people agree to
   - native right
@@ -50,7 +50,7 @@ tags:
       - UN development recommendations
       - being alive
       - life expectancy
-      - Nussbaum interviews about priorities, releal local nuances
+      - Nussbaum interviews about priorities, reveal local nuances
       - democratic choices
       - democracy prevents famine
 - state of the art: what are people able to do?
