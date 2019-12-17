@@ -1,0 +1,158 @@
+---
+title: Just for Fun
+subtitle: The Story of an Accidental Revolutionary
+people:
+- Linus Torvalds
+- David Dimaond
+types:
+- book
+year: 2001
+tags:
+- Open Source
+- Linux
+- Linus Torvalds
+- Free Software
+---
+
+- "How on Earth was he going to meet any nice girls that way?" --- Anna Torvalds
+- "But those improvements should also be freely shared." ix
+- Torvalds dart board target at Microsoft ix
+- "The more successful Linux and open source become, the less he wanted to talk about it." x
+- volunteered for dunk tank x
+- survival, social order, entertainment xviii
+- example: sex xviii
+- "I was an ugly child." 3
+- "These days, I dress pretty much exclusively in vendorware." 5
+- "It's the greatest feeling." 8
+- programming---indoor sport 9
+- divorce 10
+- Lutheran, Catholic 11
+- "After he dies, the machine comes to live with you." 12
+- Swedish speaking family 13
+- free university 13
+- "Torvalds" a concocted name 14
+- father active in Communist Party 15
+- family of journalists 16
+- less sophisticated computers better for kids 17
+- How could anyone so brilliant possibly be so uninterested in getting rich? 21
+- got into OS to fix Sinclair floppy driver 44
+- Tanenbaum's OS book 51
+- UNIX philosophy 54
+- ugly system: special interfaces 55
+- technical flower power people 57
+- Free Software does intentionally what UNIX did by accident 58
+- first PC 60
+- terminal emulator 62
+- Peter Anvin started collection to pay off Linus' PC 64
+- "I always felt it was important to not have asked for money or begged for money..." 64
+- feedback loop bootstrapping shell 83
+- "Linux" too egotistical 84
+- Freax 84
+- "once you solve ... fundamental problems ... lose interest" 90
+- dialed HDD, corrupting Minix install 90
+- page-to-disk: first feature for someone else 91
+- Minix didn't page to disk 92
+- Mark Williams Company's Coherent OS 92
+- strong shareware tradition 93
+- academic tradition 94
+- I didn't want to sell Linux.  I didn't want to lose control. 94
+- rules: don't sell, make changes available to everyone 94
+- don't want people to take advantage 94
+- see what they were doing 95
+- use those improvements myself 95
+- keep it pure. money ... murky 95
+- costs of physical media 95
+- backlash protection 95
+- shoulders of giants 96
+- GCC 96
+- "But unlike many hard-core GPL freaks ... I believe it should be the right of the individual inventor to decide what to do with his or her invention." 96
+- worries about enforcement 96
+- immoral: for the quick money 97
+- Greed is never good. 97
+- "Your typos and errors will haunt you forever." 106
+- Thank God for Microsoft Power Point 114
+- research assistant: work on Linux 115
+- 0.95 versioning mistake 116
+- two years for networking 116
+- Internet Cabal Usenet vanity stats 118
+- "I truly did not have a life." 118
+- lead by letting people do what they want to do 121
+- success from personality flaws:
+  1.  lazy
+  2.  I like to get credit for the work of others. 121
+- credit and esteem 122
+- Tove was student in CS course 123
+- Tove asked him out in response to homework to send an e-mail 123
+- trademark dispute 133
+- vague assurances from Transmeta about Linux work 147
+- antiestablishment sentiment 161
+- idealists v. pragmatists 163
+- letting everybody play 164
+- having fun over making world a better place 165
+- going commercial as a new option 164
+- unreasonableness of strong opinion 165
+- Benevolent Dictator 168
+- flopped as manager at Transmeta 169
+- $1m Red Hat IPO payday 173
+- voicemail: send a fax 186
+- open source: they can just do the stuff themselves 190
+- no official version of Linux 190
+- trust because I've been trustworthy 190
+- no self-effacing monk or saint 190
+- Linus "God" Torvalds 191
+- People take me too seriously 192
+- against imposing views on others 193
+- GPL zealots 194
+- not getting left out 195
+- "This is the abortion issue of technology." 195
+- RMS: black and white, fanatic 195
+- licensing shouldn't be political 195
+- strongly against ESR on guns 196
+- ESR gets me wrong 196
+- against institutionalizing morals 196
+- abusive e-mail 203
+- San Jose doesn't have night life. 204
+- schizophrenic on IP 204
+- sacred creator-creation bond not to be severed 205
+- "Flaw: no consumer protection" 207
+- inspiration v. copying 207
+- clearinghouses of IP 207
+- patent, TM, TS: heavy drugs of IP 208
+- "intellectual snobbism---the you-can't-buy-a-genius philosophy----doesn't really work as a long-term business model" 211
+- great art v. slow and steady progress 211
+- less romantic appeal 211
+- Scientology trade secrets 213
+- "The way to survive and flourish is to make the best damn product you can.  And if you can't survive and flourish on that, then you shouldn't." 215
+- "Success is about quality and about giving folks what they want.¶ It's not about trying to control people." 215
+- control through technology hinders acceptance 218
+- Java strategy 218
+- contrast: Palm 219
+- what people _want_ 222
+- "if we're still talking in a big way about operating systems fifteen years from now, something is seriously wrong" 222
+- Sony as next Microsoft 223
+- communication 223
+- "IBM is a company with a history of screwing people over." 225
+- PC best illustration of open source benefits 225
+- ideology 225
+- GPL ... anticopyright 225
+- Open Law Project 226
+- "Think Zen." 226
+- passion, having fun, esteem of peers 227
+- how religion perceived science 227
+- science itself doesn't make money 228
+- letting the universe take care of itself 229
+- free speech 229
+- difficulties in releasing closed projects 230
+- Wapit 230
+- "With so many dollars floating around, people start questioning your motives." 233
+- "Open source is not for everyone or every project or every corporation." 233
+- progress past male-dominated scene 238
+- Linus's Law of life 243
+- "It is society that changes technology, not the other way around." 244
+- evolution:
+  1.  survival
+  2.  social relations
+  3.  entertainment 245
+- Survive.  Socialize.  Have fun. 246
+- evolution of sex 246
+- "Past the information society, the entertainment society." 248
