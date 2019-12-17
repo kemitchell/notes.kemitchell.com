@@ -20,7 +20,7 @@ layout: none
       {% for year in sorted_groups %}
       {% if year.name %}
       <ul>
-        <h2>{{year.name}}</h2>
+        <h2 id="{{year.name}}">{{year.name}}</h2>
         {% assign sorted_pages = year.items | sort: "title" %}
         {% for page in sorted_pages %}
         <li>{% include page_link.html %}</li>
