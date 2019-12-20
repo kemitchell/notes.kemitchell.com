@@ -22,9 +22,14 @@ tags:
 - Connaughton's The Blob 10
 - Eric Schmidt's The Creepy Line 11
 - "just keep us safe and won't ask about the details" 13
+- ambient surveillance 14
+- credit castes 15
+- self-preventing prophecy 16
 - "Credit bureaus pioneered black box techniques" 22
 - health scores 26
+- cascading disadvantages 32
 - "Consent is the universal solvent." 35
+- purple squirrels 36
 - Lower Manhattan Security Coordination Center 43
 - parallel records to justify surveillance AKA parallel construction 47
 - intelligence v. investigation 47
