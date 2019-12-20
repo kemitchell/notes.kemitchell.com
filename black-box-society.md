@@ -1,11 +1,13 @@
 ---
 title: The Black Box Society
 subtitle: The Secret Algorithms That Control Money and Information
+year: 2015
 types:
 - book
 people:
 - Frank Pasquale
 tags:
+- Law
 - Law Professors
 - Privacy
 - Security
