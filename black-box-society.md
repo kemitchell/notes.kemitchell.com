@@ -1,0 +1,128 @@
+---
+title: The Black Box Society
+subtitle: The Secret Algorithms That Control Money and Information
+types:
+- book
+people:
+- Frank Pasquale
+tags:
+- Law Professors
+- Privacy
+- Security
+- Technology
+- Finance
+- Public Policy
+---
+
+## Notes
+- knowledge problems created by business 2
+- strategies:
+  1.  legal secrecy
+  2.  obfuscation 6
+- Connaughton's The Blob 10
+- Eric Schmidt's The Creepy Line 11
+- "just keep us safe and won't ask about the details" 13
+- "Credit bureaus pioneered black box techniques" 22
+- health scores 26
+- "Consent is the universal solvent." 35
+- Lower Manhattan Security Coordination Center 43
+- parallel records to justify surveillance AKA parallel construction 47
+- intelligence v. investigation 47
+- Internet routes around privacy 56
+- "better user experience" 61
+- App Store rejections 62
+- "murketing" 71
+- regulatory arbitrage 77
+- "Competitive striving ... as much to trample privacy as to protect it." 81
+- Silicon Valley no longer wide open 81
+- Google data centers use as much power as Salt Lake City 82
+- [ ] Quaero Project 82
+- Matthew Effect: to those who have much, much is given 82
+- SV monetizes what should be open licensed 83
+- compensation for contributors 85
+- Walmart: attract consumers, squeeze suppliers 85
+- Lessig: Google as Mona Lisa 86
+- endlessly leverage past successes 87
+- Grewal: English network effects 87
+- Murdoch: "Man is a creature who makes pictures of himself and then comes to resemble the picture." 89
+- common carrier regulation 90
+- for search 91
+- YouTube changed policy once established 94
+- Google: crackdown just another way to make results better 94
+- Citizens United enables tech platforms to charge more for audiences 96
+- people thought of Google as their agent 97
+- Langdon Winner: "technological somnambulism" 98
+- "murketing" 98
+- criticism of Tim Wu's _The Master Switch_ 98
+- [ ] Robert Lee Hale's _Freedom Through Law_ 99
+- "ratemaking" 99
+- when government avoids picking winners, finance does 100
+- "never events" 102
+- AIG hired to investigate own unit 104
+- automation bias 107
+- "Art Department" altering loan apps 107
+- no-income, no-job, no-asset (NINJA) 108
+- S&P froze training set to keep giving high ratings 110
+- insurance instead of process improvements 113
+- AIG as private FDIC 114
+- mark to model accounting 117
+- robo-signing 119
+- Mortgage Electronic Registration System 120
+- foreclosure fraud settlement 120
+- LIBOR fixing 121
+- erasable Internet 123
+- mental capacity to lie to ourselves 124
+- Dodd-Frank: Rube Goldberg legislation with enough loopholes and wiggle room 127
+- little chance of democratic reform of finance 127
+- quote stuffing 131
+- spoofing 132
+- Berkshire Hathaway goes up when Anne Hathaway makes the news 132
+- feedback: trading and text about trading 132
+- markets: rebuild confidence, social security: reform 133
+- too big to fail: "doom loop" 133
+- martingale strategy: double down after loss 133
+- centralization and self-reference 136
+- "boring" label 137
+- better at creating demand than meeting it 138
+- startups: get bought by incumbents 141
+- American regulators: elaborate monitoring, no meaningful fines, full employment for compliance people and lawyers 143
+- data brokers refuse to name services due to NDAs with them 145
+- meanings of "code" 149
+- Fed hired HIPAA auditors 150
+- FIRE (finance, insurance, real estate) 152
+- Truth and Reconciliation Commission for post-9/11 politicized intelligence 156
+- immutable audit logs 157
+- Office of Financial Research the CIA of finance 169
+- LEI 170
+- FATCA 171
+- Judge Jed Rakoff 172
+- [ ] Jed S. Rakoff in New York Review of Books 172
+- Darcy Flynn v. SEC document destruction 176
+- S&L: 10k referrals for prosecution, 1,400 jailed 176
+- 2008: <100 referrals 176
+- financial regulators could license new financial products 181
+- [ ] Posner & Weyl, An FDA for Financial Innovation 181 n.153, p. 294
+- CFPB "vanilla mortgage" 181
+- corporations and government surveil citizens, not the other way around 183
+- 9/11 v. 2008 response 184
+- laws versus undercover investigation of factory farms 186
+- Brin: "the perfect search engine would be like the mind of God" 187
+- _Union Atlantic_: high of gambling in finance 190
+- most important information out of reach 191
+- "precariat" 191
+- price of FDIC was risk regulation 192
+- technolibertarianism 196
+- government hired Palantir v. Wall Street 197
+- speculation: scale at speed 197
+- makers, takers, fakers 202
+- compulsory licensing separates compensation for works from control over their use 202
+- [ ] Fisher's _Promises to Keep_: tech tax for content creators 202
+- "public option" for content creation 203
+- privilege policing and punishment, marginalize welfare state 203
+- gaming downloads and views counts 204
+- artists and entrepreneurs: wealthy spouse or family 205
+- "circularity", not "capture" 207
+- open source credit scoring 208
+- Sputnik moment: Chinese investment in infrastructure, education, rare earths, green technology 211
+- "bienpensant" 211
+- Hayek: information distributed, doesn't just apply to the state 214
