@@ -34,7 +34,7 @@ tags:
 - research from former members
 - not that many alt-right formers yet
 - avoiding diatribe: sound smart, no sense, Jordan Peterson
-- through-terminating cliche: from brainwashing research, Ben Shapiro
+- thought-terminating cliche: from brainwashing research, Ben Shapiro
 - peripheral-route processing: secondary characteristics, delivery
 - direct-route processing: assess content
 - alt-right, like modernism, label for a trend
