@@ -206,3 +206,67 @@ tags:
 - odd responses to replacing intrinsic with extrinsic motivation
 - overjustification effect
 - money: favor compensation proportional to work
+- [ ] Ruth Grant's _Strings Attached_
+- incentive schemes perpetuate themselves
+- Gamification by Design
+- Jane McGonigal's _Reality is Broken_
+- game to make relatives call and check in after injury
+- never worked a day in her life
+- FoldIt
+- Chromarama
+- Soviet planners gamification enthusiasts
+- imprisoned Nigerian poet Wole Soyinka wrote with whatever he could improvise
+- shit crayons
+- inefficiency shelters us from Taylorism and market fundamentalism
+- when inefficiency deliberatively committed, no need to eliminate
+- "the social web can't exist until you are your real self online"
+- ad companies pushing authenticity
+- moral NIFF authentic
+- authenticity by sharing more
+- no one achieves true authenticity on Facebook
+- 1950s: uniformity v. conformity
+- automatic parking meters
+- virtue
+- maximum deliberative efficiency
+- "narrative imagination" / "systems thinking"
+- José Ortega y Gasset: "to be an engineer ... is not enough to be an engineer"
+- not just efficiency
+- "One of the greatest misconceptions of the last few decades has been the idea that technology ought not to intrude on questions of morality, that it ought to tread its own carefully delineated path, separate from that of humans and their political projects, like liberalism."
+- [ ] Jacques Ellul
+- Neil Postman's technopoly: culture seeks its authorisation in technology, finds its satisfactions in technology, and takes its orders from technology
+- long past its expiration date
+- [ ] Oscar Wilde on slavery of the machine
+- Victorian values depended on watches, running water, glasses
+- politics can be preferable to technology
+- no "right" way to design system
+- "user-unfriendliness" and "para-functionality"
+- Caterpillar as writhing extension cord when on standby
+- friction as productive resource
+- Forget Me Not light
+- pull of functionalism: predefined functions and purposes
+- "adversarial design"
+- endless antagonism and contestation
+- Home Depot rubber tree installation, died of overwatering
+- games that persuade without allowing deliberation coerce, not persuade
+- Fatworld
+- grown-ups don't hide from consequences
+- replace psychology fetish with philosophy fetish
+- usability: counting calories on the Titanic
+- altruism like sexual potency
+- moralizing makes us more ambivalent
+- simplistic models of humanity
+- "procedural logic"
+- Howard Dean for Iowa game
+- Paul Ricoeur: sense of self from taking others' perspectives
+- Google's chief lawyer dismissed concerns about data online
+- "Well, computers don't work that way."
+- fake novelty
+- geeks and engineers not conservative
+- radical self-doubt
+- "the Internet" can't explain other things
+- Internet-centrism and solutionism feed on each other
+- [ ] MP3: The Meaning of a Format
+- last 100 years: every generation felt it was on the edge of technological revolution
+- "Thinking that you are living through a revolution and hold the key to how it will unfold is, I confess, rather intoxicating."
+- "venerate an imaginary god of their own creation"
+- enemy: romantic, revolutionary problem solver
