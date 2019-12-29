@@ -1,0 +1,122 @@
+---
+title: To Save Everything, Click Here
+subtitle: The Folly of Technological Solutionism
+people:
+- Evgeny Morozov
+types:
+- Books
+year: 2013
+tags:
+- Technology
+- Politics
+---
+
+- as technology gets smarter, less room for interpretation
+- Wikipedia works in practice but not in theory
+- sidestep criticism by painting critics as curmuedgeon-conservatives
+- post office v. Tim Wu
+- more transparency → more personal data in databases
+- common goals with Lessig, but critical of methods
+- chief tenet of Internet centrism: conflate physical networks with ideologies running through them
+- "the spirit of the Internet" a myth concocted by overzealous legal activists
+- bouncing: use of data collected for one purpose for another
+- highlighting and shading: same data have disproportionate effect
+- Lessig talks given lots of credit
+- transparency as intrinsic value v. instrumental value
+- state position publicly → less likely to change our minds
+- most citizens not interested in policy decision making
+- exposure to how government works won't make people feel better
+- "snowing"
+- Internet-centrism and solutionism feed on Enlightenment power of information
+- 1970s: discursive shift toward economics
+- ideas seen as independent of infrastructure transporting and other ideas
+- "transparency" and "openness" and ambiguous
+- Chris Kelty
+- "there is no geek consensus on the merits of openness at all"
+- Kenyan government enthusiastic about "open government"
+- "armchair auditors"
+- might be euphemism for "small government"
+- "Building data sets and hoping that they will be used for 'good' purposes only is no longer enough."
+- visualizing neighborhood crime:
+  - harder to sell properties
+  - less willing to report crime
+- Pirates political party
+- "Internet freedom"
+- good chance copyright laws unjust and inadequate---but this needs to be empirically demonstrated, not simply assumed from their supposed incompatibility with the spirit of the "the Internet"
+- "Internet freedom" leading to "human freedom"
+- Liquid Feedback
+- Pirates as hopelessly apolitical
+- "people are ultimately yearning for strong individuals who want to take responsibility and stand for something"
+- Pirates: only meaningful positions on digital issues
+- Pirates v. Anonymous: faith in politics generally
+- California: people vote on everything
+- "voting is all that's left"
+- new rhetoric: trace back to Clay Shirtky's _Here Comes Everybody_
+- ruck.us
+- "Wired-reading cyberlibertarian from California"
+- "antipartyism"
+- entrenches pluralism
+- "Boredom with established truths in the great enemy of the free man." --- Bernard Crick
+- If bargaining could always lead to win-win situations, no politics would be necessary.
+- the citizen, unlike the consumer, is not always right
+- humility and sacrifices
+- public institutions: goods and services markets can't or shouldn't provide
+- citizen responsibilities v. citizen rights
+- who will watch the truth hunters and the innovators?
+- PolitiFact bubble
+- hypocrisy, inconsistency, ambiguity
+- truth-telling can empower the powerful, lying can be a tactic of the weak
+- ambiguity helps translate intentions to results and purposes
+- without ambiguity, conflicts may not be resolved
+- Lessig: reengineer laws around Internet
+- "the Internet" eliminates leaders, hierarchies
+- Peter Thiel
+- "open government" feeds data to intelligence industry
+- PayPal: new world currency
+- technology: few resources scarcely, mainly inaccessible
+- impatient with politics ... think that it involves nothing but talk
+- somehow conflict is bad for politics
+- pluralism as bug, not feature
+- disagreements because people misinformed
+- fixing politics before understanding it
+- ethical automatons
+- science has no moral code
+- failure of #occupywallstreet to "friend" on Twitter
+- French military engineers "technocratic pose"
+- myth: memes go viral of their own will
+- "digitalism dualism"
+- Trust Me, I'm Lying
+- Facebook's EdgeRank
+- "mechanical objectivity"
+- destroy debate ased on whole polis having access to some stories
+- NYT may invest in Albany coverage because they don't know how many readers pay attention
+- myth: Internet ridding us of gatekeepers and intermediaries
+- proliferation of intermediaries made blogging widespread
+- hyperintermediation
+- Jeff Bezos and Kindle
+- "innovation talk"
+- "tool talk"
+- Nazis used 625,000 horses in invasion of Soviet Union.
+- [ ] Benoit Godin history of "innovation"
+- Zagat: Union Square Cafe number 1 restaurant in New York
+- great chefs create educated consumers
+- Oakland ShotStopper
+- "predictive policing" epitome of solutionism
+- PredPol
+- platforms predicting lawbreaking on platforms
+- Facebook PhotoDNA
+- Facebook: algorithms less intrusive than people
+- Silicon Jungle
+- Situational Crime Prevention
+- subway turnstile designs
+- NY: violated fire code, prevented NYPD pursuit
+- no turnstiles in Berlin
+- perversity-futility-jeopardy
+- Disneyland Autotopia
+- registers: moral, prudential, practicability
+- casinos ban addicts who sign up for register
+- "nudges" and "choice of architecture"
+- nudging: solutionism by other means
+- questions cast into laws and norms harder to change
+- law enforcement: only want perfect technologies
+- digital preemption
