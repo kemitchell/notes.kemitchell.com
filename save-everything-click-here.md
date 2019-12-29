@@ -7,8 +7,9 @@ types:
 - Books
 year: 2013
 tags:
-- Technology
+- Internet
 - Politics
+- Technology
 ---
 
 - as technology gets smarter, less room for interpretation
@@ -88,7 +89,7 @@ tags:
 - Trust Me, I'm Lying
 - Facebook's EdgeRank
 - "mechanical objectivity"
-- destroy debate ased on whole polis having access to some stories
+- destroy debate based on whole polis having access to some stories
 - NYT may invest in Albany coverage because they don't know how many readers pay attention
 - myth: Internet ridding us of gatekeepers and intermediaries
 - proliferation of intermediaries made blogging widespread
@@ -158,7 +159,7 @@ tags:
 - LE suspects people without cell phones
 - suspicion of Facebook holdouts
 - "personal prospectus"
-- privileged excited to shrae data
+- privileged excited to share data
 - Rate My Drive
 - Leibniz: music as "occult exercise in mathematics performed by a mind unconscious of the fact that it is counting"
 - Want easy? Gorge on TED talks.
