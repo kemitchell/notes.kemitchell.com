@@ -178,3 +178,31 @@ tags:
 - curation
 - Facebook "frictionless sharing"
 - writing like inexperienced teenager
+- "Unjust societies make for simplified projects since they hold forth the promise that success in winning one social good can be converted into general success."
+- Truth above all else
+- lifeblogging: computer and human memory equivalence
+- Proust: narrative imagination
+- nostalgia: repetition of unrepeatable, materialize immaterial
+- memory unthinkable without selection
+- Holocaust remembrance: years and years of recording
+- file expiration dates
+- blotting out: deleting
+- crossing out: covering up
+- Information Diet
+- class and income affect health of food
+- "political backpacking"
+- citizens can't and won't know and care about every issue
+- no delegation without deliberation
+- no greater role for technology in politics when hasn't shown respect for responsibilities
+- wardrobe of global concerns
+- every new invention promises for increased understanding
+- Google News gave badges for reading
+- best video games not exhausted by reward system
+- gamification
+- "It's all money in and no money out."
+- WiiSports: kids stopped other exercise
+- citizenship: do the right thing for the right reasons
+- B.F. Skinner and Fredrick Taylor
+- odd responses to replacing intrinsic with extrinsic motivation
+- overjustification effect
+- money: favor compensation proportional to work
