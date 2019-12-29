@@ -120,3 +120,61 @@ tags:
 - questions cast into laws and norms harder to change
 - law enforcement: only want perfect technologies
 - digital preemption
+- if citizens can't break the law, government loses a way to learn from citizens
+- civil disobedience
+- code is law---but so are turnstiles
+- easier to rely on bouncers that send exclusionary vibes
+- some clubs ask patrons for Facebook info
+- race as proxy for involvement in criminal justice
+- elite Rio beaches
+- "digital defeatism"
+- Kevin Kelly's What Technology Wants
+- what we make of it v. autonomous force
+- technology wants same things as evolution
+- macroscopism: everything analyzed based on fulfilling needs of humanity as a whole
+- self-determination, e.g. by Amish
+- "The Nazis heard the voice of technology: it informed them about gas chambers."
+- Kurzweil: Moore's Law akin to natural law
+- no such law
+- revised several times
+- "Science Finds---Industry Applies---Man Conforms"
+- Kodakers: amateur paparazzi
+- early 20th century noise abatement
+- fingerprint scanners fail on Asian women
+- iris scanners miss wheelchair riders
+- hard to fingerprint people who work with hands
+- datasexuals
+- "Taylorism within" 
+- "pocket registrator"
+- "personal analytics"
+- numbers can reveal a core and stable self---if only we get the technology right
+- if you're not unique, you're not measuring enough
+- new asset class
+- privacy to property rights
+- "ryanairation of social life"
+- RyanAir proposed changing for bathroom visits
+- The Start-Up of You
+- only own action,s never environment
+- LE suspects people without cell phones
+- suspicion of Facebook holdouts
+- "personal prospectus"
+- privileged excited to shrae data
+- Rate My Drive
+- Leibniz: music as "occult exercise in mathematics performed by a mind unconscious of the fact that it is counting"
+- Want easy? Gorge on TED talks.
+- [ ] The Emergence of a Citation Cartel
+- maters of facts v. matters of concern
+- optimizing, not thinking
+- Illich
+- watch out for positive feedback loops
+- "contextual discovery"
+- discovery, not search
+- ultimate triumph of consumerism
+- power meters
+- licensing effect: given positive feedback, stop thinking about it
+- "Virgos vomit more.  Libras fracture pelvuses."
+- Google science isn't science
+- forgetting always a bug, never a feature
+- curation
+- Facebook "frictionless sharing"
+- writing like inexperienced teenager
