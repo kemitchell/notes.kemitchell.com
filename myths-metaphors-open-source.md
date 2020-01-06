@@ -1,0 +1,104 @@
+---
+title: Myths and Metaphors of Open Source
+people:
+- Daniel Compton
+types:
+- talks
+urls:
+- https://www.youtube.com/watch?v=uC8Uc_0tlQM
+tags:
+- open source
+- funding
+---
+
+- Roman plumbing metaphors limited understanding of the brain
+- wrong metaphor leads to confused ideas
+- telephone switching metaphor for brain
+- computer metaphors of the brain also wrong
+- language not just a passive descriptor
+- What are the metaphors of computing?
+- desktop metaphor
+- teletype
+- myths, e.g. jargon file
+- UNIX hacker as the "true" programmer ... damaging, constraining
+- open source:
+- competition with closed-source
+- growth as primary
+- commons, tragedy of
+  - debunked by Ostrom
+  - presupposes a scarce good
+  - no marginal cost of distribution
+- likes "infrastructure"
+  - Nadia Eghbal
+- donations
+  - can be the wrong way to frame things
+  - charity
+  - not for ourselves
+- patronage
+  - Rafael's School of Athens
+  - pope's nephew painted in
+  - Patreon
+  - better: corporate sponsorship
+  - problems of influence
+  - all funding from single party
+- vending machine
+  - consumer choice
+  - get up and running quickly
+  - easy to consume
+  - homogeneous method to download, install, work with
+  - solve your problem and move on
+  - no relationship with vending machine
+  - not feeling appreciated
+  - only show up with problems
+- "open source is generous"
+- funding without losing generosity nature
+- "interfaces of open source"
+- issue tracker create-issue screens
+  - GitHub v. Jira
+  - design decisions
+  - put different burdens of work on creators v. posters
+  - GitHub: onto maintainer's plate
+  - change interactions
+  - what patterns of behavior encouraged?
+- contribution streaks on GitHub
+  - removed
+  - greatest of intentions
+  - unsustainable, burnout
+  - silly little number with real effect
+  - "the medium is the message"
+- GitHub Sponsors
+  - add into GitHub interface
+  - "GitHub the medium is sending this message that funding open source is important"
+- Clojurists Together
+  - metaphor: grantmaking organization
+  - started: Pay $150/hour for 12 hours a month, or $1,800
+  - copying Ruby Together
+  - encoded: valuable time
+  - "top-tier development work"
+  - "when you're working, this is what we think you're worth"
+  - "too generous"
+  - "I'd do it for $50 an hour."
+  - round two: grants
+    - $1,800 each month, no hourly rate or hours count
+    - fine
+    - same money, different frame
+- language drives feelings, perceptions, beliefs drives thoughts drives decisions, actions, funding
+- language as the root of the funding problem
+- free, but not worthless
+- new metaphor: partnership
+  - between creators and users
+  - exchange of value
+  - time, money, attention
+  - generative: creates more value than you put in
+  - not transactional
+  - don't have to sign up to use open source
+  - not forced
+- What can you do?
+  - consider how you talk about open source dependencies
+  - people on the other end
+  - talk to your work about supporting
+  - think critically about messages in media that you build
+
+- Andre Arko gave a lot of time
+- SFC is nonprofit parent
+- thanked wife
