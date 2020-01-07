@@ -1,0 +1,136 @@
+---
+title: Open Source is Insufficient to Solve Trust Problems in Hardware
+subtitle: How Betrusted Aims to Close the Hardware TOCTOU Gap
+types:
+- talks
+people:
+- bunny
+tags:
+- Open Source
+- Open Hardware
+---
+
+- "You build open source hardware so you can trust it more."
+- Which web browser is most trustworthy?
+- bias: more open -> more trustable
+- do not read source
+- do not compile from source
+- anyone can pull down source code, build it, check hashes
+- users can know developers and enforce standards upon them
+- tools to transfer trust in software
+  - hashing
+  - public keys
+  - Merkle trees
+  - social networks
+- hashing
+- time of check versus time of use (TOCTOU) difference creates man-in-the-middle opportunity
+- put point of check as close to point of use as possible
+- "secure enclave"
+- place, rather than time
+- hardware: the place of check is not the place of use
+- trust in hardware is a TOCTOU problem
+- firmware
+- hardware implants
+- openness, runtime verification
+- bad news: relying on hardware to run the verification
+- supply chains are not friendly territory
+- replacing secure chips with engineering samples, buffers, and so on
+- 100% hardware verification
+- scary: adding a chip in a package
+  - headlines
+  - Snowden: COTTONMOUTH-I
+  - Snowden: FIREWALK
+  - easy to do
+  - happens every day
+  - MicroSD cards can have 16 chips inside easily
+  - x-ray everything?
+  - solder can mask chips in x-ray
+  - cross-sections
+  - have to remove chips for edge-on x-rays
+  - silicon relatively transparent to x-ray
+  - wirebonded implants
+  - $7k for used AB520 wire bonding machine
+  - through-silicon via (used stacking DRAM)
+  - wafer-lever chip-scale package (solder ball on top of chips)
+  - combination nearly undetectable
+- IC modification
+  - Netlist Tampering
+    - customer-owned tooling expensive
+    - application-specific integrated circuit more common
+    - SOCIONEXT is a billion-dollar company
+  - Hard IP Tampering
+    - RAM density
+    - RF, RAM, ROM, eFuse, pad rings trusted to foundry
+  - Mask Tampering
+    - mask designs change dramatically from what you drew to the production line
+    - editing phase
+    - not born perfect
+    - Dopant tampering
+      - no morphological change
+      - RNGs
+    - spare cell wiring
+    - signal bypass
+- trustable factory?
+- you can't hash hardware
+- tachographic x-ray imaging
+  - needs a building-size microscope
+  - not at your point of use
+- not gloom and doom
+- principles
+  1.  complexity is the enemy of verification
+  2.  verify entire systems, not just components
+  3.  empower end users to verify
+- complexity
+  - discreet transistors
+  - slow
+  - Monster 6502
+  - AirPods: 10s of millions of transitors
+  - Headphones: 1 transistor
+  - Betrusted
+  - right answer depends on the context
+  - minimum viable verifiable product
+  - mobile device
+  - text communication
+  - simplicity v. non-English users
+- verify entire systems
+  - Private keys are not your private matters.
+  - screens can be scraped
+  - keys can be logged
+- ingredients
+  - physical keyboard
+    - captouch screens have firmware blobs
+    - two-layer daughter card
+  - black and white LCD
+    - no embedded driver IC
+    - color: frame buffer, command interface
+    - "memory" LCD by Sharp
+    - all the electronics on glass
+    - would have to grow the glass or add a silicon chip
+    - less places to hide
+    - 200 ppi density
+  - FPGA-based RIC-V SOC
+    - the silicon problem
+    - any chip built in the last two decades can't inspect with microscope
+    - non-destructive verification: can't use it if we destroy it
+    - compromise: FPGA
+    - compile own CPU
+    - compile it yourself
+    - confirm bitstream
+    - toolchains not always open
+    - Lattice ICE 40 and ECP5 completely open
+    - usability versus verification trade-off
+    - battery life: Spartan7 (tools semiclosed)
+    - can fork to ECP5 version
+    - Address Space Layout Randomization for hardware
+    - hinders silicon attacks
+    - needle in haystack v. measuring size of haystack
+    - attack vectors:
+      - closed silicon
+      - introspection features
+      - implants still an issue
+    - bus encryption
+    - data and address pins can be permuted
+    - fallback to x-ray
+    - Prjxray documenting 7-series Xilinx bitstream
+  - user-sealable keys
+...
