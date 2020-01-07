@@ -37,7 +37,7 @@ urls:
 - blowing minor violations out of proportion
 - AGPL seen as toxic
 - "discourages contributions from a broad community"
-- "Neither users not co-developers benefit from copyleft protection."
+- "Neither users nor co-developers benefit from copyleft protection."
 - drafting even more restrictive licenses
 - Mongo wouldn't take its own license
 - "The message of 'technically it's a FOSS license, but don't use' is too complicated to be meaningful."
