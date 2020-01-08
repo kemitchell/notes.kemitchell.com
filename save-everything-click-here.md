@@ -4,7 +4,7 @@ subtitle: The Folly of Technological Solutionism
 people:
 - Evgeny Morozov
 types:
-- Books
+- book
 year: 2013
 tags:
 - Internet
