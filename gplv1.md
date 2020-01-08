@@ -1,7 +1,6 @@
 ---
 title: GNU General Public License
-types:
-- license
+types: [license]
 people:
 - Richard Stallman
 - Jerry Cohen

@@ -2,8 +2,7 @@
 title: Non-discrimination is a core value of open source
 people:
 - Eric Raymond
-types:
-- blog post
+types: [blog post]
 urls:
 - http://esr.ibiblio.org/?m=201808
 tags:

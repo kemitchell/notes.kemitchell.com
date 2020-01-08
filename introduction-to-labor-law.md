@@ -8,8 +8,7 @@ tags:
   - Law
   - Labor Law
   - Unions
-types:
-  - book
+types: [book]
 ---
 
 ## Overall

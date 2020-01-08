@@ -1,7 +1,6 @@
 ---
 title: The Schism at the Heart of the Open-Source Movement
-types:
-- article
+types: [article]
 people:
 - Sidney Fussell
 tags:

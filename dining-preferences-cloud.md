@@ -1,7 +1,6 @@
 ---
 title: Dining Preferences of the Cloud and Open Source
-types:
-- blog post
+types: [blog post]
 people:
 - Charles Fitzgerald
 year: 2019

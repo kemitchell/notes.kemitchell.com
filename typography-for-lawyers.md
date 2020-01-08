@@ -14,6 +14,5 @@ tags:
   - Law
   - Legal Practice
   - Typography
-types:
-  - book
+types: [book]
 ---

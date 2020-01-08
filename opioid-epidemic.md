@@ -13,8 +13,7 @@ tags:
   - Drugs
   - Policy
   - Medicine
-types:
-  - book
+types: [book]
 ---
 
 ## Notes

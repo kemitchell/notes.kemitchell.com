@@ -1,7 +1,6 @@
 ---
 title: Knowledge Vocabulary
-types:
-- list
+types: [list]
 ---
 
 - Tacit Knowledge

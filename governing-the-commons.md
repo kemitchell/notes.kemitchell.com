@@ -9,8 +9,7 @@ tags:
   - Politics
   - Social Science
   - Law
-types:
-  - book
+types: [book]
 ---
 
 ## Notes

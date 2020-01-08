@@ -9,8 +9,7 @@ tags:
   - Law
   - Memoirs
   - Oakland
-types:
-  - book
+types: [book]
 ---
 
 ## Overall

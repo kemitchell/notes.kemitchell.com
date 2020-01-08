@@ -12,6 +12,5 @@ tags:
   - Law
   - Right of Publicity
   - Tax
-types:
-  - book
+types: [book]
 ---

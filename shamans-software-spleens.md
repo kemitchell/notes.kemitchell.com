@@ -6,8 +6,7 @@ star: yes
 people:
   - James Boyle
 urls:
-types:
-  - book
+types: [book]
 tags:
   - Blackmail
   - Free Software

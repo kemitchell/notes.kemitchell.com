@@ -1,7 +1,6 @@
 ---
 title: Rebel Code
-types:
-- book
+types: [book]
 people:
 - Glyn Moody
 tags:

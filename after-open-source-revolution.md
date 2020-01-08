@@ -5,8 +5,7 @@ people:
 year: 2009
 urls:
 - https://www.youtube.com/watch?v=_BgRBjQOnJU
-types:
-- talk
+types: [talk]
 tags:
 - Open Source Software
 ---

@@ -5,8 +5,7 @@ people:
 urls:
 - https://vimeo.com/124887048
 - https://www.youtube.com/watch?v=kp-b8iTZqzM
-types:
-- talk
+types: [talk]
 tags:
 - Cryptography
 - Signal Messenger

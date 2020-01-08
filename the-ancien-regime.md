@@ -11,8 +11,7 @@ tags:
   - French Revolution
   - History
   - Politics
-types:
-  - book
+types: [book]
 ---
  
 ## Overall

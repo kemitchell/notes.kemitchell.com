@@ -3,8 +3,7 @@ title: To Save Everything, Click Here
 subtitle: The Folly of Technological Solutionism
 people:
 - Evgeny Morozov
-types:
-- book
+types: [book]
 year: 2013
 tags:
 - Internet

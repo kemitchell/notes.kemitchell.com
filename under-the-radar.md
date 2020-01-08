@@ -12,6 +12,5 @@ tags:
   - Licensing
   - Open Source
   - Red Hat
-types:
-  - book
+types: [book]
 ---

@@ -1,7 +1,6 @@
 ---
 title: Paul Graham's Hierarchy of Argument
-types:
-- list
+types: [list]
 ---
 
 0:  Name Calling

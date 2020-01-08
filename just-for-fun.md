@@ -4,8 +4,7 @@ subtitle: The Story of an Accidental Revolutionary
 people:
 - Linus Torvalds
 - David Dimaond
-types:
-- book
+types: [book]
 year: 2001
 tags:
 - Open Source

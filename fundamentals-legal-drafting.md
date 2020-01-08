@@ -3,8 +3,7 @@ title: The Fundamentals of Legal Drafting
 people:
 - Reed Dickerson
 year: 1965
-types:
-- book
+types: [book]
 tags:
 - Drafting
 - Law

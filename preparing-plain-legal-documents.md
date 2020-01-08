@@ -2,8 +2,7 @@
 title: Preparing Plain Legal Documents for Lawyers
 people:
 - Wayne Schiess
-types:
-- book
+types: [book]
 year: 2015
 tags:
 - Legal Drafting

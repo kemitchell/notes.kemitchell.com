@@ -11,8 +11,7 @@ tags:
   - Licensing
   - Open Source
   - Software
-types:
-  - book
+types: [book]
 ---
 
 ## Dogears

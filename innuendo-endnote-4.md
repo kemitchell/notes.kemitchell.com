@@ -1,8 +1,7 @@
 ---
 title: Endnote 4
 subtitle: How the Alt-Right is Like an Abusive Relationship
-types:
-- talk
+types: [talk]
 urls:
 - https://www.youtube.com/watch?v=e-MP_yOHiV0
 - https://www.youtube.com/watch?v=e46uOGQ6RWg

@@ -1,8 +1,7 @@
 ---
 title: Beyond Freedom and Dignity
 year: 1971
-types:
-- book
+types: [book]
 people:
 - B.F. Skinner
 tags:

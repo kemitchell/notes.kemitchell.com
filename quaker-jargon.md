@@ -1,7 +1,6 @@
 ---
 title: Quaker Jargon
-types:
-- list
+types: [list]
 tags:
 - Religion
 - Religious Society of Friends

@@ -1,7 +1,6 @@
 ---
 title: async/await with async-std
-types:
-- presentation
+types: [presentation]
 urls:
 - https://www.youtube.com/watch?v=L7X0vpAU-sU
 people:

@@ -8,8 +8,7 @@ people:
 tags:
   - Governance
   - Procedure
-types:
-  - book
+types: [book]
 ---
 
 ## Notes

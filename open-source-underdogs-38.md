@@ -5,8 +5,7 @@ people:
 - Isaac Schlueter
 urls:
 - https://opensourceunderdogs.com/episode-38-npm-isaac-schlueter/
-types:
-- podcast
+types: [podcast]
 - interview
 tags:
 - npm

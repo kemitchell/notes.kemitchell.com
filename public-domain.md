@@ -9,8 +9,7 @@ urls:
 tags:
   - Intellectual Property
   - Copyright
-types:
-  - book
+types: [book]
 ---
 
 ## Follow-Up Items

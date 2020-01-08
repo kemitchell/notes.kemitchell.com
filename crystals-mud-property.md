@@ -2,8 +2,7 @@
 title: Crystals and Mud in Property Law
 people:
 - Carol M. Rose
-types:
-- article
+types: [article]
 tags:
 - Law
 - Property

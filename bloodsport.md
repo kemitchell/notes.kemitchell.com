@@ -1,7 +1,6 @@
 ---
 title: Bloodsport
-types:
-- book
+types: [book]
 people:
 - Robert Teitelman
 tags:

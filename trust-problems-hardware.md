@@ -1,8 +1,7 @@
 ---
 title: Open Source is Insufficient to Solve Trust Problems in Hardware
 subtitle: How Betrusted Aims to Close the Hardware TOCTOU Gap
-types:
-- talks
+types: [talks]
 people:
 - bunny
 tags:

@@ -15,8 +15,7 @@ tags:
   - Guilds
   - Journeymen
   - Masters
-types:
-  - book
+types: [book]
 ---
 
 ## Notes

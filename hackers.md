@@ -2,8 +2,7 @@
 title: Hackers
 people:
 - Steven Levy
-types:
-- book
+types: [book]
 tags:
 - Open Source
 - Hackers

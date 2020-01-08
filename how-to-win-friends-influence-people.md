@@ -1,7 +1,6 @@
 ---
 title: How to Win Friends and Influence People
-types:
-- book
+types: [book]
 tags:
 - Self-Help
 - Business

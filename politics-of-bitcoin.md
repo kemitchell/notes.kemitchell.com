@@ -10,6 +10,5 @@ tags:
   - Peer-to-Peer
   - Politics
   - Software
-types:
-  - book
+types: [book]
 ---

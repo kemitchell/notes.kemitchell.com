@@ -11,8 +11,7 @@ tags:
   - California
   - History
   - Politics
-types:
-  - book
+types: [book]
 ---
 
 ## Overall

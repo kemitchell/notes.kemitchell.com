@@ -12,8 +12,7 @@ tags:
   - Neurology
   - Science
   - Sleep
-types:
-  - book
+types: [book]
 ---
 
 ## Overall

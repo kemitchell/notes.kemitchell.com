@@ -9,8 +9,7 @@ urls:
   - https://lccn.loc.gov/2007049447
   - http://twobits.net/pub/Kelty-TwoBits.pdf
   - https://twobits.net/
-types:
-  - book
+types: [book]
 tags:
   - Anthropology
   - Free Software

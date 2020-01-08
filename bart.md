@@ -8,8 +8,7 @@ tags:
   - History
   - Oakland
   - San Francisco Bay Area
-types:
-  - book
+types: [book]
 ---
 
 ## Overview

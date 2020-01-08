@@ -1,7 +1,6 @@
 ---
 title: Stallman, Nussbaum, and Sen
-types:
-- talk
+types: [talk]
 urls:
 - https://media.libreplanet.org/u/libreplanet/m/stallman-nussbaum-and-sen-putting-freedom-in-context/
 - https://lu.is/blog/2016/03/23/free-as-in-my-libreplanet-2016-talk/

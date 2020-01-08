@@ -10,8 +10,7 @@ tags:
   - Philosophy
   - Psychology
   - Self-Help
-types:
-  - book
+types: [book]
 ---
 
 ## Overall

@@ -10,8 +10,7 @@ tags:
   - Law
   - Politics
   - Section 230
-types:
-  - book
+types: [book]
 ---
 
 ## Overview

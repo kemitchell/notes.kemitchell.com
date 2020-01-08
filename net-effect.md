@@ -3,8 +3,7 @@ title: The Net Effect
 subtitle: Romanticism, Capitalism, and the Internet
 people:
 - Thomas Streeter
-types:
-- book
+types: [book]
 year: 2011
 tags:
 - Internet

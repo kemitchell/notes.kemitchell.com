@@ -13,8 +13,7 @@ tags:
   - Music
   - Startups
   - Technology
-types:
-  - book
+types: [book]
 ---
 
 ## Notes

@@ -1,7 +1,6 @@
 ---
 title: Is Stallman Stalled?
-types:
-- post
+types: [post]
 year: 1993
 urls:
 - https://www.wired.com/1993/01/stallman/

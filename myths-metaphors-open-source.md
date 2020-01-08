@@ -2,8 +2,7 @@
 title: Myths and Metaphors of Open Source
 people:
 - Daniel Compton
-types:
-- talks
+types: [talks]
 urls:
 - https://www.youtube.com/watch?v=uC8Uc_0tlQM
 tags:

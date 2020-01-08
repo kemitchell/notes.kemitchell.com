@@ -9,6 +9,5 @@ urls:
 tags:
   - Motorcycles
   - Sports
-types:
-  - book
+types: [book]
 ---

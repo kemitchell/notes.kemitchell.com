@@ -1,7 +1,6 @@
 ---
 title: Toward Copyleft Equality for All
-types:
-- blog post
+types: [blog post]
 people:
 - Bradley Kuhn
 tags:

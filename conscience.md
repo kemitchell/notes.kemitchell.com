@@ -12,8 +12,7 @@ tags:
   - Philosophy
   - Psychology
   - Science
-types:
-  - book
+types: [book]
 ---
 
 ## Overall

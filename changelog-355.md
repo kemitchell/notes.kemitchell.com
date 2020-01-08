@@ -1,7 +1,6 @@
 ---
 title: Changelog 355
-types:
-- podcast
+types: [podcast]
 people:
 - CJ Silverio
 year: 2019

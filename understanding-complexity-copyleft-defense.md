@@ -2,8 +2,7 @@
 title: Understanding the Complexity of Copyleft Defense
 people:
 - Bradley Kuhn
-types:
-- talk
+types: [talk]
 tags:
 - Copyleft
 - Free Software

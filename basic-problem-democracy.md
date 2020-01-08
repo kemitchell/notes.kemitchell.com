@@ -1,7 +1,6 @@
 ---
 title: The Basic Problem of Democracy
-types:
-- article
+types: [article]
 people:
 - Walter Lippman
 urls:

@@ -1,7 +1,6 @@
 ---
 title: Speaking Terms
-types:
-- list
+types: [list]
 ---
 
 - Chatham House Rule

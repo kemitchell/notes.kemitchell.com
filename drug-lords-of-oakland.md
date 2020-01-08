@@ -9,8 +9,7 @@ tags:
   - Drugs
   - Oakland
   - San Francisco Bay Area
-types:
-  - book
+types: [book]
 ---
 
 ## Notes

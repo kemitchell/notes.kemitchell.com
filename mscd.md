@@ -12,6 +12,5 @@ tags:
   - Drafting
   - Law
   - Law Practice
-types:
-  - book
+types: [book]
 ---

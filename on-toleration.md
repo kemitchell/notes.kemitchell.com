@@ -11,8 +11,7 @@ tags:
   - Ethics
   - History
   - Politics
-types:
-  - book
+types: [book]
 ---
 
 ## Overall

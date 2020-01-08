@@ -11,6 +11,5 @@ tags:
   - Music
   - Music Industry
   - Negotiation
-types:
-  - book
+types: [book]
 ---

@@ -8,6 +8,5 @@ tags:
   - Law
   - Legal Profession
   - Technology
-types:
-  - book
+types: [book]
 ---

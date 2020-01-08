@@ -9,6 +9,5 @@ people:
 tags:
   - Law
   - Legal Theory
-types:
-  - book
+types: [book]
 ---

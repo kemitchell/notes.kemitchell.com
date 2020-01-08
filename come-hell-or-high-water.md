@@ -10,6 +10,5 @@ tags:
   - Consensus
   - Decision Making
   - Politics
-types:
-  - book
+types: [book]
 ---

@@ -9,6 +9,5 @@ urls:
 tags:
   - Law
   - Law Practice
-types:
-  - book
+types: [book]
 ---
