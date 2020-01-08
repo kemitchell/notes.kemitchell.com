@@ -1,7 +1,6 @@
 ---
 title: Protest Licenses
-tags:
-- list
+types: [list]
 tags:
 - Software
 - Software Licensing
