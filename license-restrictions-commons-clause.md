@@ -16,8 +16,10 @@ people:
 tags:
 - Open Source
 - Software Licensing
-- SFLC
+- Software Freedom Law Center
 - SFLC Fall 2018
+- Commons Clause
+- Server Side Public License
 ---
 
 - Sarah Ward is director, legal at MongoDB
