@@ -1,6 +1,7 @@
 ---
 title: Rebel Code
 types: [book]
+year: 2001
 people:
 - Glyn Moody
 tags:
