@@ -19,6 +19,7 @@ tags:
 4.  Apache 2.0
 5.  LGPL
 6.  EPL, CDDL, MPL
+
 - two types
   1.  permissive (esp. Apache foundation): If you distribute, provide notice.
   2.  copyleft (esp. Free Software Foundation):  If you distribute, use the same terms and provide source code.
