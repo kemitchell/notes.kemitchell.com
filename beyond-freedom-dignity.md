@@ -39,3 +39,8 @@ tags:
 - the man that man has made 208
 - death 210
 - diagnosing critics 212
+
+- armamentarium (105)
+- martinet (150)
+- despoilation (205)
+- maientics (85)
