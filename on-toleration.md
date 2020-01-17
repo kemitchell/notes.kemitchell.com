@@ -72,3 +72,9 @@ Dense, admirably brief transcribed lecture on toleration, historical and present
 - balance (112)
 - "social democracy" (112)
 
+## Regimes
+1.  multinational empire
+2.  consociation
+3.  democratic consociation
+4.  nation-state
+5.  immigrant society
