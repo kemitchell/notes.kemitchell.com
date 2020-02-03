@@ -8,7 +8,7 @@ people:
 tags:
 - Business
 - Startups
-- software
+- Software
 - Discourse
 ---
 
