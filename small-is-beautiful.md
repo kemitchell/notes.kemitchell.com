@@ -87,3 +87,27 @@ types: [book]
     - manufactures
     - services
 - use of Buddhism incidental, could have been Christianity &c. 55
+
+# 4.  Buddhist Economics
+- function of work:
+  1.  chance to utilize and develop faculties
+  2.  overcome ego-centeredness by joining with others
+  3.  goods and services needed for a becoming existence
+- types of mechanization:
+  1.  enhances skill and power
+  2.  turns work over to mechanical slave
+- "machine" v. "tool" 58
+- work : higher functions :: food : body 59
+- people over goods, creativity over consumption 60
+- women largely don't need "outside" jobs 60
+- liberation by a middle way 60
+- toil versus creativity 61
+- draping uncut cloth for clothing 61
+- "Buddhist economics is the systematic study of how to attain given ends with the minimum means." 61
+- effort for optimal v. maximum consumption 62
+- "Cease to do evil; try to do good." 62
+- simplicity ↔ nonviolence 62
+  - modest use of resources
+  - self-sufficient communities
+- Buddha emphasized trees 63
+- individuality v. stability 65
