@@ -1,0 +1,73 @@
+---
+title: Why Go is Successful
+urls:
+- https://www.youtube.com/watch?v=k9Zbuuo51go
+people:
+- Rob Pike
+types: [talk]
+year: 2018
+tags:
+- Go
+- Programming
+- Programming Languages
+---
+
+- simplicity
+- Lang.Next conference
+- languages adding features from other languages
+- Sapir-Whorf/Relativity controversial
+- matters in programming
+- language convergence, thought convergence
+- languages evolve and compete by adding features
+- "bloat without distinction"
+- Go 1: language is fixed
+- adding features will not make Go better
+- make Go less different
+- designers had very different backgrounds
+- consensus on feature to get it in
+- readability most important feature
+- thinking about which features to use
+- readers recreate that thought process
+- more complex language makes code hard to understand
+- features are fun to play with
+- long-term maintenance, large-scale programming
+- APL: easy to write, hard to understand
+- expressiveness and expense
+- e.g. map and filter
+- encourage wasteful code
+- vector space: find basic set covering
+- orthogonal features combine well
+- for scalable cloud services
+- "server infrastructure"
+- guidelines for language compelled choices
+- representation of a gopher
+- more detailed gopher drawing less appealing
+- Go is actually complex, but it feels simple.
+- simplicity as art of hiding complexity
+- GC: best example
+  - no interface
+  - stack maps &c.
+  - isn't even in the spec
+- concurrency
+- constants
+  - constants are just numbers, not strictly typed
+  - hard to design
+  - blog post
+- interfaces
+  - no data, just methods
+  - dynamic type assertions not in original spec
+  - not thrilled with assertions, but pretty good
+  - most distinctive practical feature
+- packages
+  - hard to design
+  - months
+  - interactions
+  - best after concurrency
+- example
+  - Unicode
+  - `Fprintf` to a network connection
+  - promotion func/method
+  - concurrent
+  - production ready
+- clarity is worth the fight
+- making things simple is hard work
