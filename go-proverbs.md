@@ -1,6 +1,6 @@
 ---
 title: Go Proverbs
-types [talk]
+types: [talk]
 urls:
 - https://www.youtube.com/watch?v=PAAkCSZUG1c
 people:
