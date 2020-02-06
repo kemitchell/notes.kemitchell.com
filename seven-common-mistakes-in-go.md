@@ -1,7 +1,7 @@
 ---
 title: 7 Common Mistakes in Go
 urls:
-- https://www.youtube.com/watch?v=29LLRKIL_TI&list=WL&index=102&t=0s
+- https://www.youtube.com/watch?v=29LLRKIL_TI
 types: [talk]
 people:
 - Steve Francia
