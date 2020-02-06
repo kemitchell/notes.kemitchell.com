@@ -7,7 +7,7 @@ people:
 types: [talk]
 year: 2018
 tags:
-- Go
+- Go Programming Language
 - Programming
 - Programming Languages
 ---

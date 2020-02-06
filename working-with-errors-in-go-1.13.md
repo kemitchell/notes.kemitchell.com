@@ -7,7 +7,7 @@ people:
 - Damien Neil 
 - Jonathan Amsterdam
 tags:
-- Go
+- Go Programming Language
 - Programming
 - Error Handling
 ---

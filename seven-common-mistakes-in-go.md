@@ -6,7 +6,7 @@ types: [talk]
 people:
 - Steve Francia
 tags:
-- Go
+- Go Programming Language
 - Programming
 ---
 

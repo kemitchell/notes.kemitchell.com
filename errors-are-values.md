@@ -6,7 +6,7 @@ urls:
 people:
 - Rob Pike
 tags:
-- Go
+- Go Programming Language
 - Programming
 - Error Handling
 ---

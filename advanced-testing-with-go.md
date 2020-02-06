@@ -6,7 +6,7 @@ types: [talk]
 people:
 - Mitchell Hashimoto
 tags:
-- Go
+- Go Programming Language
 - Programming
 - Testing
 ---
