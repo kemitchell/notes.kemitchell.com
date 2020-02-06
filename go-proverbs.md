@@ -1,0 +1,82 @@
+---
+title: Go Proverbs
+types [talk]
+urls:
+- https://www.youtube.com/watch?v=PAAkCSZUG1c
+people:
+- Rob Pike
+tags:
+- Go
+- Programming
+- Programming Languages
+---
+
+- game of go: easy to learn, hard to master
+- hard to teach westerners holistic strategy
+- book: Go Proverbs Illustrated
+- Can you have Go language proverbs?
+- very, very wet stuff
+- Don't communicate by sharing memory.  Share memory by communicating.
+- Concurrency is not parallelism.
+- Channels orchestrate.  Mutexes serialize.
+- The bigger the interface, the weaker the abstraction.
+- if you come from Java, where everything is bigger, ...
+- culture of small interfaces
+- most important interfaces: `io.Reader`, `io.Writer`, `interface{}`
+- average: 2/3 of a method
+- Make the zero value useful.
+- e.g. bytes buffer, mutex
+- don't have to init
+- end up in lots of structures
+- less API
+- `interface{}` says nothing.
+- nothing enforced on callers: might as well program in Python
+- `map[string]interface{}` the least useful data structure
+- map of names for meaningless objects
+- way overused
+- gofmt's style is no one's favorite, yet gofmt is everyone's favorite.
+- Who cares?  Shut up!
+- even the author doesn't like the style
+- common favorite feature
+- A little copying is better than a little dependency.
+- Google: "we really care about code reuse" scary
+- Google still suffering from decision
+- even stdlib copies a few bits
+- tests check agreement between implementations
+- Cgo must always be guarded with build tags.
+- If you're calling C, God knows what it does...
+- very, very nonportable
+- open source community made sure C less portable over time
+- Cgo is not Go.
+- favorite feature connecting to C
+- a trap
+- I've never used cgo.  I've never wanted to.
+- 90% of Google crashes: cgo or swig
+- With the unsafe package there are no guarantees.
+- Clear is better than clever.
+- programming in general
+- no density premium
+- Reflection is never clear.
+- It doesn't work because it's not for you.
+- Very difficult to use.
+- impenetrable code
+- hate it
+- Errors are values.
+- Why write `if err != nil` all the time?  You're not programming.  Just writing code.
+- blog: Japanese programmer struggling
+- not a try-catch surrogate
+- they're just values
+- Don't just check errors.  Handle them gracefully.
+- don't return up the tree and forget about it
+- Design the architecture.  Name the components.  Document the details.
+- may be total BS
+- good names make structure clear
+- names carry fair bit of weight
+- Documentation is for users.
+- what is the function _for_?
+- think of yourself as a user, not the writer
+- just write prose
+
+- proverbs may be contradictory
+- mail them to me
+- community around a certain way of programming
