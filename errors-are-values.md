@@ -11,7 +11,7 @@ tags:
 - Error Handling
 ---
 
-- ```
+- ```go
   if err != nil {
     return
   }
@@ -22,7 +22,7 @@ tags:
 - Scanner's `Scan` method provides `Err` method to check for error
 - @jxck_
 - Japanese language barrier
-- ```
+- ```go
   type errWriter struct {
     w io.Writer
     err error

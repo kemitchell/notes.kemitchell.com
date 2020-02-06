@@ -17,7 +17,7 @@ tags:
 - explicit support for errors containing other errors
 - "sentinel value", e.g. `var ErrNotFound = errors.New("not found")`
 - adding information: `return fmt.Errorf("%v: %v", name, err)`
-- ```
+- ```go
   type QueryError struct {
     Query string
     Err error
@@ -26,7 +26,7 @@ tags:
 - in 1.13:
   - convention: errors containing errors can implement `Unwrap()`
   - `errors.Is(err, ErrNotFound)`
-  - ```
+  - ```go
     var e *QueryError
     if errors.As(err, &e) ...
     ```
