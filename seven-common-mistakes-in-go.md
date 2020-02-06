@@ -10,25 +10,25 @@ tags:
 - Programming
 ---
 
-# Not Accepting Interfaces
+## Not Accepting Interfaces
 - Hugo
 - `.Bytes()` in return makes callers create another `Reader`
 
-# Not Using io.Reader and io.Writer
+## Not Using io.Reader and io.Writer
 - Cobra CLI
 - Viper conf. management
 - `bytes.Buffer` is an `io.Reader`
 
-# Requiring Broad Interfaces
+## Requiring Broad Interfaces
 - only interfaces that include methods you need
 - Aftero Fs FS abstraction for testing
 
-# Methods v. Functins
+## Methods v. Functins
 - OO people overuse methods
 - functions without side effects
 - methods use state
 
-# Pointers v. Values
+## Pointers v. Values
 - not about perf
 - about shared access
 - share with function or method: pointer
@@ -36,7 +36,7 @@ tags:
 - receivers: usually pointer (not safe for concurrency)
 - empty struct: values
 
-# Thinking of Errors as Strings
+## Thinking of Errors as Strings
 - interface, not type
 - `errors.New` is usually sufficient
 - can export specific errors so callers can compare by identity, not by string
@@ -45,7 +45,7 @@ tags:
   - can just check `Code`
 - standard library: `ErrInvalid`, `ErrPermission`, `PathError` struct
 
-# To Be Safe Or Not To Be Safe
+## To Be Safe Or Not To Be Safe
 - consider concurrency
 - if you write a library, someone will use it concurrently
 - sync, channels
