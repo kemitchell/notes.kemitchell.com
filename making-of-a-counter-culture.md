@@ -1,6 +1,7 @@
 ---
 title: The Making of a Counter Culture
 subtitle: Reflections on the Technocratic Society and Its Youthful Opposition
+types: [book]
 year: 1969
 star: yes
 people:
@@ -10,7 +11,7 @@ urls:
 tags:
   - History
   - United States
-types: [book]
+  - Counterculture
 ---
 
 ## Notes

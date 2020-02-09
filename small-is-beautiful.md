@@ -6,6 +6,12 @@ people:
 - Theodore Roszak
 - Ernst Friedrich Schumacher
 types: [book]
+tags:
+- Counterculture
+- Ecology
+- Economics
+- Philosophy
+- Politics
 ---
 
 # Introduction (Roszak)
