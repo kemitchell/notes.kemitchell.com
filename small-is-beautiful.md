@@ -26,6 +26,8 @@ types: [book]
 - hope and pray people won't be better selves 10
 - spiritual space filled by something lower 10
 
+## Part 1
+
 # 1.  The Problem of Production
 - error: problem of production solved 13
 - man as conqueror of nature 14
@@ -111,3 +113,78 @@ types: [book]
   - self-sufficient communities
 - Buddha emphasized trees 63
 - individuality v. stability 65
+
+# 5.  A Question of Size
+- "Large units tend to break up into smaller units." 67
+- "strenuous attempt to attain smallness with bigness" 68
+- GM: "federation of fairly reasonably sized firms" 69
+- freedom and order 69
+- brothers to only a few others 70
+- duality ... balance 72
+- currently idolize giantism, so reaffirm virtues of smallness 70
+- limit for cities: 1/2 million 70
+- philosophy, art, religion cost little money 72
+- modern tech. makes people "footloose" 72
+- "Everything in this world has to have a _structure_, otherwise it is chaos." 73
+- "The richer a society, the more impossible it becomes to do worthwhile things without immediate payoff." 74
+- "thraldom" 74
+- "believe that fast transport and instantaneous communications open up a new dimension of freedom ... also tend to destroy freedom, by making everything extremely vulnerable ... insecure ..." 74
+- drop-outs: footloose, can't find place 75
+- dual society without cohesion 75
+- no such thing as nation or state viability 76
+- "the rich rarely subsidize the poor; more often they exploit them" 77
+- law of disequilibrium: nothing succeeds like success, nothing stagnates like stagnation 78
+- replace with infallible machines 79
+- 19th century leftover giantism 79
+- production by the masses, not mass production 79
+- "people can be themselves only in small comprehensible groups" 80
+
+# Part 2
+
+## 1.  The Greatest Resource---Education
+- "subsistence and something to spare" 83
+- man, not nature 83
+- education as "residual legatee of all our problems" 84
+- Lord Snow: scientists over all 85
+- "neutral" science: nothing in science to decide how to use 86
+- "know-how" 86
+- "foolhardy to put great powers into the hands of people without making sure that they have a reasonable idea of what to do with them" 86
+- transmission of values 86
+- ideas that make life intelligible 89
+- estrangement's consequences 90
+- not for lack of know-how do we feel estranged 91
+- leading ideas:
+  1.  evolution
+  2.  natural selection
+  3.  Marxist phatasmagoria
+  4.  Freudian subconscious
+  5.  relativism
+  6.  positivism 93
+- leaps of imagination from small platforms of observed fact 94
+- universality 94
+- dispel higher v. lower order 95
+- 19th century life-destroying metaphysics 96
+- bad metaphysics, appalling ethics 97
+- not just over-specialization 98
+- transcend the world of facts 99
+- "Education can help us only if it produces 'whole men.'" 100
+- no doubt about basic convictions 100
+- heart refuses to believe life is pointless 101
+- saved from despair, landed in confusion 101
+- hierarchical order lends purpose 101
+- thinking in opposites 102
+- love as higher force than transcends opposites 102
+- convergent and divergent problems 102
+- abstraction yields insights that can be reproduced without reproducing the effort to find them 103
+- science and math "does not lead into life but away from it" 103
+- Charles Darwin's autobiography: loss of taste for poetry and art 103
+- impoverishment overwhelming civilization 104
+- relax from divergent problems at work with convergent problem hobbies and entertainments 104
+- divergent problems "real stuff of life" 105
+- ethics sets good above evil as opposites 105
+- "morality is bunk" conceived by the morally educated 105
+- "Leitbild" (German) 105
+- intellectuals: everything's relative, or unabashed cynicism 105
+- "Avarice and usury and precaution must be our gods for a little longer still." ---Keynes 106
+- "classical-Christian heritage" 106
+- metaphysical reconstruction 106
