@@ -17,76 +17,76 @@ tags:
 - Conservation
 ---
 
-- wolves better stewards of Yellowstone xii
-- "I knew about as much about the hidden life of trees as a butcher knows about the emotional life of animals." xiii
-- scent language 6
-- toxins 7
-- fungal networks 10
-- loner trees 10
-- "wood wide web" 11
-- cultivated plants have lost communication 11
-- not practical to study trees in lab 12
-- root crackling 13
-- commercial forest spacing and goals 14
-- commercial trees sawn at about 100 years 14
-- even strong trees get sick a lot 17
-- social security system 16
-- girdling 17
-- conifers: seeds out every eyar 19
-- deciduous: agree go/no-go each year 19
-- herbivores and coordinated seeding 20
-- "mast years" 20
-- inbreeding avoidance 22
-- light deprivation of offspring 32
-- honeysuckle v. young trees 35
-- Dr. Monica Cagliano's mimosas 47
-- fungi are largest organisms 50
-- fungi as forest Internet 51
-- don't know how water moves in trees 56
-- no true old-growth forests in Central Europe 64
-- West coast of Canada 64
-- chemical and electrical signals from root tips 83
-- arbitrary plant-animal distinction 83
-- arboreal mortuary 91
-- source of coal 94
-- forest "rejuvenation" for climate change benefit questioned 98
-- forests pump moisture inland 106
-- law of the jungle, not grocery store 114
-- people displace deer into forests 123
-- species diversity stabilizes ecosystem 130
-- nurser-log reproduction 135
-- "abstemiuous" 167
-- stunted park redwoods 169
-- pioneer tree species 180
-- Pando the 100 acre quaking aspen 184
-- whipping branches 185
-- climate always changing 188
-- hunting increased deer and boar 191
-- 30-year fluctuation of 42F 196
-- wide genetic variation between trees 198
-- blame careless people for big fires 207
-- North American fire cycles 208
-- fungi and insects in poorly treated pallet wood 215
-- not anxious about future 217
-- "Forest air is the epitome of healthy air." 221
-- conifers reduce allergens 222
-- lower blood pressure under oaks 223
-- forest health intuition 223
-- green shadows 229
-- "ancient woodlands", "old-growth forest", forest preserves 233
-- pressure to sell dead trees 237
-- 500 years to restore national park 238
-- crediting animals with emotions leads to extending more rights to them 241
-- fireplace logs, book pages 242
-- "we use living things killed for our purposes" 242
-- okay to use wood as long as trees live in way appropriate to species 243
-- organic farm : agriculture :: continuous cover with careful selective cutting : silviculture 243
-- used with no qualms of conscience 243
-- lay intuition better than professional 243
-- Healing Harvest Forest Foundation 244
-- Swiss constitution: "dignity of creation" 244
-- breaking down moral barriers between animals and plants 244
-- respite and recovery 244
-- rivers deliver acids in fallen leaves to ocean plankton 245
-- "trees decline and die naturally---gracefully, beautifully, generously" 247
-- wood wide web 249
+- wolves better stewards of Yellowstone (xii)
+- "I knew about as much about the hidden life of trees as a butcher knows about the emotional life of animals." (xiii)
+- scent language (6)
+- toxins (7)
+- fungal networks (10)
+- loner trees (10)
+- "wood wide web" (11)
+- cultivated plants have lost communication (11)
+- not practical to study trees in lab (12)
+- root crackling (13)
+- commercial forest spacing and goals (14)
+- commercial trees sawn at about 100 years (14)
+- even strong trees get sick a lot (17)
+- social security system (16)
+- girdling (17)
+- conifers: seeds out every eyar (19)
+- deciduous: agree go/no-go each year (19)
+- herbivores and coordinated seeding (20)
+- "mast years" (20)
+- inbreeding avoidance (22)
+- light deprivation of offspring (32)
+- honeysuckle v. young trees (35)
+- Dr. Monica Cagliano's mimosas (47)
+- fungi are largest organisms (50)
+- fungi as forest Internet (51)
+- don't know how water moves in trees (56)
+- no true old-growth forests in Central Europe (64)
+- West coast of Canada (64)
+- chemical and electrical signals from root tips (83)
+- arbitrary plant-animal distinction (83)
+- arboreal mortuary (91)
+- source of coal (94)
+- forest "rejuvenation" for climate change benefit questioned (98)
+- forests pump moisture inland (106)
+- law of the jungle, not grocery store (114)
+- people displace deer into forests (123)
+- species diversity stabilizes ecosystem (130)
+- nurser-log reproduction (135)
+- "abstemiuous" (167)
+- stunted park redwoods (169)
+- pioneer tree species (180)
+- Pando the 100 acre quaking aspen (184)
+- whipping branches (185)
+- climate always changing (188)
+- hunting increased deer and boar (191)
+- 30-year fluctuation of 42F (196)
+- wide genetic variation between trees (198)
+- blame careless people for big fires (207)
+- North American fire cycles (208)
+- fungi and insects in poorly treated pallet wood (215)
+- not anxious about future (217)
+- "Forest air is the epitome of healthy air." (221)
+- conifers reduce allergens (222)
+- lower blood pressure under oaks (223)
+- forest health intuition (223)
+- green shadows (229)
+- "ancient woodlands", "old-growth forest", forest preserves (233)
+- pressure to sell dead trees (237)
+- 500 years to restore national park (238)
+- crediting animals with emotions leads to extending more rights to them (241)
+- fireplace logs, book pages (242)
+- "we use living things killed for our purposes" (242)
+- okay to use wood as long as trees live in way appropriate to species (243)
+- organic farm : agriculture :: continuous cover with careful selective cutting : silviculture (243)
+- used with no qualms of conscience (243)
+- lay intuition better than professional (243)
+- Healing Harvest Forest Foundation (244)
+- Swiss constitution: "dignity of creation" (244)
+- breaking down moral barriers between animals and plants (244)
+- respite and recovery (244)
+- rivers deliver acids in fallen leaves to ocean plankton (245)
+- "trees decline and die naturally---gracefully, beautifully, generously" (247)
+- wood wide web (249)
