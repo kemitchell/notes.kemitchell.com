@@ -128,3 +128,28 @@ tags:
 - customize code by renumbering pages 124
 - chosen-plaintext plant 125
 - used exaggerated copy of original, flawed decoding of telegrams as evidence of guilt 125
+
+# 8.  Love Over the Wires
+- "Spies and criminals are invariably among the first .... But lovers and never far behind." 127
+- on-line wedding 127
+- Gretna Green, Scottish elopement destination just across border 129
+- couldn't outrun news of elopement anymore 129
+- operator pecking order: transmission speed 130
+- recognizable operator Morse styles 130
+- two-letter operator signatures 130
+- "own" wires by transposing letters 131
+- "snatched" 131
+- smutty stories 132
+- remote operators sometimes preferred on-line to in-person socializing 132
+- many women operators 133
+- women tapped with a lighter hand 134
+- mistaken gender operator marriage story 135
+- remote minister 137
+- "nothing short of an angel could work that wire" 139
+- scorn for "plugs" and "hams" 140
+- "first-class", "bonus men", "boomers" 140
+- meritocracy 140
+- "salting" hazing with fast sender 140
+- Thomas Edison's prowess 141
+- helped by partial deafness 141
+- deafness helped Edison's courtship 142
