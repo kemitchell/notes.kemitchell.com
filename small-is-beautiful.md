@@ -14,7 +14,9 @@ tags:
 - Politics
 ---
 
-# Introduction (Roszak)
+# Notes
+
+## Introduction (Roszak)
 - economists: most rigorous and successful social science 1
 - Nobel Prize 1
 - intended to subvert "economic science" 3
@@ -34,7 +36,7 @@ tags:
 
 ## Part 1
 
-# 1.  The Problem of Production
+### 1.  The Problem of Production
 - error: problem of production solved 13
 - man as conqueror of nature 14
 - illusion of unlimited powers 14
@@ -53,7 +55,7 @@ tags:
 - permanence 21
 - peace and permanence 22
 
-# 2.  Peace and Permanence
+### 2.  Peace and Permanence
 - ... belief ... the soundest foundation of peace would be universal prosperity 23
 - bypasses ethics 23
 - Gandhi: systems so perfect that no one will need to be god 24
@@ -81,7 +83,7 @@ tags:
   2.  small-scale applicable
   3.  compatible with need for creativity 35
 
-# 3.  The Role of Economics
+### 3.  The Role of Economics
 - goods from nature and secondary goods treated same, ignoring man's dependence on the natural world 46
 - institutionalized individuality 46
 - against cost/benefit analysis 48
@@ -96,7 +98,7 @@ tags:
     - services
 - use of Buddhism incidental, could have been Christianity &c. 55
 
-# 4.  Buddhist Economics
+### 4.  Buddhist Economics
 - function of work:
   1.  chance to utilize and develop faculties
   2.  overcome ego-centeredness by joining with others
@@ -120,7 +122,7 @@ tags:
 - Buddha emphasized trees 63
 - individuality v. stability 65
 
-# 5.  A Question of Size
+### 5.  A Question of Size
 - "Large units tend to break up into smaller units." 67
 - "strenuous attempt to attain smallness with bigness" 68
 - GM: "federation of fairly reasonably sized firms" 69
@@ -145,9 +147,9 @@ tags:
 - production by the masses, not mass production 79
 - "people can be themselves only in small comprehensible groups" 80
 
-# Part 2
+## Part 2
 
-## 1.  The Greatest Resource---Education
+### 1.  The Greatest Resource---Education
 - "subsistence and something to spare" 83
 - man, not nature 83
 - education as "residual legatee of all our problems" 84
@@ -194,3 +196,123 @@ tags:
 - "Avarice and usury and precaution must be our gods for a little longer still." ---Keynes 106
 - "classical-Christian heritage" 106
 - metaphysical reconstruction 106
+
+### 2.  The Proper Use of Land
+- man masters environment temporarily, believes permanent 108
+- progressive civilizations exhaust land then move on 109
+- denser population, no new land 110
+- distinguish ends and means 111
+- activities for own sake defy utilitarianism 111
+- cleanliness as end in itself 111
+- production or consumption 111
+- amenities at work "uneconomic" 112
+- ["high standard of working"]
+- large scale food makers who'd never consume their own product 112
+- people as meta-economics ends themselves 113
+- treating things we can't make like things we can 113
+- "run it to ruin" 113
+- dominion, not tyranny 114
+- sages and holy men aren't cruel to animals 114
+- [what about animal sacrifice?]
+- townsman applies industrial principles to agriculture 116
+- Mansholt Plan 116
+- industry: eliminate living factor 117
+- balance of agriculture and industry 117
+- land:
+  1.  connection to nature
+  2.  habitat
+  3.  food and material 119-120
+- more isolated in city than country 120
+- truths of nature:
+  1.  law of return
+  2.  diversification 122
+
+### 3.  Resources for Industry
+- modern industry very inefficient 125
+- criticism of US economy 125
+- [ ] The Limits of Growth 128
+- infinite growth in finite world 129
+- energy can't be recycled 130
+- "It is fashionable today to assume that any figures about the future are better than none." 132
+- "It would have been cheaper, and indeed more honest, simply to assume the result." 132
+- "limitless optimism, quite impervious to reason" 134
+- "exploratory calculation" / "feasibility study" 135
+- oil can't continue rapid growth past 1980 136
+- new energy discoveries hailed, but long ago assumed 138
+- soothsayers 139
+- OPEC the greatest cartel-monopoly the world has ever seen 139
+- mutual interest to prolong oil lifespan 140
+
+### 4.  Nuclear Energy
+- nuclear main cause of energy complacency 142
+- radiation pollution 143
+- insurers wouldn't cover third parties, so passed legislation 144
+- rays like bullets into organism 144
+- lost in jungle of controversy 147
+- debate only in terms of immediate advantage 148
+- radioactive pollution different in kind 149
+- incomparable evil 149
+- nuclear scientists justifying themselves 150
+- direction of scientific research 151
+- Einstein: scientists economically dependent, lack social responsibility 151
+- fission and fusion as violence 151
+- storage of nuclear waste 153
+
+### 5.  Technology with a Human Face
+- technology tends to develop by its own laws and principles 155
+- self-balance, self-adjustment, self-cleansing 156
+- crises:
+  1.  revolt against technological, organizational, political problems
+  2.  environmental breakdown
+  3.  nonrenewable resources
+- materialism can't last 156
+- last 25 years don't show technology alleviating poverty or unemployment 157
+- technology: lighten man's work burden 157
+- leisure inversely proportional to use of machinery 157
+- Burma: enormous amount of leisure 158
+- machines most effectively reduce skillful, productive work of human hands 158
+- Aquinas: being with brains and hands 158
+- have to be wealthy to afford such work today 158
+- total social time 158
+- actual producers 159
+- Parkinson's Law 159 [work expands to fill the time available for its completion]
+- prestige inversely proportional to closeness to actual production 159
+- deprived man of the kind of work that he enjoys most 160
+- Marx: producing too many useful things results in too many useless people 160
+- allow children and old people 161
+- no difference between work and leisure 161
+- poverty in third world prevents them adopting our technology 162
+- Gandhi: production by the masses 163
+- "intermediate technology" 163
+- "self-help technology", "democratic technology", "people's technology" 163
+- hard to recapture directness and simplicity 164
+- "Any activity which fails to recognize a self-limiting principle is of the devil." 164
+- forward stampede v. home-comers 164
+- stampede: "There _are_ no insoluble problems." 165
+- home-comers: parable of the prodigal son 166
+- Sermon on the Mount 166
+- modern beatitudes:
+  > --- We are poor, not demigods
+  >
+  > --- We have plenty to be sorrowful about, and are not emerging into a golden age.
+  >
+  > --- We need a gentle approach, a non-violent spirit, and small is beautiful.
+  >
+  > --- We must concern ourselves with justice and see right prevail.
+  >
+  > --- And all this, only this, can enable us to become peacemakers.
+- qualitative determination to growth 167
+- "In one way or another everybody will have to take sides in this great conflict." 167
+- "If politics cannot be left to the experts, neither can economics and technology." 167
+- hope: ordinary people can take a wider view 167
+- support minority groups, not new ones 167
+- [Why?]
+- "poison or hunger" 168
+- "muck and mystery people" 168
+- Soil Association 168
+- Intermediate Technology Development Group 168
+- "Man is small, and, therefore, small is beautiful." 169
+
+# Thoughts
+- tragically succumbs to black-or-white, us-versus-them with "stampede" v. "home-comers"
+- "great conflict" immediately follows rhapsodic rhetoric about peacemaking
