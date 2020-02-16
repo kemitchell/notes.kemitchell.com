@@ -24,7 +24,7 @@ tags:
 ## Chapter 1.  Beginnings
 - Eddy and Taylor 1
 - night people 2
-- [ ] Light the Dark Street
+- Light the Dark Street
 - emigre enclaves 6
 - housing costs 7
 - "I don't care what they do, as long as they don't do it in the streets and scare the horse." 8
