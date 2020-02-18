@@ -2,6 +2,7 @@
 title: I'm Listening As Fast As I Can
 subtitle: The Night Ministry in San Francisco
 edition: 50th Anniversary
+finished: 2020-02-17
 people:
 - Donald E. Stuart
 types: [book]
