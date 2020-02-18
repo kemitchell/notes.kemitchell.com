@@ -201,3 +201,124 @@ tags:
 - police inspector's mistress threatening suicide 104
 - damned record player blaring "Have yourself a merry little Christmas..." 105
 - age-old ploy: loveless, sexless marriage, promises to divorce and marry mistress 105
+
+## 12.  Rage and Violence
+- "the darkness within" 107
+- "Why did he do it Padre?" 107
+- Theresa, restaurateur 108
+- shot over $1.44 tab 108
+- parade of horribles 109
+- before well known on the street, met with hostility or indifference 109
+- fistfight with a pimp 109
+- Catholic boys angry about protestant Northern Ireland bombing. 110
+- shillelagh 110
+- brutal, homophobic copy kicking man 110
+- might be my backup, don't want to take "accidental" bullet in back 111
+- paranoid schizophrenic flung ashtray 111
+- divorcee made advances, threw table lamp 111
+- beat up man attempting to rape boy at Greyhound depot 112
+
+## 13.  The Haight-Ashbury
+- estimated 100,000 young people to Haight-Ashbury in 1967 115
+- talents didn't stand up to city competition 115
+- "Piper of the West" 115
+- Caltrans planned a freeway through the panhandle 117
+- SFSU students 117
+- Psychedelic Shop intersection named the district 117
+- The Drogstore 118
+- given Caesar ring 119
+- WWII veteran parents 120
+- parents made alcohol available so kids wouldn't try "harder stuff" 120
+- marijuana the economic base 122
+- professional dealers, harder drugs 122
+- Leary had little influence 122
+- never seriously threatened or in danger in the Haight 123
+- regimentation they would have resented 126
+- Hare Krishnas and Moonies 126
+- How could I have been so stupid? 127
+- The Farm 127
+
+## 14.  My Parish of the Past
+- "too often the institution has been too busy with the task of self-perpetuation, and catering to those whose allegiance would be an asset." 131
+- "They were my congregation." 132
+- City Fathers proud of "clean-up" 132
+- fifty thousand calls 135
+- high point of my ministry 135
+- "Perhaps I was just as innocent and naive as the young Hippies I met in the Haight-Ashbury." 136
+
+## Night Ministers
+
+### Donald Stuart
+- $6,000 with $1,800 housing allowance 143
+- St. John's United Church of Christ 144
+- Pilgrim Place in Claremont 144
+- police: Don obviously involved with a minor 148
+
+### Charles Lewis
+- thirty one years on streets 151
+- went independent before Council went bankrupt 152
+- downside: rare to find out what happened to people helped 152
+- Last Exit 152
+- Council on Religion and the Homosexual 153
+- took AIDS test to be able to talk about it 154
+- parents convinced to fly in, "got what you deserved", left for Ohio again 155
+- not just loved, lovable 155
+- "Compassion for me means 'with passion.'" 156
+- "Lighten the Darkness, Rekindle the Hope" 156
+
+### Donald Fox
+- governing board avoids petty fights 159
+- focus only on ministry and raising money to support it 159
+- recruited missing Roman Catholics 160
+- split three ways on including other religions 160
+- every night is an adventure 161
+- policy: never give out money 161
+- nearly slugged for not giving money 162
+- marriages and funerals in bars 163
+- "hell of a lot more loving than most churches" 164
+- challenge: not judging evangelists 164
+- oppressed minority: night shift 165
+
+### Lyle Beckman
+- saunter: slow walk invites eye contract and conversation 167
+- give choice of simple churchy prayer or from bottom of heart 168
+- program expansion 168
+- two-year fellowship program 169
+- New Testament scholar 171
+- shooting aliens with schizophrenic 172
+- "no different than you or me" 172
+- parable of wheat and tares 172
+
+## At Fifty
+- 10:00 p.m. to 4:00 a.m. 177
+- only crisis line offering face-to-face 177
+- regular outdoor worship services 178
+- Wellness Program: registered nurses with ministers 178
+- Annual Interfaith Memorial for Homeless Dead 178
+- Van Ministry 178
+- Clinical Pastoral Education 178
+- "The Church's Night Shift" 178
+- modeled after Chicago, Sydney, London 178
+- transportation to safe houses 179
+- "average of 18,000 substantive conversations each year" 180
+- calls from other areas 180
+- 7,000 calls per year typical 180
+- talk to anyone about anything 181
+- Open Cathedral service at Civic Center 181
+- average 75 worshippers, 150 lunches 181
+- Open Cathedral --- Castro 181
+- Mission (bilingual) 182
+- worship not required for meal or private conversation 183
+- active usher corps 183
+- Tuesday Night Gathering 183
+- Faithful Fools program 184
+- van: private place for screenings and conversations, distribution of goods 184
+- took over Homeless Dead memorial from Network Ministries 185
+- SF CARES consortium 185
+- CPE requirements for ordination 186
+- Sacred Space for LGBTQ 186
+- referral framework with Suicide Prevention 187
+- Interfaith Winter Shelter 187
+- go with others where they are weak, vulnerable, lonely, broken 188
+- welcome support from non-Christians, organizations 190
+- want to grow staff 190
