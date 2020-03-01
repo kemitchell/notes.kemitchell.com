@@ -313,6 +313,114 @@ tags:
 - Intermediate Technology Development Group 168
 - "Man is small, and, therefore, small is beautiful." 169
 
+##  Part III
+
+### 1.  Development
+- dual economy 174
+- evolution v. planning 176
+- assumption: modern sector can absorb whole population 178
+- poverty: education, organization, discipline 178
+- postwar "economic miracles" despite material devastation 179
+- education, organization, discipline do not jump, but must evolve 179
+
+### 2.  Social and Economic...
+- modern v. non-modern sectors 181
+- outside big cities 183
+- "process of mutual poisoning" 183
+- maximize workplaces, not productivity 183
+- treat labor as precious 184
+- Puerto Rico v. Japan 185
+- task:
+  1.  workplaces where people live now
+  2.  cheap to establish
+  3.  low-skill &c.
+  4.  local materials, products for local use 186
+- region or district, not country 186
+- equipment cost per workplace 190
+- indigenous - intermediate - modern technology 190
+- average income per worker divided by average capital per workplace 191
+- claim: little entrepreneurial ability 195
+- negative demonstration effect 196
+- not just going back to past methods 198
+- accumulation of precise knowledge 198
+- most technical assistance from Western machine exporter catalog 199
+
+### 3.  Two Million Villages
+- goods: no minds of their own, no communication issues 203
+- gulfs:
+  1.  rich-poor
+  2.  education
+  3.  town-country 203
+- psychological structures 204
+- GNP focus breeds neocolonialism 205
+- 2 GBP per person per year in aid v. oil revenues 207
+- "The best aid to give is intellectual aid ..." 208
+- what's good for rich may not be good for poort 210
+- "demonstrate to them all the marvellous things they could if they were already rich" 211
+- Administrators, Businessmen, Communicators 212
+- functions:
+  1.  communications
+  2.  information brokerage 214
+  3.  feedback
+  4.  substructures 215
+
+### 4.  The Problem of Unemployment in India
+- getting work done:
+  1.  motivation
+  2.  know-how
+  3.  capital
+  4.  outlet/market 219
+- "If people do not want to better themselves, they are best left alone..." 219
+- "what is education for?" 219
+- passport to privilege v. monastic vow 219
+- "trade union of the privileged" 220
+- Tolstoy: "I sit on a man's back..." 220
+- Saint Luke: "Much will be expected..." 220
+- biggest collective decision: choice of technology 222
+- Ford Motor: 1903 v. 1963 223
+- simple things of life by ever more sophisticated processes 225
+- no creations are possible, only extensions 226
+- stages:
+  1.  laughter and scorn
+  2.  lip service
+  3.  research
+  4.  application 227
+- focus on exports hangover of colonialism 228
+- start many at once 229
+- kickstart with public works program 230
+- "for making as a whole there are no exports" 230
+- Buddha tree planting plan 233
+
+### 1.  A Machine to Foretell the Future?
+- I Ching, Greek oracles ... the computer 238
+- qualities v. quantities, "Know Thyself" v. "Know Me" 238
+- the future is already here (assumed) 238
+- God: let some things be predictable, others not 239
+- people of great gifts delight in magnifying the inevitable 243
+- Brown: premature mathematization 244
+- "most people, most of the time, make no use of their freedom" 245
+- innovations from minorities using freedom 245
+- taxonomy:
+  1.  no freedom, fully predictable
+  2.  many  people on routine, relatively predictable
+  3.  plan eliminates freedom, fully predictable
+  4.  individual decisions unpredictable 245
+- mind superior to machine for effective forecasting 248
+- spurious verisimilitude and detailing 248
+- using forecasts without knowing assumptions 249
+- planning inseparable from power 249
+- "national plan" in a free society? 250
+- all long-term forecasting presumptuous and absurd 250
+- feasibility studies of other studies' assumptions 251
+- "endless multiplication of mechanical aids in fields which require judgment more than anything else ..." 253
+- slide rule and compound interest tables 254
+- computers valuable for subhuman work 254
+- "Great damage to human dignity..." 254
+- [This book postdates _Beyond Freedom and Dignity_.]
+- "... life ... is still worth living because it is sufficiently unpredictable to be interesting" 255
+- limits of destiny clarified 255
+- "huge game of make-believe" 255
+
 # Thoughts
 - tragically succumbs to black-or-white, us-versus-them with "stampede" v. "home-comers"
 - "great conflict" immediately follows rhapsodic rhetoric about peacemaking
