@@ -456,6 +456,97 @@ tags:
     - impact statistics reveal information to data subject 269
     - Mao's method with "practical people" 270
 
+### 3.  Socialism
+- of interest only for non-economic values, "overcoming of the religion of economics" 271
+- gains nothing that couldn't be had othewrise 271
+- terrifying simplicity of private enterprise 272
+- "Everything becomes crystal clear after you have reduced reality to one---one only---of its thousand aspects." 272
+- "successful businessmen are often astonishingly primitive" 273
+- "they live in a world made primitive by this process of reduction" 273
+- "real world occasionally makes its existence known ... force upon their attention ..." 273
+- "They feel exposed to incalculable dangers and 'unsound' forces and freely predict general disaster." 273
+- reduction fits mental patterns of science 273
+- "We are all socialists now." 274
+- deny that final aim is profit 274
+- BUT: no powerful simplification of objectives, measuring rod of success 274
+- "the power of simplicity" 275
+- "all fanaticism shows intellectual weakness" 275
+- about means: feeble0minded 275
+- [strong notes of Hegelian dialectic here]
+- both opposites are valid 276
+- no nationalization to achieve some narrow objectives 277
+- systematic smear campaign 278
+
+### 3.  Ownership
+- R.H. Tawney's "malaise" 279
+- system based on greed and envy 280
+- means of production, distribution, exchange 280
+- property: air or alternative to creative work 281
+- Scott Bader & Co. Ltd. 283
+- large-scale enterprises absurd as private property 283
+- feudalism 283
+- small-scale: natural, fruitful, just 284
+- medium: largely unnecessary 284
+- large: fiction, parasitism 284
+- nationalization in Britain 285
+- bundle of rights 285
+- principles:
+  1.  dangerous to mix business and politics 286
+  2.  public services: aim for profit 287
+      - never distribute; lower prices
+  3.  obligation to serve public interest 287
+      - organization decides the public interest
+  4.  mechanisms for all legitimate interests to express and influence 288
+  5.  keep small 288
+
+### 5.  New Patterns of Ownership
+- Galbraith: private affluence, public squalor 290
+- economic growth to American level hasn't got rid of public squalor 290
+- taxing money citizens consider their own 291
+- avoidance and evasion 291
+- "infrastructure" benefits private enterprise 291
+- no direct participation in profits 292
+- reflect public contribution in ownership structure 292
+- Scott Bader
+  - managers and the managed 293
+  - obstacle: Company Law 294
+  - prerequisites:
+    1.  profit sharing not enough
+    2.  self-denying ordinances 294
+  - headcount size limit 294
+  - GINI limit on compensation 295
+  - profit allocation, including bonuses and charity 295
+  - no selling for war purpose use 295
+  - ownership replaced by specific rights and responsibilities 297
+  - even when inordinately rich work harder ... 298
+  - Christian Way of life 301
+- New Methods of Socialization
+  - choices:
+    1.  private, public, collective ownership
+    2.  market or planned economy
+    3.  freedom or totalitarianism 302
+  - everyone claims freedom only comes from their own system 302
+  - derive "reality" from a conceptual framework 302
+  - "simplest" per concept-ridden propaganda 303
+  - 50% public ownership 304
+  - "the public hand" 305
+  - held locally 305
+  - managerial v. pecuniary rights 306
+  - no voting rights 306
+  - only harm mixing public and private 307
+  - inalienable shares 308
+  - Social Council of citizens 308
+  - "purchased" by abolition of taxes 310
+
+## Epilogue
+- "... ravishes nature ... mutilates man ..." 313
+- materialism 313
+- "Seek ye first the kingdom of God, and all these things shall be added unto you." 314
+- "...religious terms ... incomprehensible to the majority of modern men" 316
+- prudentia, justitia, fortitudo, temperantia 317
+- "crackpot-relism" 318
+- put our own inner house in order 318
+
 # Thoughts
 - tragically succumbs to black-or-white, us-versus-them with "stampede" v. "home-comers"
 - "great conflict" immediately follows rhapsodic rhetoric about peacemaking
