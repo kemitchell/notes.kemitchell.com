@@ -313,7 +313,7 @@ tags:
 - Intermediate Technology Development Group 168
 - "Man is small, and, therefore, small is beautiful." 169
 
-##  Part III
+##  Part 3
 
 ### 1.  Development
 - dual economy 174
@@ -390,6 +390,8 @@ tags:
 - kickstart with public works program 230
 - "for making as a whole there are no exports" 230
 - Buddha tree planting plan 233
+
+## Part 4
 
 ### 1.  A Machine to Foretell the Future?
 - I Ching, Greek oracles ... the computer 238
@@ -477,7 +479,7 @@ tags:
 - no nationalization to achieve some narrow objectives 277
 - systematic smear campaign 278
 
-### 3.  Ownership
+### 4.  Ownership
 - R.H. Tawney's "malaise" 279
 - system based on greed and envy 280
 - means of production, distribution, exchange 280
