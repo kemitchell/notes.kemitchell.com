@@ -421,6 +421,41 @@ tags:
 - limits of destiny clarified 255
 - "huge game of make-believe" 255
 
+### 2.  Towards a Theory...
+- only really effective communication face to face 258
+- nobody likes big hierarchy 258
+- ruled by rules 258
+- task: achieve smallness within large 259
+- centralizing-decentralizing pendulum 259
+- not either-or but one-and-other 259
+- order and freedom 259
+- entrepreneurial disorder 260
+- principles
+  1.  Principle of Subsidiary Function 260
+    - higher must not absorb functions of the lower
+    - center gains authority as freedom and responsibility of extremities preserved 261
+    - man holding balloons 261
+    - quasi-firms 262
+    - British National Coal Board 262
+  2.  Principle of Vindication 262
+    - "Good government is always government by exception." 262
+    - administrators armed with computers 263
+    - every unit falling short on some criterion 263
+    - rents and subsidies/credits 264
+  3.  Principle of Identification 264
+    - no new-year nil balances 265
+    - success leads to more freedom and finances 265
+    - balance: loans to and from center 265
+  4.  Principle of Motivation
+    - incomprehensibility stymies motivation 266
+  5.  Principle of the Middle Axiom 267
+    - antinomy or order and freedom 267
+    - center enunciates truth discovered 268
+    - between all talk and micromanaging 268
+    - record exceptions with answers to three probing questions 269
+    - impact statistics reveal information to data subject 269
+    - Mao's method with "practical people" 270
+
 # Thoughts
 - tragically succumbs to black-or-white, us-versus-them with "stampede" v. "home-comers"
 - "great conflict" immediately follows rhapsodic rhetoric about peacemaking
