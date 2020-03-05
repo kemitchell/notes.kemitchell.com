@@ -1,5 +1,5 @@
 ---
-title: 'Dreams' Is A Powerful Tool to Create Anything and Own Nothing
+title: "'Dreams' Is A Powerful Tool to Create Anything and Own Nothing"
 subtitle: The new game from the makers of LittleBigPlanet is a perfect fit for the social media era.
 types: [post]
 people:
