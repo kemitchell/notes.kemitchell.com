@@ -168,4 +168,84 @@ tags:
 - NRG helps execs conspire to coordinate film openeings 138
 - competitive positioning reports 138
 - monopoly of information 139
-- 
+- expert witness in Sahara suit 142
+- "never lost a case" because they settled 143
+- $5m damages, $13.9m fees 144
+- verdict overtunred on appeal 144
+- "only winners were the lawyers" 144
+- "fee-driven business" 144
+
+## Part V. Unoriginal Sin
+- "too bad it has not been made into a move already ... could have done teh remake" 149
+- remakes, sequels, TV spin-offs, video game extensions 149
+- 1928-50: studios specialized by genre 149
+- full weekly program: newsreel, short, ... 150
+- shape movie to fit marketing 150
+- same actor, indie and studio box office coparisons 151
+- "lost its audience to television" 152
+- teens
+  1.  cluster on TV programs
+  2.  popcorn and soda
+  3.  buy licensable products 153
+- 2 Fast 2 Furious > Hollywood Homicide 154
+- originator of formula: Snow White 154
+  1.  target children
+  2.  soundtrack
+  3.  licensable characters
+- [ ] Midas formula 155
+- financiers as villains 157
+- stereotype-sensitive advocacy group liaisons 158
+- Nazis, Communists, KGB, Mafiosos 159
+- Sum of All Fears: Muslim extremists became South African Nazi businessmen 159
+- Red Dawn Remake: North Korean, not Chinese 159
+- exclusive TV content: appeal to head of house who ends of continues subscriptions 162
+- most revenue abroad 163
+- dubbing: "Short on dialogue, long on action." 163
+
+## Part VI. Indie Film
+- Oscars: world's most lucrative infomercial 167
+- "star system" 167
+- package library licensing 170
+- Avatar reduced indie funding 171
+- "Bix Six" 171
+- Dino de Laurentiis invented pre-sale agreements in the 1970s 173
+- small distrubutors until 2008 173
+- $0 US market value 175
+- foreign sales agent 175
+- need completion bond to get bank loan against pre-sale abroad and subsidies and credits 176
+- equity investors fill budget gaps 178
+
+## Part VII. The Politics of Streaming
+- time window for each platform 183
+- WB started selling summer film DVDs for Thanksgiving and Christmas 184
+- self-feeding spiral 184
+- Universal faught Betamax in the courts for seven years 185
+- DVD: Sony owned Tristar, Toshiba owned part of WB 186
+- agreed on format at a conference 187
+- WalMart as biggest customer 187
+- acquire indies to increase shelf space in stores 187
+- Sony buys MGM for Blu-ray 188
+- secret deals with Disney and Fox 159
+- TV CEOs became studio CEOs 189
+- "We are your profit." 192
+- McDonald's and Coinstar formed Redbox as a JV 192
+- WalMart angry, so studios cut a deal to delay release to Rebox, but give same rates 193
+- Netflix began streaming on sublicense from Starz 193
+- "Home Premiere" 194
+- 2000-2002: 3-5% drop in tickets sold, almost half of theaters filed for bankruptcy 196
+- broadcast networks getting casyh from cable audience 197
+- "find this embarassment of choices somewhat paralyzing" 199
+- Netflix and first sale doctrine 199
+- Netflix-Starz streaming deal covered Disney and Sony output deals 200-201
+- Ultra-Violet cyberlocker 203
+- control premium content 204
+- analog dollars, digital pennies 204
+- TV-computer hybrid 205
+- policing encrypted cyberlockers difficult 206
+- piracy v. window system 206
+- intrests of studio parent companies differ: TV, hardware, &c. 208
+
+## Epilogue
+- founders Jewish immigrants 213
+- Edison trust, move to Hollywood 214
+- FCC rule against network interest in programming 217
