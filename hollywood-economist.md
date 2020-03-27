@@ -1,5 +1,9 @@
 ---
-title: Hollywood Economist
+title: Hollywood Economist 2.0
+subtitle: The Hidden Financial Reality Behind the Movies
+people:
+- Edward J. Epstein
+year: 2012
 types: [book]
 tags:
 - Hollywood
