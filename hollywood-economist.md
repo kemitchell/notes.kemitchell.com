@@ -16,6 +16,7 @@ tags:
 - Licensing
 ---
 
+## Introduction
 - business: creating rights that can be licensed, sold, and leveraged 15
 - 2007 average ~$40m per title in prints and advertising 16
 - distribution fee: 15-33%
