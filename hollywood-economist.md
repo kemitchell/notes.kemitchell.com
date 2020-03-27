@@ -58,7 +58,7 @@ tags:
 - NC-17 a death sentence 38
 - Showgirls NC-17 flop 38
 - R limits adds and tie-ins 38
-- Wal-Mart adult sections 39
+- Walmart adult sections 39
 - television plublic decency 40
 - "We may have to leave sex to the independents." 41
 - TVs killed moviegoing stats 40
@@ -231,14 +231,14 @@ tags:
 - Universal faught Betamax in the courts for seven years 185
 - DVD: Sony owned Tristar, Toshiba owned part of WB 186
 - agreed on format at a conference 187
-- WalMart as biggest customer 187
+- Walmart as biggest customer 187
 - acquire indies to increase shelf space in stores 187
 - Sony buys MGM for Blu-ray 188
 - secret deals with Disney and Fox 159
 - TV CEOs became studio CEOs 189
 - "We are your profit." 192
 - McDonald's and Coinstar formed Redbox as a JV 192
-- WalMart angry, so studios cut a deal to delay release to Rebox, but give same rates 193
+- Walmart angry, so studios cut a deal to delay release to Rebox, but give same rates 193
 - Netflix began streaming on sublicense from Starz 193
 - "Home Premiere" 194
 - 2000-2002: 3-5% drop in tickets sold, almost half of theaters filed for bankruptcy 196
