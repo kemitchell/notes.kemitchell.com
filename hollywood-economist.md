@@ -6,8 +6,12 @@ people:
 year: 2012
 types: [book]
 tags:
-- Hollywood
 - Business
+- Copyright
+- Films
+- History
+- Hollywood
+- Intellectual Property
 - Law
 - Licensing
 ---
