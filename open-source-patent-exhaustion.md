@@ -50,5 +50,5 @@ tags:
 Q&A
 - software alone can be a "good"
 - no analysis of design patents
-- McCoy: Bowman v. Monsanto
+- McCoy: [Bowman v. Monsanto](https://en.wikipedia.org/wiki/Bowman_v._Monsanto_Co.)
 - eerily specific video codec hypo
