@@ -1,0 +1,124 @@
+---
+title: Copyleft in Commerce
+types: [talk]
+urls:
+- https://www.youtube.com/watch?v=1UyBLqDUcV0
+people:
+- Jeremy Allison
+tags:
+- SAMBA
+- GPL
+- GPLv3
+- DRM
+- Open Source
+- Free Software
+- Software Licensing
+---
+
+- "Copyleft has always been commercial"
+- "The Free Software Foundation was funded by selling source code tapes."
+- Australian military: $0 invoice
+- worked a5t SGI
+- Red Hat killed the idea of GPL as noncommercial
+- "good old GPLv2"
+- terrified corporate lawyers
+- SAMBA one of earliest v3 adopters
+- 2007:
+  1.  Microsoft-Novell end run around GPLv2 section 7
+  2.  software patents
+  3.  DRM
+- quit Novell for Google over Microsoft-Novell deal
+- "please delete the previous e-mail"
+- NetApp v. Tux filesystem with patents
+- bothered most by DRM
+- Microsoft-Novell:
+  - patent indemnification pact
+  - covenant not to sue
+  - change royalty on Suse seats
+  - didn't really matter
+  - companies violate section 7 all the time
+  - patent cross-licenses under NDA
+  - Microsoft has changed
+  - money makes the world go 'round
+- software patents:
+  - feared personal lawsuits
+  - Scott Peterson: "You don't have any money!"
+  - suffered nomore than software generally
+  - universities close to NPEs
+- costs of GPLv3 adoption for SAMBA:
+  - Apple objected to new patent clause, but didn't offer any different language
+  - Apple pulled SAMBA, replaced
+  - only vendor saying so publicly
+  - probably lost a few code contributions
+  - Microsoft lost antitrust, published full protocols, beyond required
+  - proprietary vendors: No GPLv3!
+  - bought out (EMC, NetApp) to replace home-grown implenetations
+  - terminated support contracts
+  - "Thank you for ridding me of this turbulent priest."
+  - cost us, but recovered
+- DRM:
+  - Joss Wedon's The Big Bad
+  - Vernor Vinge's A Deepness in the Sky and Rainbow's End
+  - "user" to "renter"
+  - ink cartridges, John Deere, media
+  - SHAME ON YOU W3C...
+  - an act of vandalism
+- GPLv3:
+  - not much help
+  - a little
+  - has led to opening, usually via Developer Mode switch
+  - educate vendors about open user communities
+  - e.g. routers, SamiGO TV
+- helping vendors:
+  - partnership
+  - legal and technical help offered
+  - Conservancy laywer conference calls about their goals
+  - also programmer and user
+  - commodity, mature market
+  - everyone is good enough
+  - heresy:made change sto make easier to make and keep proprietary
+  - amateur programmer's day over
+  - paid contributors
+  - try to work with engineers, directly
+  - usually don't like closed, DRM
+  - erach out early
+    - design v. redesign
+  - encourage upstreaming
+    - great success rate
+    - priority reviews
+  - stand by your principles
+  - most coprporate lawyers haven't read it
+  - don't be too judgmental
+    - Hollywood: have to have DRM, go elsewhere
+    - be willing to walk away
+  - very rare that violators malicious
+    - just clueless
+- distribute your copyright ownership
+- preferred individual to corporate copyright contributions
+- Microsoft: avoid exposing patents
+- avoid corporate capture
+- Kernel close to corporate-owned
+- dves on payrolls don't want enforcement!
+- certificate of ownership
+- violator had bought a company
+  - shipping in three weeks
+  - major contributors allowed
+  - next release, do it right
+  - third party tried to assert
+  - wanted to stop them distributing a product
+- faith in individual developers
+- users don't understand DRM alternatives
+- kernel hackers now agaiunst GPL, e.g. Greg Kroah-Harman
+- GPLv3 dev is a GPLv2 dev who runms across a locked-down device
+- be nice when they change their mind
+- small amoutns of GPLv3 software can have massive effects if important enough
+- glibc: Why not GPLv3?
+  - they're frightened
+  - clang-GCC
+  - will happen to glibc anyway!
+
+## Q&A
+- projects vulnerable to corporate capture?
+  - decisions taken out of developer hands
+  - project direction
+  - e.g. Linux
