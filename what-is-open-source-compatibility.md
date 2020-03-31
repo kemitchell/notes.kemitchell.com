@@ -7,6 +7,7 @@ people:
 - Heather Meeker
 tags:
 - Open Source
+- Copyleft
 - Software Licensing
 - License Compatibility
 ---
