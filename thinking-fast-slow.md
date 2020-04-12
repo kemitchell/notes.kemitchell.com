@@ -5,6 +5,7 @@ year: 2011
 people:
 - Daniel Kahneman
 tags:
+- Science
 - Psychology
 ---
 
