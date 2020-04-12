@@ -135,4 +135,3 @@ tags:
 - meeting: have people write down summaries of positions before discussing 85
 - What You See Is All That Is (WYSIATI) 86
 - good stories: consistency, not completeness 87
--
