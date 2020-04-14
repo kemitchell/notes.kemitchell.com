@@ -40,6 +40,7 @@ tags:
 - As long ... be ready to submit ... (106)
 - the good-looking girl (122)
 - script for resisting impressions (123)
+  > Don't let the force of the impression when first it hits you knock you off your feet; just say to it, 'Hold on a moment; let me see who you are and what you represent.  Let me put you to the test.'  Next, don't let it pull you in by picturing to yourself the pleasures that await you.  Otherwise it will lead you by the nose wherever it wants.  Oppose it with some good and honourable thought, and put the dirty one to rout.  Practise this regularly, and you'll see what shoulders, what muscles, what stamina you acquire.  Today people care only for academic discussion, nothing beyond that.  But I'm presenting to you the real athlete, namely the one training to face off against the most formidable of impressions.
 - nothing proves ... validity ... someone forced to use it ... denying ... it is sound (128)
 - "nattering" (153)
 - health, sickness, enjoyment (155)
