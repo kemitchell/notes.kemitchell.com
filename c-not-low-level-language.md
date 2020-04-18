@@ -1,7 +1,7 @@
 ---
 title: C Is Not a Low-Level Language
 subtitle: Your Computer Is Not a Fast PDP-11
-type: [article]
+types: [article]
 people:
 - David Chisnall
 urls:

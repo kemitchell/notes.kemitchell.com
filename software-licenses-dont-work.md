@@ -1,6 +1,6 @@
 ---
 title: Software Licenses Don't Work
-type: [post]
+types: [post]
 urls:
 - https://www.infoworld.com/article/2678682/tim-o-reilly--software-licenses-don-t-work.html
 people:
