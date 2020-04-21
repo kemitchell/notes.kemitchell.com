@@ -58,6 +58,16 @@ types: [book]
 7.  recognized rights to organize
 8.  nested units
 
+> Such individuals can be expected to make contingent commitments to follow rules that:
+>
+> - define a set of appropriators who are authorized to use a CPR (design principle 1),
+> - relate to the specific attributions of the CPR and the community of appropriators using the CPR (design principle 2),
+> - are designed, at least in part, by local appropriators (design principle 3),
+> - are monitored by individuals accountable to local appropriators (design principle 4), and
+> - are sanctioned using graduated punishments (design principle 5).
+
+185-186
+
 ## Transformation Factors
 1.  cost-benefit
 2.  attentive individuals apply the cost-benefit analysis
