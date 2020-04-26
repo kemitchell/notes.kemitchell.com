@@ -8,4 +8,8 @@ urls:
 tags:
 - Computer Programming
 - Professions
+- Professional Responsibility
+- Agile Programming Movement
+- Programming Craftsmanship Movement
+- Business
 ---
