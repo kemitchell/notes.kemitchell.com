@@ -6,10 +6,10 @@ people:
 urls:
 - https://www.youtube.com/watch?v=ecIWPzGEbFc
 tags:
-- Computer Programming
-- Professions
-- Professional Responsibility
 - Agile Programming Movement
-- Programming Craftsmanship Movement
 - Business
+- Computer Programming
+- Professional Responsibility
+- Professions
+- Programming Craftsmanship Movement
 ---
