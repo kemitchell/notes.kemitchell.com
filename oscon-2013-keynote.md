@@ -1,0 +1,65 @@
+---
+title: OSCON 2013 Keynote
+types: [talk]
+urls:
+- https://www.youtube.com/watch?v=-bAAlPXB2-c
+people:
+- Tom Preston-Werner
+tags:
+- Open Source
+- GitHub
+- Software Licensing
+---
+
+- first principles
+- e.g. freedom
+- Stark Principle
+- choosealicense.com
+- public domain
+  - absence of copyright
+- Beer
+- WTFPL
+  - optional limitation of liability clause
+  - not really funny anymore
+- companies uneasy because overly broad
+- MIT
+  - freakin' awesome
+  - balance
+  - not too invested in the idea of your thing
+  - paragraph one: "do whatever you want with this software" in legal terminology
+  - paragraph two:
+    - "all of that, but, this other thing"
+    - "include the copyright notice ... with your software ..."
+  - paragraph three:
+    - very important
+    - implied warranty
+  - the perfect license right now
+  - the best thing you can for open source
+  - the best thing you can for freedom
+  - unlicensed software problematic
+- GPL
+  - not focused on freedom
+  - too long
+  - too many restrictions
+- how to build a company
+  - software developers have unique ability to create companies
+  - decisions based on freedom
+  - removing things
+  - minimum amount of stuff to create functioning system
+  - "business minimalism"
+  - feel pain _then_ add process to help people in the company
+  - eschew hierarchical management
+  - we don't have traditional managers
+  - not compatible with freedom
+  - about subjugation, control
+  - 192 people at GitHub
+  - highly networked
+  - structure dictated by communication channels
+  - highly autonomous teams
+  - remove barriers to freedom
+  - align selves with projects they find important
+  - Church's "Open Allocation"
+  - important and interesting
+  - constraint: also important to the company
+  - connections to strategic goals
+- start with freedom, finish with happiness
