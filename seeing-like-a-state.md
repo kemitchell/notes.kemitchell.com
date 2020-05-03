@@ -16,7 +16,7 @@ tags:
   1.  administrative ordering of nature and society 4
   2.  high-modernist ideology 4
       - visual aesthetic focus 4
-      - retreat to miniturization 4
+      - retreat to miniaturization 4
       - high point German WW I mobilization 5
   3.  authoritative state 5
   4.  weak civil society 5
@@ -39,7 +39,7 @@ tags:
 - cameral science 14
 - domainal forestry 14
 - wood shortage 14
-- more efficient woodstoves 14
+- more efficient wood stoves 14
 - minimum diversity, balance sheet, sustained yield 15
 - make forests easier to count &c. 15
 - geometric perfection 15
@@ -167,7 +167,7 @@ tags:
 - H M'ism: beliefs in sci. and tech. progress associated with industrialization, supreme self-confidence 89
 - descriptions to prescriptions 90
 - "great enthusiasm and revolutionary hubris" 90
-- Englightenment legal: not mirroring customs and practices but selecting most rational 90
+- Enlightenment legal: not mirroring customs and practices but selecting most rational 90
 - from state benefiting sovereign to state benefiting all members of society 91
 - Bauman: gardening metaphor 92
 - social engineering v. modern experience 93
@@ -177,7 +177,7 @@ tags:
 - deeply authoritarian 94
 - devalues or banishes politics 94
 - productivism: technology-physiology equiv. 98
-- American Tylorism, European energetics 98
+- American Taylorism, European energetics 98
 - appealed across political spectra 99
 - Lenin impressed by Rathenan and Mollendorf in Germany 100
 - changed mind on Taylorism 100
@@ -189,7 +189,7 @@ tags:
 ## 4.  The High-Modernist City
 - Le Corbusier profile 103
 - "Big is beautiful." 104
-- lvoed midtown Manhattan 108
+- loved midtown Manhattan 108
 - strict functional separation 109
 - "The Plan: Dictator" 111
 - hierarchy 112
@@ -198,7 +198,7 @@ tags:
 - any state that would give a free hand 113
 - right-wing politics 113
 - "city of nowhere" 114
-- recylced Moscow design for Paris 114
+- recycled Moscow design for Paris 114
 - indoctrinate children to create clientele 114
 - not freedom or autonomy, but fitting logically into a rational plan 114
 - slums as revolutionary menace 116
@@ -253,7 +253,7 @@ tags:
 - metaphors: classroom, barracks 148
 - body and brain 149
 - ten wise men easy to arrest v. hundred fools 149
-- enemies bettert equipped, so freedom of criticism favored usurpers 150
+- enemies better equipped, so freedom of criticism favored usurpers 150
 - "masses" 150
 - "able to develop only trade-union consciousness" 151
 - executives and engineers of enterprise 151
@@ -274,10 +274,10 @@ tags:
 - "the actual revolutionary process resembled little..." 157
 - not brought about by vanguard party 158
 - succeeded in capturing revolution once accomplished fact 158
-- utter confusion and localized spotaneity 158
+- utter confusion and localized spontaneity 158
 - reconquest 159
 - standard just so story of revolution perhaps the ultimate state simplification 160
-- those who faught in "Russian Revolution" discovered this about themselves later 160
+- those who fought in "Russian Revolution" discovered this about themselves later 160
 - stress: agency, purpose, genius of leaders
   minimize: contingency 161
 - shift in tone toward anarchism to destabilize Karensky regime 161
@@ -289,7 +289,7 @@ tags:
 - mechanization
 - tech'y, especially electricity 166
 - silent, precise, invisible, mathematical 166
-- centarlizing 166
+- centralizing 166
 - Peter the Great's St. Petersburg 167
 
 ### Luxemburg
@@ -303,7 +303,7 @@ tags:
 - unruliness as sign of vitality 171
 - fructifying deposit 172
 - Luxemburg :: Jane Jacobs 172
-- phsyician mindset 173
+- physician mindset 173
 - dictatorship of whole proletariat 173
 - socialism already mapped out or emergent 174
 
@@ -314,8 +314,8 @@ tags:
 - treating workers as infants 176
 - stochastic process of successive approximations 177
 - Greek mētis 177 only by challenging practice
-- no storict means-ends distinction 178
-- journy and destination 179
+- no strict means-ends distinction 178
+- journey and destination 179
 - potential for revolution that defeats central purpose 179
 
 # Part 3
@@ -334,7 +334,7 @@ tags:
 - subversive 187
 - concentration camps 188
 - colonial preference for plantations 189
-- smallholders outcomplete larger units 189
+- smallholders outcompete larger units 189
 - "efficiency" for tax, discipline, &c. 189
 - didn't relapse after independence 190
 - analogy to company towns 190
@@ -347,9 +347,9 @@ tags:
 - Ernest Gellner's Enlightenment:
   1.  individual sovereignty
   2.  rational authority of experts 193
-- centralizing, no tliberating force 193
-- tzarist administrative utopianism 193
-- Pter the Great's St. Petersburg 194
+- centralizing, no liberating force 193
+- tsarist administrative utopianism 193
+- Peter the Great's St. Petersburg 194
 - model cities and settlements 194
 - Prussian order and efficiency 194
 - punishment books 194
@@ -359,35 +359,35 @@ tags:
 - "Octobering" instead of baptism 195
 - League of Time inspired We and 1984 195
 - large revolution reenactments 195
-- miniaturized order in actual chasos 196
+- miniaturized order in actual chaos 196
 - American envy of political scope of Soviet planning 197
 - agricultural engineers 197
 - Thomas Campbell farm in Montana 197
-- collapse: draught, end of government support 198
+- collapse: drought, end of government support 198
 - different advantages: access to credit, political influence, marketing 198
 - depression foreclosures created "chain farms" 199
 - proposed national farming corporation 199
 - Russians visited USA 199
 - Soviets hired thousands of US specialists 200
 - Tennessee Valley Authority precedent 200
-- Americna planned Верблюд совхоз 201
+- American planned Верблюд совхоз 201
 - defeated by context 201
 
 ### Collectivization in Soviet Russia
 - flying blind 202
 - virtual war 202
-- quintessential Pyrhhic victory 202
-- mentality persisted through Krushchev's virgin lands sceme 204
+- quintessential Pyrrhic victory 202
+- mentality persisted through Khrushchev's virgin lands scheme 204
 - Yaney: s/liberate/systematize/g, s/reform/progress/mobilization/g 204
 - revolution make country harder to tax 205
 - military reconquest 206
 - underreport land, overreport population 207
 - reverted to same methods as tsarists 208
 - rebels for Bolsheviks and Soviets (and the Land Decree), against Communists (renamed Bolsheviks) 208
-- NEP: having defeated Whites, surrenderd to peasantry 208
+- NEP: having defeated Whites, surrendered to peasantry 208
 - call meetings of poor peasants to make dekulakization look grass-roots 209-10
 - give land, then take grain 210
-- on planning failure, reduced scale without scarificing abstraction 211
+- on planning failure, reduced scale without sacrificing abstraction 211
 - semiotics: always replacing existing practice 211
 - regional specialization 212
 - meeting quote only raises ante 212
@@ -404,13 +404,13 @@ tags:
 
 ### State Landscapes of Control and Appropriation
 - newest state turning oldest class into a copy of proletariat 218
-- authoritarian high-modernist states imnpose doctrinal preferences in social arrangements on populations 219
+- authoritarian high-modernist states impose doctrinal preferences in social arrangements on populations 219
 - legibility table 220: settlements, economic units property regimes, technology and resource organizations 220
 
 ### Limits of Authoritarian High Modernism
 - Soviet failures overdetermined 220
 - good: wheat, rye, oats, barley, maize 221
-- bad: fruits, veggies, small livestock, eggs, dairly, flowers 221
+- bad: fruits, veggies, small livestock, eggs, dairy, flowers 221
 - wheat v. red raspberries 221
 - ceded to individuals with personal interest 222
 - "Failed almost completely" 227
@@ -432,7 +432,7 @@ tags:
 - ratifying bodies public 247
 - "streamlining" 237
 - "destructive conservatism" 241
-- lack of faith in people, hypter faith in experts 242
+- lack of faith in people, hyper faith in experts 242
 - polycropp0ing/intercropping/relay cropping 242
 - became competitive 244
 - status and power 245
@@ -448,8 +448,8 @@ tags:
 - peasant empiricism 253
 - status and interests 254
 - Sartre: "Ideas cannot digest reality." 255
-- work-to-rule strikies 256
-- "deep" or "thick" crities 256
+- work-to-rule strikes 256
+- "deep" or "thick" cities 256
 - thinness of, e.g., Esperanto 256
 - "A national languages is a dialect with an army." 257
 - on failure, retreat to appearances and miniatures 257
@@ -486,7 +486,7 @@ tags:
   1.  unexamined assumptions
   2.  serves officials and state
   3.  shortsighted
-  4.  can'T handle complexity 264
+  4.  can't handle complexity 264
 - "imperial pretensions" 264
 - "Cultivation is simplification." 264
 - landraces 265
@@ -516,7 +516,7 @@ tags:
 - "An explicit set of rules will take you further when the situation is cut-and-dried." 303
 
 ## 9. Thin Simplifications ... Mētis
-- "Any large social process or event will inevitably be far more complex than th eschemata we can devise, prospectively or retrospectively, to map it." 309
+- "Any large social process or event will inevitably be far more complex than the schemata we can devise, prospectively or retrospectively, to map it." 309
 - "parasitic on informal processes" 210
 - work-to-rule strike 310
 - know-how, common sense, experience, knack, mētis 311
@@ -533,9 +533,9 @@ tags:
 - partisan v. generic knowledge 318
 - conservation of skills over daring innovation 319
 - techne, episteme, mētis 319
-- reformulate systems to breacket uncertainty 321
+- reformulate systems to bracket uncertainty 321
 - practical success, not contribution to broader body of knowledge 323
-- Defoe's Jounral of the Plague Year 325
+- Defoe's Journal of the Plague Year 325
 - variolation v. smallpox 325
 - stochastic method 325
 - ingredients:
@@ -558,7 +558,7 @@ tags:
 - plastic, local, divergent 332
 - oral cultures avoid rigid orthodoxy 352
 - analogy to language 332
-- use black ants against red to save mago tree 333
+- use black ants against red to save mango tree 333
 - 19th century French veillées 334
 - ironies of mētis 334
 - de-skilling 336
@@ -566,7 +566,7 @@ tags:
 - plantation agriculture 338
 - logic of contract farming the same 339
 - danger: universalist pretensions of epistemic knowledge and authoritarian social engineering 340
-- troubling: imeprialism 340
+- troubling: imperialism 340
 - appeal for those who want to hold past in contempt 341
 
 ## 10.  Conclusion
@@ -579,13 +579,13 @@ tags:
 - "Plan on surprises." 345
 - "Plan on human inventiveness." 345
 - "standardized citizens" 346
-- "...economics ... formidable resolving power ... qualititative matters into qualititative issues with a single metric ... profit or loss " 346
+- "...economics ... formidable resolving power ... qualitative matters into quantitative issues with a single metric ... profit or loss " 346
 - Berlin: "vivisection of societies" 347
 - "only one thing going on" 347
 - time-lapse map of unplanned movement 347
 - single-purpose institutions as sensory-deprivation tanks 349
 - 18-19th century: asylums, workhouses, prisons, reformatories 349
-- "tned to diminish the skills, agility, initiative, and morale of their intended beneficiaries" 349
+- "tend to diminish the skills, agility, initiative, and morale of their intended beneficiaries" 349
 - create the population that needs close supervision 349
 - '89 soviet agricultural collectivization 350
 - E. Germany: jack of all trades, wheeler-dealer kept factories afloat 350
@@ -597,7 +597,7 @@ tags:
 - abstract out, then pick, a few elements to impose 352
 - "social domestication" 353
 - replacing natural capital with cultivated natural capital yields costs and benefits 353
-- Emilia-Romagnia family firms 354
+- Emilia-Romagna family firms 354
 - "polyvalent, adaptive, small units" 354
 - Jefferson's yeoman farmer as ideal democratic citizen 355
 - does system promise to improve participants' skills &c.? 355
