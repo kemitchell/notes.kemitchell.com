@@ -462,3 +462,55 @@ tags:
 - distill a cadre or progressives 260
 - "dark twin" unofficial reality 261
 - pretense, insistence on order correlates to necessary volume of nonconforming, sustaining practices 261
+
+## 7.  Compulsory Villagization in Tanzania
+- ujamaa village campaign 1973-76 223
+- >= 5m people 223
+- lots of documentation 223
+- development and welfare project 223
+- v. Soviet collectivization: benign, weak state 223
+- continuous with colonial policy 224
+- no one to be forced 224
+- was coercive, violent 224
+
+### Colonial High-Modernist Agriculture in East Africa
+- head taxes, private plantations, encourage white settlers 225
+- British assumptions in Malawi match independent, socialist Tanzania 226
+- complete faith in scientific agriculture, total skepticism about existing practices 226
+- mini Tennessee Valley Authority 227
+
+## 8. Taming Nature: ...
+- agriculture inherently simplification 262
+- western model fails in Third World 263
+- issues:
+  1.  unexamined assumptions
+  2.  serves officials and state
+  3.  shortsighted
+  4.  can'T handle complexity 264
+- "imperial pretensions" 264
+- "Cultivation is simplification." 264
+- landraces 265
+- phytoengineering 267
+- Jack Hanna's supermarket tomato and harvester during wartime labor shortage 267
+- "crop mono-culture and genetic uniformity invite epidemics" 268
+- pesticides an integral part 269
+- "a degree of self-confidence in the American model that is hard to overestimate" 270
+- failed in most cases 272-3
+- greater tropical plant diversity 273
+- "The city desk of a newspaper, a rabbit's intestines, or the interior of an aircraft engine..." 275
+- shifting cultivation/slash-and-burn 282
+- "imperial" knowledge 284
+- agricultural innovations bred commercial and political monopolies 287
+- "the more rigid and exclusive is the specialist's boundary, and the stricter the control within it, the more disorder rages around it" 288
+- limits of scientific work 288
+- isolation of variables 289
+- loss of control from lab to field work 289
+- DDT 291
+- "blind spots" 290
+- "Weak Peripheral Vision" 292
+- microeconomics 292
+- unaccounted costs of economics of scale 293
+- "shortsightedness" 293
+- "Nothing ... scientific method itself ... require ... short-run perspective." 294
+- "less wrong" 297
+- "An explicit set of rules will take you further when the situation is cut-and-dried." 303
