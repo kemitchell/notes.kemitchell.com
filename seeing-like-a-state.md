@@ -514,3 +514,95 @@ tags:
 - "Nothing ... scientific method itself ... require ... short-run perspective." 294
 - "less wrong" 297
 - "An explicit set of rules will take you further when the situation is cut-and-dried." 303
+
+## 9. Thin Simplifications ... Mētis
+- "Any large social process or event will inevitably be far more complex than th eschemata we can devise, prospectively or retrospectively, to map it." 309
+- "parasitic on informal processes" 210
+- work-to-rule strike 310
+- know-how, common sense, experience, knack, mētis 311
+- European settlers needed local knowledge of Native Americans 311
+- Squanto v. Farmer's Almanac 312
+- Odysseus 313
+- "cunning" 312
+- hard to teach other than by experience 313
+- emergency and disaster specialists 314
+- wellhead firemen 314
+- Which weight is heavier? 315
+- broadly similar, never identical situations 316
+- local port pilots 316
+- partisan v. generic knowledge 318
+- conservation of skills over daring innovation 319
+- techne, episteme, mētis 319
+- reformulate systems to breacket uncertainty 321
+- practical success, not contribution to broader body of knowledge 323
+- Defoe's Jounral of the Plague Year 325
+- variolation v. smallpox 325
+- stochastic method 325
+- ingredients:
+  1.  pressing need
+  2.  promising leads
+  3.  freelance experimenters
+  4.  time
+  5.  sharing results 426
+- the science of muddling through 327
+- bounded rationality, satisficing 328
+- decomposition does not imply novice could take charge 328
+- at a loss to explain
+- eye tremor and syphilis 329
+- Bugis sea captains wake from sleep 329
+- "practiced eye" 329
+- boiling maple syrup 330
+- almost smoking oil 330
+- rapid adoption of maize in West Africa 331
+- high modernism needed "other" 331
+- plastic, local, divergent 332
+- oral cultures avoid rigid orthodoxy 352
+- analogy to language 332
+- use black ants against red to save mago tree 333
+- 19th century French veillées 334
+- ironies of mētis 334
+- de-skilling 336
+- capitalist profit: efficiency and control 336
+- plantation agriculture 338
+- logic of contract farming the same 339
+- danger: universalist pretensions of epistemic knowledge and authoritarian social engineering 340
+- troubling: imeprialism 340
+- appeal for those who want to hold past in contempt 341
+
+## 10.  Conclusion
+- tragedies: hubris, but hoped to improve human condition 342
+- regarded selves as far smarter than were, subjects as more stupid than were 343
+- analysis reduces contingency 344
+- Hayek and Kropotkin 344
+- "Take small steps." 345
+- "Favor reversibility." 345
+- "Plan on surprises." 345
+- "Plan on human inventiveness." 345
+- "standardized citizens" 346
+- "...economics ... formidable resolving power ... qualititative matters into qualititative issues with a single metric ... profit or loss " 346
+- Berlin: "vivisection of societies" 347
+- "only one thing going on" 347
+- time-lapse map of unplanned movement 347
+- single-purpose institutions as sensory-deprivation tanks 349
+- 18-19th century: asylums, workhouses, prisons, reformatories 349
+- "tned to diminish the skills, agility, initiative, and morale of their intended beneficiaries" 349
+- create the population that needs close supervision 349
+- '89 soviet agricultural collectivization 350
+- E. Germany: jack of all trades, wheeler-dealer kept factories afloat 350
+- underwritten by mētis 351
+- "all socially engineered systems of formal order are in fact subsystems of a larger system on which they are ultimately dependent" 351
+- the market is also a coordinated system 351
+- anomalies turn out integral 351
+- "mētis to the rescue" 352
+- abstract out, then pick, a few elements to impose 352
+- "social domestication" 353
+- replacing natural capital with cultivated natural capital yields costs and benefits 353
+- Emilia-Romagnia family firms 354
+- "polyvalent, adaptive, small units" 354
+- Jefferson's yeoman farmer as ideal democratic citizen 355
+- does system promise to improve participants' skills &c.? 355
+- Vietnam Memorial v. Iwo Jima flag statute 355-6
+- mētis: use it or lose it 356
+- democracy itself 357
+- common law 357
+- language 357
