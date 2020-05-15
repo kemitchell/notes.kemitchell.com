@@ -6,3 +6,111 @@ people:
 urls:
 - https://archive.org/details/copyleftconf2020-allison
 ---
+
+- not a Google, Samba, of Conservancy talk
+- surprisingly strong feelings about this
+- What does Free Software mean?
+- big distinction with open source
+- grew up in Sheffield
+- access to source of everything I used, e.g. university workstations
+- "that's 'open source'"
+- for technocrats --- arrogance
+- "You can't read code? Your problem!"
+- "I get code. That's what I wanted."
+- GCC encounter
+- difference: FX expands that freedom on behalf of users
+- "They get exactly what they want. This is all they ever wanted."
+- MIT printer story, 2020 edition
+  - support sends RMS to GitHub repo with GPLv2 source
+  - Richard sends a PR
+  - firmware isn't modifiable
+  - model out of support, no updates coming
+  - offer to brick remotely for discount on latest model
+  - RMS just as helpless as a non-programmer
+- involved in GPLv3, especially anti-DRM provisions
+- excellent license
+- "It's a complete failure."
+- AGPL even more soundly rejected
+- seen as troublemakers
+- "we would go back to GPLv2 if we could"
+- most common AGPL use case: a la Microsoft Shared Source
+- poison pill license
+- "Licensing freedom is a complete failure."
+- same experiment, expecting to work next time
+- tedious audiophile, but no magic cables
+- surround sound system
+  - "custom Linux-based OS"
+  - no source offer
+  - not bad people!
+  - they don't even know
+  - What is the point of trying to enforce?
+- trying to stop the tide like trying to stop proprietary use of open software
+- stop depending on licensing
+- "Licensing does not work."
+- "Enforcement does not work."
+- SFC is never going to enforce a license on these things
+- great for B2B, not individuals
+- invidiauls will lose to VMWare
+- get rolled
+- FSF resuses to use GPLv2 for glibc
+- Jeremy's tipping point
+- FSF: would make the project less popular
+- true of Samba
+- "courage of none of our convictions"
+- licenses only used for coalescing communities
+- The Cloud
+  - The FSF completely and utterly missed the move to the cloud.
+  - missed move to the Web before it
+  - development in the 1990s
+  - the dark ages
+  - now: open source components on massive distributed machine, talking protocols
+  - "Nobody cares about linking. Nobody even thinkgs about linking in software development."
+  - protocols
+  - documentation of Microsoft protocols
+  - interwtwined protocols
+  - reimplementable protocols
+  - Wiundows "one of the most open systems on the planet today."
+  - everything in and out fully documented
+  - committed to fixing spec issues
+  - protocols matter, not licensing
+  - "documented, interoperable protocols are how software works today"
+- SMB
+  - Microsoft
+  - Samba
+  - bunch of other implementations that died
+  - until Microsoft documented everytying
+  - explosion of new implementations
+  - proprietary OK!
+  - "This is a space that is working."
+  - free choices for all components
+  - use open client with closed server and vice-versa
+  - quality of implementations
+- interop the new frontier
+- engineering solution to a political problem ... never works ... only solutions I know how to build ...
+- now: open source over proprietary, sometimes open protocols
+- hybrid, multicloud only possible with documented protocols
+- DRM to lock down interop.
+- if a vendor wants to lock down, they can
+- enlightened self-interest
+- NFSv4 treading water, SMB growing
+- carrots over sticks
+- IoT abandonment problem
+  - pulling support for products
+  - can't recycle
+  - bricks
+  - Logitech Squeezebox
+    - abandoned by manufacturer
+    - released server
+    - can still buy servers today
+    - FLOSS extending lifetime
+    - environmental impact
+- PC architecture
+  - built today's software industry
+  - next for cloud
+- Q&A
+  - implementations will have bugs
+  - security review of specs
+  - embedded deviceds may still have license pressure
+  - companies will go to any length to avoid users installing other things on their devices
+  - "open source technocrats"
+  - apply pressure once it talks to a web service
