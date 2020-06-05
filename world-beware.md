@@ -61,3 +61,126 @@ tags:
 - "corporados" 56
 - "triumphalists" 56
 - fundamentalists 56
+
+## 3. The Corporados
+- barrons of the Middle Ages 60
+- make money rebuilding what was destroyed 60
+- fifrty-first state 60
+- exceptions:
+  1.  Progressive era
+  2.  New Deal 61
+- New Deal culminated under Johnson 62
+- new breed of entrepreneur in 1980s 64
+- "super CEOs" 65
+- Lee Iacocca 66
+- first CEO to perform in company's commercials 66
+- saved Chrysler by securiying subsidy 66
+- Jack Welch's record retirement package 69
+- "a mad compulsion, a competitive fever" 71
+- "Avidity" 71
+- corporate crime wave 72
+- Regal S&L deregulation 72
+- Enron zenith 73
+- no more trust in accounting 75
+- "Economic royalists"
+- FDR 76
+- public be damned 76
+- above the law 76
+- big government that serves interests 77
+- "Doing business with the government has always been the fastest way of making a fortune in capitalist societies." 78
+- Donald Trump's Apprentice 79
+- international republic of profit 80
+- religious commitment to Darwinian self-interest 81
+- Chamberlain's municipal socialism 82
+- rugged individualist exceptions:
+  1.  UK since Thatcher
+  2.  US since Reagan 84
+- "recrudescence" 84
+- homeless and derelict deaths rising 85
+- discipline labor force, punish the poor 85
+- NAFTA and GATT 86
+- infatuation with markets 86
+- Pentagon's Policy Analysis Market 87
+- market as God-word 88
+- "Money is the eloquence of the rich." 89
+- incorruptible millionaire candidates 89
+- PBS' The Commanding Heights "most perniciously erroneous work ever broadcast" 89
+- Soviet falls as refutation of social justice under capitalism 91
+- Hayek's Capitalism and the Historians a "bizarre account" 91
+- Keynes: fact, Hayek: pure theory 92
+- world made up of mixed economies 92
+- Iraq: privatization, scrap duties 95
+- Canada on no-contracts list 97
+- Bechtel contracts 97
+- EO 13303 contractor immunity 100
+- New Bridge Strategies consulting to land Iraq contracts 101
+- Wolfowitz heads World Bank 103
+- Naomi Klein's "disaster capitalism" 104
+- Office of Reconstruction and Stabilization country plans 104
+- Plato: rulers' falsehood and deception in the category of medicine 106
+- Strauss: esoteric and exoteric teachings 106
+
+## Chapter 4
+- ruthlessness 107
+- list of triumphalists by name 107
+- "the most intellectual of all American conservatives" 108
+- Reagan progeny 108
+- spendthrift 109
+- military-industrial complex 109
+- "the only memorable remark that Eisenhower ever made" 110
+- social contract: pass through high wages and benefits 111
+- new Reagan strategy: use military spending to eliminate regulation and social programs 111
+- burn money to keep it from liberals 113
+- "the peace dividend" 113
+- Gulf War as opportunity to return to Cold War spending 114
+- Project for a New American Century looking for a new Pearl Harbor 114
+- war on terror larger than Cold War 115
+- bin Laden as Emmanuel Goldstein 115
+- no-bid contracts 116
+- Bush revived SOI missile defense 117
+- no reporting contractor casualties 127
+- Cheney got Halliburton into military contracting after Bush I 128
+- influential European emigres 129
+- "monstrous image of state power ... no relationship to their country's own history" 130
+- stand up to evil 131
+- analogy to Hitler youth, Taliban 131
+- dead peasant laws: life insurance on employees without telling them 132
+- "it is not at all clear that the triumphalists _want_ democracy" 133
+- rancor v. communists now focused on liberals 134
+- liberalism not exciting, ideology, elegant, but patchwork of fixes for arisen problems 134
+- conservatism ... has grown a brain 136
+- "boobocracy" 137
+- Buckley, Will: big words, convoluted sentences, smug tone 138
+- intoxicating big ideas 138
+- [ ] definition of ideology 138
+- left writers don't take fat checks from unions and unemployed 139
+- Ayn Rand 139
+- Straussian contradictions 140
+- esoteric teachings 141
+- Path Buchanan's "America First" 143
+- Office of Special Plans 144
+- cherry-picking intel, aborted use of Ahmad Chalabi 144
+- embittered ex-leftists 145
+- libertarians 145
+- Haybek and Friedman in pantheon 146
+- paramilitarists 147
+- NRA 147
+- as great a terrorist threat as al Qaeda 149
+- mistrust of government serves interests of triumphalists 150
+- conspiracy theories "Sure sign of a society that is losing confidence in itself" 150
+- political scavengers 152
+- redraw the Middle East for profit 152
+- "socially ambitious families ... money validates all things ... rich are the legitimate rulers of society ... lower orders as proven failures .... None of them has ever experienced economics insecurity..." 153
+- "Approval or complacency at the grassroots..." 154
+
+## Chapter 5
+- "there have never been stranger bedfellows" 156
+- Eisenhower the last moderate Republican president 158
+- Goldwater beats Rockefeller 158
+- Sunbelt takeover 159
+- Reagan takes South from Carter, a Southern local 160
+- not hte America that led the grand alliance of WWII 162
+- religious fanatics mirror each other 162
+- evangelical politics from temperance on 163
+- Premillenialist / Dispensational 164
+- 47% born-again Christians 166
