@@ -184,3 +184,23 @@ tags:
 - evangelical politics from temperance on 163
 - Premillenialist / Dispensational 164
 - 47% born-again Christians 166
+- "the most politically organizedd religions force in the country" 166
+- Reagan first to bid for their votes 166
+- George W. Bush:
+  - weekly prayer breakfast
+  - banned swearing
+  - read Oswald Chambers sermons 167
+- religious impulsiveness 167
+- Christian Nation amendment 167
+- first taking interest in foreign affairs 168
+- single issue: Israel 168
+- Bush' turn from alcoholism 169
+- badmouthing Bush 170
+- breeding a perfect red heifer to burn for ashes to approach the temple 173
+- interview with Jesus Freak 173
+- counterculture := "to suggest that youtful protest had to do with issues that went beyond standard politics" 174
+- "bibliolatry" 175
+- haunted by McCarthyite claim that communists use civil liberties overturn them 175
+- "_I_ am bound for gloy and _you_ are condemned to eternal perdition." 176
+- pluralism := spontaneous joy we take in the human variety, the delightful surprise we experience when we meet someone who has taken another road in life" 176
+- Walt Whitman: singing the song of ourselves, mass jazz improvization on a million themes 176
