@@ -170,3 +170,58 @@ tags:
 - Why didn't middle class mobilize politically? 108
 - accept their own disadvantage 109
 - "We are Wall Street" chain e-mail 110
+
+## Chapter 5
+- before WWII, Yale accepted 90% 111
+- "put themselves down for", not "applied" 111
+- mandatory coat-and-tie in response to GI Bill students 112
+- Harvard president started SAT 112
+- "intellectual investment banker" 113
+- need-blind admissions 113
+- rejected son of Yale's biggest donor 113
+- Jews and public school graduates 114
+- Matthew Effect 115
+- "whom to marry and whether to stay married" 116
+- assortative mating 116
+- college gender balance 117
+- divorce declined among the elite 118
+- maternal stress and childhood development 119
+- motherhood drives women out of elite law firms 120
+- "concerted cultivation" 120
+- dollar for dollar, preschool the most consequential 123
+- "public privates" in NYC raise big money 127
+- astonishing skew in school spending on rigch students 128
+- South Korea: 12% of household spending on tutors, some national celebrities 129
+- education spending incresaing inequality more than any factor 130
+- overall, college admissions not more competitive 133
+- elite colleges more competitive 133
+- elite sutdents reporting data when administrators don't 137
+- 3.1% of GDP on higher educaiton in 2014 138
+- subsidies at top and bottom 138
+- professional schools weren't graduate schools until early 20th century 140
+- on-the-job training 140
+- When IBM abandoned lifetime employment in early 1990s, asked local gun shops to close. 141
+- "from the mail room to the corner office" 141
+- HBS: >$350k per student per year 142
+- workplace training had been democratic 144
+- "Meritocrats may be made rather than born, but they are not self-made." 144
+- estimates of differences in education investment 145
+- put into a trust fund bequeathed on death of parents: $10/child 146
+- "revolution in family wealth transmission" 147
+- old aristocrats ... bred underachievers 149
+- "human capital resists being wasted by those who are given it" 150
+- legal system requires mixing human capital with labor for sale 150
+- children don't inherit parents' debts 150
+- more enduring intergenerational privilege system 151
+- Hunter College High School 151
+- "meritocracy thwarted equal opportunity" 152
+- "homework holidays" 152
+- extravagant education diminishes everyone else's 153
+- removes brake on consumption 153
+- Seoul: curvature of the spine, "turtleneck syndrome" 154
+- 70% of YLS report mental health issues 154
+- shallow ambitions, fear of failure 154
+- "excellent sheep" 154
+- DFW: "a self is something you just have" 155
+- saints, geniuses, or eyes on the prize 155
+- "exhausted, anxious inauthenticity" 156
