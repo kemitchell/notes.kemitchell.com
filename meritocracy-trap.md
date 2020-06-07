@@ -1,6 +1,10 @@
 ---
 title: The Meritocracy Trap
+subtitle: How America's Foundational Myth Feeds Inequality, Dismantles the Middle Class, and Devours the Elite
 types: [books]
+year: 2019
+people:
+- Daniel Markovits
 tags:
 - Economics
 - Politics
