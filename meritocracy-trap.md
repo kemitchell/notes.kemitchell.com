@@ -60,3 +60,113 @@ tags:
 - Amazon work culture 43
 - hit the wall ... climb the wall 44
 - "Vietname moment": no more college deferments 44
+
+## Chapter 3
+- sumptuary codes 46
+- Midcentury America class merger 47
+- litany of new gaps 48
+- dispersion of physical capital v. proximity of human capital 49
+- class inequalities akin to de jure racial segregation 50
+- campaign finance 52
+- lobbying dwarfs campaign finance 52
+- corporations target philanthropic causes of legislators on committee that regulate them 52
+- money primary 53
+- law and po9licy sensitivity 54
+- 15k trusts and estates lawyers 54
+- 2017:
+  - AMLaw 100: $90b
+  - Big Four: $134b
+  - 10 Banks: $250b 54
+- falsely assumes everyone owns property the same way 55
+- "lawtakers" 55
+- accept or reject 55
+- resist the state 55
+- private sector didn't used to compete for elite lawyers, accountants, bankers 55
+- government departments as employment agencies 57
+- transformation of DC 57
+- income defense industry 58
+- Cohn: "only morons pay the estate tax" 58
+- high-net-worth: >$30m to invest 58
+- effectively ungovernable 59
+- Middle Ages social norms of martial valor and Christian virtue 59
+- now in direct competition 59
+- "Elites detach from a society whose political support they no longer need..." 60
+- prejudice without meritocractic gloss inexcusable 60
+- identity politics can end career, greed, cruelty, vice can't 60
+- "backward", "rednecks", "white trash", "flyover country" 61
+- first generation professionals: middle class identity overwritten, unlike identity minorities 62
+- resentment 62
+- wounded dignity 62
+- deprives of an oppressor 63
+- admiring identity politics plus contempt for mid-skill labor iunforms resent of minorities 63
+- deaden internalized shame 63
+- "victims without a language of victimhood" 63
+- nowhere to go but nativism 63
+- class resentment v. professionals, not entrepreneurs or heretiary 64
+- start a business, succeed outside elite institutions 65
+- due process and rule of law 65
+- underwrite scale blindness 65
+- natural backlash 65
+- OBama and financial crisis 66
+- 2012 victory: high water mark 67
+- Sanders and Trump 67
+- Trump "repudiationism" 67
+- GW Bush of Trump's inaugural speech: "That was some weird shit." 68
+- voting: routine labor v. creativity and expert analysis 69
+- "Basket of deplorables" 70
+- "genuine but unwinnable competition" 71
+- "neither natural nor necessary virtues" 72
+- meritorious only in context 72
+- "not simply unequal but justyly unequal" 73
+- merit an artificial construct 73
+
+## Chapter 4
+- inequality now about wealth, not poverty 78
+- redistribution from industrious elite to less industrious middle class 79
+- Ben Frankly: <= 8 hours work per day 80
+- Veblen: industry and exploit 80
+- JPM: "if you destroy the leisure class you destroy civilization" 81
+- bankers' hours 81
+- 1962, per ABA: 1,300 billable hours 82
+- "Banker 9-to-5" 82
+- time divide: <30 or >50 hours 85
+- rich man's nonworking wite wife final expression of elite exploit 86
+- Piketty's Capital in the 21st Century 88
+- rich owe massive incomes to sell8ing their own labor 89
+- superordinate v. middle-class labor 89
+- 8/10 richest Americans from founder's stock or partnership shares 89
+- hdedge fund manager earnings 90
+- typical investment bank pays half of revenues after interest to workers 90
+- "war between talent and capital" 90
+- founder shares, stock appreciation, carried interest as labor (?!) 91
+- same: pensions, owner-occupied house 91
+- Zuckerberg's open letter 94
+- disinherited, but not deprived of caste 95
+- 5/10 richest signed Buffett-Gates pledge 95
+- "the rich now pursue intense and remunerative work reflectively and for its own sake" 95
+- "extreme hours ... underwrite elite claims to deserve salaries" 97
+- Stakhanov 98
+- high-end (upper-middle) and low-end (middle-lower) inequality 98
+- The Affluent Society 99
+- The Other America 99
+- US government didn't collect poverty statistics until 1963-4 100
+- Kennedy's war on poverty 101
+- "The most important ... it reduced poverty." 102
+- poverty "narrower and shallower" 102
+- "Rising economic inequality todayis driven overwhelmingly not by poverty but by concentrated wealth." 102
+- "even as they consume more, the poor yield less labor in exchange" 103
+- income ratios 104
+- 2015:
+  - majority no longer middle class
+  - middle class no longer richest in world 105
+- Gini index 105
+- high-end inequality growing faster than low-end inequality falling 106
+- "aristocratic wastrels" 106
+- "You didn't build that." 107
+- middle class is no humanitarian catastrophe 107
+- elites get richer, government takes less 108
+- middle class the biggest losers 108
+- journalists, teachers, and professors, middle managers, government workers, engineers, doctors in general practice 108
+- Why didn't middle class mobilize politically? 108
+- accept their own disadvantage 109
+- "We are Wall Street" chain e-mail 110
