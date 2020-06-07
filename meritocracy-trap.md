@@ -10,10 +10,13 @@ tags:
 - Politics
 ---
 
+# Introduction
 - "Merit is a sham." ix
 - the Ivy League, Silicon Valley, and Wall Street xiii
 - "concentrates trainign and work that were once spread evenly across society ... too narrow to carry their weight" xiv
 - explains Trump xvii
+
+# Part 1
 
 ## Chapter 1
 - "You could learn how poor people were simply by asking how hard they worked." 4
@@ -124,6 +127,8 @@ tags:
 - "not simply unequal but justyly unequal" 73
 - merit an artificial construct 73
 
+# Part 2
+
 ## Chapter 4
 - inequality now about wealth, not poverty 78
 - redistribution from industrious elite to less industrious middle class 79
@@ -229,3 +234,15 @@ tags:
 - DFW: "a self is something you just have" 155
 - saints, geniuses, or eyes on the prize 155
 - "exhausted, anxious inauthenticity" 156
+
+## Chapter 6
+
+# Part 3
+
+## Chapter 7
+
+## Chapter 8
+
+## Chapter 9
+
+# Conclusion
