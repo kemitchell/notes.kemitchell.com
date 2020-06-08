@@ -350,6 +350,40 @@ tags:
 - teeth replace height as physical wealth sign 231
 
 ## Chapter 8
+- 1970s: ran out of income, began borrowing 233
+- stangnant wages v. increasing consumption 233
+- excess elite income created savings ready to lend 234
+- Europe: funded by redistribution 235
+- fueled demand for finance 235
+- Wall Street rocket scientists 236
+- math and pragmatism fit 237
+- financial innovations had lain dormant 237
+- wages capture half of net revenue 239
+- appearance of super-skilled induced innovations that favored elite 239
+- feedback loops 239
+- guides innovation 240
+- Safeway founder: cash-and-carry, not credit for groceries 240
+- "Behave as if it were operated for the benefit of its producers, employees, and consumers" 241
+- 1968: Safeway worked to save a competitor serving Hunters Point 241
+- "meritocratic rather than democratic" 242
+- separation of ownership and control 243
+- innovations remaking management 242
+- Wachtell and Skadden 244
+- McKinsey, Bain, BCG 245
+- management consulting 245
+- corporate reengineering 246
+- 1986 LBO of Safeway 247
+- theory: advanced ancient societiies didn't industrialize because of abundant slave labor 249
+- unskilled labor moves to city, prompts innovations to use it 250
+- Germany on opposite path 252
+- "capital deepening" 253
+- Vietname draft and high baby boom college enrollment induced computers 254
+- ladder metaphor 254
+  1.  which rung you start on
+  2.  distance between rungs 255
+- individually innocent choices 256
+- resource curse of human capital 256
+- "Meritocratic inequality casts a human resource curse." 257
 
 ## Chapter 9
 
