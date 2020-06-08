@@ -1,5 +1,6 @@
 ---
 title: The Meme Hustler
+types: [aricle]
 people:
 - Evgeny Morozov
 urls:
