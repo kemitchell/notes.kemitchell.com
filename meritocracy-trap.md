@@ -292,6 +292,62 @@ tags:
 # Part 3
 
 ## Chapter 7
+- Clinton v. Bush families 197
+- extravagancies of today weren't available 199
+- Fortune profile of modest executives 200
+- the Great Compression 201
+- racism as "America's original sin" 201
+- compulsive overwork v. enforced idleness 202
+- midcentury: hired with little screening 203
+- skill screening enables segregation 204
+- entirely separate firms 204
+- military: virtually no educated elites 204
+- "during the 1990-91 Gulf War, more Yale students were murdered in New Haven than were killed in Iraq." 205
+- "language of fellowship rather than opposition, of collaboration rather than command" 205
+- informality over decorum 205
+- independence vand initiative v. tools 206
+- New Jim Crow 206
+- "Now that industry constitutes status, racial subordination is imposed through legally enforced idleness." 207
+- aristocrats held themselves above bourgeois secuality and family 207
+- "nonpracticing libertines" 208
+- socially liberal, but structurally sexist 209
+- Faceook pays for egg freezing 209
+- elite wage gap growing 210
+- elite: same-sex marriage, everyone else: collapse of opposite-sex marriage 210
+- religions segregated by education and income 211
+- Catholics resemble average 211
+- elite: socially progressive, economically conservative 212
+- richest of the rich even more economically conservative 213
+- classical liberalism 214
+- Trump: social conservatism, hostile to trade and free market 214
+- less time in passive leisure 215
+- more time on fitness 215
+- more time alone 215
+- friends time over family, neighbors 215
+- migratory v. rooted 215
+- new foods to impress new people v. familiar foods for family and old friends 215
+- US household consumption 70% GDP 216
+- brands bought say more of income than race 216
+- 63% home ownership by 1970 216
+- thrift goods 217
+- thrift lending 218
+- "Payday lending ... obviously cannot afford their own lives ..." 218
+- 320k NYC consumer debt cases per year 219
+- luxury goods no longer attainable 220
+- "sybaritic" 221
+- concierge medical care 221
+- middle of consumption hollowing out 222
+- no items in common 223
+- rentiers lived near their assets 224
+- elite moves to cities, middle class stays put 225
+- countryside brain drain 225
+- Chelsea Clinton 228
+- Barbara and Jenna Bush 229
+- caste system 229
+- class migrants 229
+- affinity groups: bring down class structure or ease transition into elite? 230
+- "I feel like I have changed sides in some very important game." 230
+- teeth replace height as physical wealth sign 231
 
 ## Chapter 8
 
