@@ -75,8 +75,8 @@ tags:
 - dispersion of physical capital v. proximity of human capital 49
 - class inequalities akin to de jure racial segregation 50
 - campaign finance 52
-- lobbying dwarfs campaign finance 52
-- corporations target philanthropic causes of legislators on committee that regulate them 52
+- <mark>lobbying dwarfs campaign finance 52</mark>
+- <mark>corporations target philanthropic causes of legislators on committee that regulate them 52</mark>
 - money primary 53
 - law and policy sensitivity 54
 - 15k trusts and estates lawyers 54
@@ -88,28 +88,28 @@ tags:
 - "lawtakers" 55
 - accept or reject 55
 - resist the state 55
-- private sector didn't used to compete for elite lawyers, accountants, bankers 55
+- <mark>private sector didn't used to compete for elite lawyers, accountants, bankers 55</mark>
 - government departments as employment agencies 57
 - transformation of DC 57
 - income defense industry 58
 - Cohn: "only morons pay the estate tax" 58
-- high-net-worth: >$30m to invest 58
+- <mark>high-net-worth: >$30m to invest 58</mark>
 - effectively ungovernable 59
 - Middle Ages social norms of martial valor and Christian virtue 59
 - now in direct competition 59
-- "Elites detach from a society whose political support they no longer need..." 60
+- <mark>"Elites detach from a society whose political support they no longer need..." 60</mark>
 - prejudice without meritocractic gloss inexcusable 60
 - identity politics can end career, greed, cruelty, vice can't 60
 - "backward", "rednecks", "white trash", "flyover country" 61
-- first generation professionals: middle class identity overwritten, unlike identity minorities 62
+- <mark>first generation professionals: middle class identity overwritten, unlike identity minorities 62</mark>
 - resentment 62
 - wounded dignity 62
 - deprives of an oppressor 63
-- admiring identity politics plus contempt for mid-skill labor uniforms resent of minorities 63
+- admiring identity politics plus contempt for mid-skill labor informs resent of minorities 63
 - deaden internalized shame 63
 - "victims without a language of victimhood" 63
 - nowhere to go but nativism 63
-- class resentment v. professionals, not entrepreneurs or hereditary 64
+- <mark>class resentment v. professionals, not entrepreneurs or hereditary 64</mark>
 - start a business, succeed outside elite institutions 65
 - due process and rule of law 65
 - underwrite scale blindness 65
@@ -132,7 +132,7 @@ tags:
 ## Chapter 4
 - inequality now about wealth, not poverty 78
 - redistribution from industrious elite to less industrious middle class 79
-- Ben Frankly: <= 8 hours work per day 80
+- Ben Franklin: <= 8 hours work per day 80
 - Veblen: industry and exploit 80
 - JPM: "if you destroy the leisure class you destroy civilization" 81
 - bankers' hours 81
@@ -140,10 +140,10 @@ tags:
 - "Banker 9-to-5" 82
 - time divide: <30 or >50 hours 85
 - rich man's nonworking wife final expression of elite exploit 86
-- Piketty's Capital in the 21st Century 88
+- Piketty's _Capital in the 21st Century_ 88
 - rich owe massive incomes to selling their own labor 89
 - superordinate v. middle-class labor 89
-- 8/10 richest Americans from founder's stock or partnership shares 89
+- <mark>8/10 richest Americans from founder's stock or partnership shares 89</mark>
 - hedge fund manager earnings 90
 - typical investment bank pays half of revenues after interest to workers 90
 - "war between talent and capital" 90
@@ -160,14 +160,12 @@ tags:
 - The Other America 99
 - US government didn't collect poverty statistics until 1963-4 100
 - Kennedy's war on poverty 101
-- "The most important ... it reduced poverty." 102
+- <mark>"The most important ... it reduced poverty." 102</mark>
 - poverty "narrower and shallower" 102
 - "Rising economic inequality today is driven overwhelmingly not by poverty but by concentrated wealth." 102
 - "even as they consume more, the poor yield less labor in exchange" 103
 - income ratios 104
-- 2015:
-  - majority no longer middle class
-  - middle class no longer richest in world 105
+- <mark>2015: majority no longer middle class, middle class no longer richest in world 105</mark>
 - Gini index 105
 - high-end inequality growing faster than low-end inequality falling 106
 - "aristocratic wastrels" 106
@@ -181,13 +179,13 @@ tags:
 - "We are Wall Street" chain e-mail 110
 
 ## Chapter 5
-- before WWII, Yale accepted 90% 111
+- <mark>before WWII, Yale accepted 90% 111</mark>
 - "put themselves down for", not "applied" 111
 - mandatory coat-and-tie in response to GI Bill students 112
 - Harvard president started SAT 112
 - "intellectual investment banker" 113
 - need-blind admissions 113
-- rejected son of Yale's biggest donor 113
+- <mark>rejected son of Yale's biggest donor 113</mark>
 - Jews and public school graduates 114
 - Matthew Effect 115
 - "whom to marry and whether to stay married" 116
@@ -197,7 +195,7 @@ tags:
 - maternal stress and childhood development 119
 - motherhood drives women out of elite law firms 120
 - "concerted cultivation" 120
-- dollar for dollar, preschool the most consequential 123
+- <mark>dollar for dollar, preschool the most consequential 123</mark>
 - "public privates" in NYC raise big money 127
 - astonishing skew in school spending on rich students 128
 - South Korea: 12% of household spending on tutors, some national celebrities 129
@@ -205,22 +203,22 @@ tags:
 - overall, college admissions not more competitive 133
 - elite colleges more competitive 133
 - elite students reporting data when administrators don't 137
-- 3.1% of GDP on higher education in 2014 138
+- <mark>3.1% of GDP on higher education in 2014 138</mark>
 - subsidies at top and bottom 138
-- professional schools weren't graduate schools until early 20th century 140
+- <mark>professional schools weren't graduate schools until early 20th century 140</mark>
 - on-the-job training 140
-- When IBM abandoned lifetime employment in early 1990s, asked local gun shops to close. 141
+- <mark>When IBM abandoned lifetime employment in early 1990s, asked local gun shops to close. 141</mark>
 - "from the mail room to the corner office" 141
 - HBS: >$350k per student per year 142
 - workplace training had been democratic 144
-- "Meritocrats may be made rather than born, but they are not self-made." 144
+- <mark>"Meritocrats may be made rather than born, but they are not self-made." 144</mark>
 - estimates of differences in education investment 145
 - put into a trust fund bequeathed on death of parents: $10/child 146
 - "revolution in family wealth transmission" 147
 - old aristocrats ... bred underachievers 149
-- "human capital resists being wasted by those who are given it" 150
-- legal system requires mixing human capital with labor for sale 150
-- children don't inherit parents' debts 150
+- <mark>"human capital resists being wasted by those who are given it" 150</mark>
+- <mark>legal system requires mixing human capital with labor for sale 150</mark>
+- <mark>children don't inherit parents' debts 150</mark>
 - more enduring intergenerational privilege system 151
 - Hunter College High School 151
 - "meritocracy thwarted equal opportunity" 152
@@ -231,18 +229,18 @@ tags:
 - 70% of YLS report mental health issues 154
 - shallow ambitions, fear of failure 154
 - "excellent sheep" 154
-- DFW: "a self is something you just have" 155
+- David Foster Wallace: "a self is something you just have" 155
 - saints, geniuses, or eyes on the prize 155
 - "exhausted, anxious inauthenticity" 156
 
 ## Chapter 6
 - "collectivism, risk aversion, and a complacent insulation from adversaries" 157
 - "Rivals did not impinge" 157
-- "The top jobs pay so well because a raft of new technologies has fundamentally transformed work to make exceptional skills enormously more productive..." 158
+- <mark>"The top jobs pay so well because a raft of new technologies has fundamentally transformed work to make exceptional skills enormously more productive..." 158</mark>
 - labor market polarization 158
 - lousy and lovely jobs 158
-- gloomy jobs: no immediate reward or hope for promotion 159
-- glossy jobs: outer shine masks inner distress 159
+- <mark>gloomy jobs: no immediate reward or hope for promotion 159</mark>
+- <mark>glossy jobs: outer shine masks inner distress 159</mark>
 - technology accounts for change 159
 - McDonald's labor and training 159
 - technology explains skill and pay changes 161
@@ -253,8 +251,8 @@ tags:
 - home mortgage loan officers 165
 - Dictionary of Occupational Titles 167
 - 19th-20th centuries: too much turnover for managers 169
-- simple 0products easy to contract for and price 170
-- unions peaked at 1/3 private workforce 171
+- simple products easy to contract for and price 170
+- <mark>unions peaked at 1/3 private workforce 171</mark>
 - wave of 1980s restructurings 173
 - reversion to artisanal model 176
 - midcentury retail 177
@@ -264,29 +262,29 @@ tags:
 - quarter of midskill jobs gone since 1980 180
 - "The labor market has ... abandoned the midcentury workforce's democratic center ..." 181
 - education maps the fault line 182
-- 1963: postgraduate income premium over BA was near zero 183
+- <mark>1963: postgraduate income premium over BA was near zero 183</mark>
 - Lafarque's The Right to Be Lazy 185
 - the four-hour day 185
 - Keynes assumed productivity would increase leisure 186
 - released from drudgery, excluded from industry 187
 - listless indolence 187
-- "Idleness under meritocracy produces almost precisely the social effect that toil produced under aristocracy" 187
+- <mark>"Idleness under meritocracy produces almost precisely the social effect that toil produced under aristocracy" 187</mark>
 - lifetime employment "simply no longer on the table" 188
 - "work/life balance is not on the menu" 189
 - "A superordinate worker who rejects self-exploitation brings his whole world crashing down---on his children." 189
 - "rat-race equilibrium" 189
-- scull rowers display on victory, eight-person boats slum in exhaustion 189
-- "When individual effort ... employers cannot measure ... use long hours as a proxy ..." 189
+- <mark>scull rowers display on victory, eight-person boats slum in exhaustion 189</mark>
+- <mark>"When individual effort ... employers cannot measure ... use long hours as a proxy ..." 189</mark>
 - lavish apartment with a mattress and a sleeping bag 190
 - no personal lives 190
 - "stories of lawyers closing deals or drafting documents in hospital delivery rooms are disturbingly common" 190
 - stress-related workers' comp claims 191
 - Palo Alto Medical Foundation mobile doctors' office 191
-- vitamin D deficiency in SV 191
+- <mark>vitamin D deficiency in SV 191</mark>
 - "being paid $3m to fight Mike Tyson" 193
 - not vocational 192
 - find "the Harvard of everything" 193
-- vocational v. alienated labor 193
+- <mark>vocational v. alienated labor 193</mark>
 - "In order for meritocratic inequality to rise, the ideology of leisure had to be broken." 194
 
 # Part 3
