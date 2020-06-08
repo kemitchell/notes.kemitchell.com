@@ -13,7 +13,7 @@ tags:
 # Introduction
 - "Merit is a sham." ix
 - the Ivy League, Silicon Valley, and Wall Street xiii
-- "concentrates trainign and work that were once spread evenly across society ... too narrow to carry their weight" xiv
+- "concentrates training and work that were once spread evenly across society ... too narrow to carry their weight" xiv
 - explains Trump xvii
 
 # Part 1
@@ -23,7 +23,7 @@ tags:
 - "labor" movement reclaimed indignity as a mark of pride 5
 - education became a contest to join the elite 5
 - elite working hours 10
-- old stima on work not for passion 11
+- old stigma on work not for passion 11
 - gloomy v. glossy jobs 12
 - top 1%: ~1/5 total income top tenth of 1%: ~1/10 total income 13
 - grades track achievement, wages track merit 14
@@ -36,7 +36,7 @@ tags:
 
 ## Chapter 2
 - prospects for suburban Detroit pinboys 20
-- inequality without deprivation harmless, inequality trackin gindustry innocent 24
+- inequality without deprivation harmless, inequality tracking industry innocent 24
 - meritocrats know how to train 25
 - rich-poor academic gap exceeds white-black gap pre-Brown v. Board 26
 - "not being rich, he felt poor" 28
@@ -55,7 +55,7 @@ tags:
 - "Every owner who exploits an asset purely as a means to an end alienates himself from that asset's true nature and intrinsic worth." 37
 - Chekhov's The Cherry Orchard 37
 - person as means, alienation 37
-- elementary school "problem of hte day" must solve before going home, with no time, to elarn to snatch time 39
+- elementary school "problem of the day" must solve before going home, with no time, to learn to snatch time 39
 - avoid passionate commitments 39
 - honor: being useful without fuss 40
 - Marxist alienation 40
@@ -66,7 +66,7 @@ tags:
 - Ronnie Lott amputated finger to avoid missing game 43
 - Amazon work culture 43
 - hit the wall ... climb the wall 44
-- "Vietname moment": no more college deferments 44
+- "Vietnam moment": no more college deferments 44
 
 ## Chapter 3
 - sumptuary codes 46
@@ -78,7 +78,7 @@ tags:
 - lobbying dwarfs campaign finance 52
 - corporations target philanthropic causes of legislators on committee that regulate them 52
 - money primary 53
-- law and po9licy sensitivity 54
+- law and policy sensitivity 54
 - 15k trusts and estates lawyers 54
 - 2017:
   - AMLaw 100: $90b
@@ -105,16 +105,16 @@ tags:
 - resentment 62
 - wounded dignity 62
 - deprives of an oppressor 63
-- admiring identity politics plus contempt for mid-skill labor iunforms resent of minorities 63
+- admiring identity politics plus contempt for mid-skill labor uniforms resent of minorities 63
 - deaden internalized shame 63
 - "victims without a language of victimhood" 63
 - nowhere to go but nativism 63
-- class resentment v. professionals, not entrepreneurs or heretiary 64
+- class resentment v. professionals, not entrepreneurs or hereditary 64
 - start a business, succeed outside elite institutions 65
 - due process and rule of law 65
 - underwrite scale blindness 65
 - natural backlash 65
-- OBama and financial crisis 66
+- Obama and financial crisis 66
 - 2012 victory: high water mark 67
 - Sanders and Trump 67
 - Trump "repudiationism" 67
@@ -124,7 +124,7 @@ tags:
 - "genuine but unwinnable competition" 71
 - "neither natural nor necessary virtues" 72
 - meritorious only in context 72
-- "not simply unequal but justyly unequal" 73
+- "not simply unequal but justly unequal" 73
 - merit an artificial construct 73
 
 # Part 2
@@ -139,12 +139,12 @@ tags:
 - 1962, per ABA: 1,300 billable hours 82
 - "Banker 9-to-5" 82
 - time divide: <30 or >50 hours 85
-- rich man's nonworking wite wife final expression of elite exploit 86
+- rich man's nonworking wife final expression of elite exploit 86
 - Piketty's Capital in the 21st Century 88
-- rich owe massive incomes to sell8ing their own labor 89
+- rich owe massive incomes to selling their own labor 89
 - superordinate v. middle-class labor 89
 - 8/10 richest Americans from founder's stock or partnership shares 89
-- hdedge fund manager earnings 90
+- hedge fund manager earnings 90
 - typical investment bank pays half of revenues after interest to workers 90
 - "war between talent and capital" 90
 - founder shares, stock appreciation, carried interest as labor (?!) 91
@@ -162,7 +162,7 @@ tags:
 - Kennedy's war on poverty 101
 - "The most important ... it reduced poverty." 102
 - poverty "narrower and shallower" 102
-- "Rising economic inequality todayis driven overwhelmingly not by poverty but by concentrated wealth." 102
+- "Rising economic inequality today is driven overwhelmingly not by poverty but by concentrated wealth." 102
 - "even as they consume more, the poor yield less labor in exchange" 103
 - income ratios 104
 - 2015:
@@ -199,13 +199,13 @@ tags:
 - "concerted cultivation" 120
 - dollar for dollar, preschool the most consequential 123
 - "public privates" in NYC raise big money 127
-- astonishing skew in school spending on rigch students 128
+- astonishing skew in school spending on rich students 128
 - South Korea: 12% of household spending on tutors, some national celebrities 129
-- education spending incresaing inequality more than any factor 130
+- education spending increasing inequality more than any factor 130
 - overall, college admissions not more competitive 133
 - elite colleges more competitive 133
-- elite sutdents reporting data when administrators don't 137
-- 3.1% of GDP on higher educaiton in 2014 138
+- elite students reporting data when administrators don't 137
+- 3.1% of GDP on higher education in 2014 138
 - subsidies at top and bottom 138
 - professional schools weren't graduate schools until early 20th century 140
 - on-the-job training 140
@@ -252,7 +252,7 @@ tags:
 - banker bonus stats 164
 - home mortgage loan officers 165
 - Dictionary of Occupational Titles 167
-- 19th-20th centuryies: too much turnover for managers 169
+- 19th-20th centuries: too much turnover for managers 169
 - simple 0products easy to contract for and price 170
 - unions peaked at 1/3 private workforce 171
 - wave of 1980s restructurings 173
@@ -263,7 +263,7 @@ tags:
 - US auto: 1,200 robots per 10k employees 179
 - quarter of midskill jobs gone since 1980 180
 - "The labor market has ... abandoned the midcentury workforce's democratic center ..." 181
-- education maps teh fault line 182
+- education maps the fault line 182
 - 1963: postgraduate income premium over BA was near zero 183
 - Lafarque's The Right to Be Lazy 185
 - the four-hour day 185
@@ -271,15 +271,15 @@ tags:
 - released from drudgery, excluded from industry 187
 - listless indolence 187
 - "Idleness under meritocracy produces almost precisely the social effect that toil produced under aristocracy" 187
-- lifetime employment "simply no longer on teh table" 188
+- lifetime employment "simply no longer on the table" 188
 - "work/life balance is not on the menu" 189
-- "A superordinate worker who rejects self-explotation brings his whole world crashing down---on his children." 189
+- "A superordinate worker who rejects self-exploitation brings his whole world crashing down---on his children." 189
 - "rat-race equilibrium" 189
-- scull rowers display on victory, eigh-person boats slum in exhaustion 189
+- scull rowers display on victory, eight-person boats slum in exhaustion 189
 - "When individual effort ... employers cannot measure ... use long hours as a proxy ..." 189
 - lavish apartment with a mattress and a sleeping bag 190
 - no personal lives 190
-- "stories of lawyers closing deals or drafting documents in hospital delivery rooms are distrubingly common" 190
+- "stories of lawyers closing deals or drafting documents in hospital delivery rooms are disturbingly common" 190
 - stress-related workers' comp claims 191
 - Palo Alto Medical Foundation mobile doctors' office 191
 - vitamin D deficiency in SV 191
@@ -293,7 +293,7 @@ tags:
 
 ## Chapter 7
 - Clinton v. Bush families 197
-- extravagancies of today weren't available 199
+- extravagances of today weren't available 199
 - Fortune profile of modest executives 200
 - the Great Compression 201
 - racism as "America's original sin" 201
@@ -305,13 +305,13 @@ tags:
 - "during the 1990-91 Gulf War, more Yale students were murdered in New Haven than were killed in Iraq." 205
 - "language of fellowship rather than opposition, of collaboration rather than command" 205
 - informality over decorum 205
-- independence vand initiative v. tools 206
+- independence and initiative v. tools 206
 - New Jim Crow 206
 - "Now that industry constitutes status, racial subordination is imposed through legally enforced idleness." 207
-- aristocrats held themselves above bourgeois secuality and family 207
+- aristocrats held themselves above bourgeois sexuality and family 207
 - "nonpracticing libertines" 208
 - socially liberal, but structurally sexist 209
-- Faceook pays for egg freezing 209
+- Facebook pays for egg freezing 209
 - elite wage gap growing 210
 - elite: same-sex marriage, everyone else: collapse of opposite-sex marriage 210
 - religions segregated by education and income 211
@@ -351,7 +351,7 @@ tags:
 
 ## Chapter 8
 - 1970s: ran out of income, began borrowing 233
-- stangnant wages v. increasing consumption 233
+- stagnant wages v. increasing consumption 233
 - excess elite income created savings ready to lend 234
 - Europe: funded by redistribution 235
 - fueled demand for finance 235
@@ -373,11 +373,11 @@ tags:
 - management consulting 245
 - corporate reengineering 246
 - 1986 LBO of Safeway 247
-- theory: advanced ancient societiies didn't industrialize because of abundant slave labor 249
+- theory: advanced ancient societies didn't industrialize because of abundant slave labor 249
 - unskilled labor moves to city, prompts innovations to use it 250
 - Germany on opposite path 252
 - "capital deepening" 253
-- Vietname draft and high baby boom college enrollment induced computers 254
+- Vietnam draft and high baby boom college enrollment induced computers 254
 - ladder metaphor 254
   1.  which rung you start on
   2.  distance between rungs 255
@@ -401,8 +401,8 @@ tags:
 - agrarian economy: long-term land management 262
 - value contextual, like skill as a baseball picture 264
 - "...meritocratic virtues ... artifacts of economic inequality" 264
-- leading argumetn circular 265
-- marginal output, allowing otyhers to reorganize production optimally without contributor 265
+- leading argument circular 265
+- marginal output, allowing otters to reorganize production optimally without contributor 265
 - "discounted by the reduced productivity that these innovation simpose on non-elite workers" 267
 - "the best evidence suggests that the elite's true product may be near zero" 267
 - not accompanied by economic growth or productivity increases 267
@@ -441,7 +441,7 @@ tags:
 - special-purpose legal technicians 280
 - limit complexity in finance 280
 - change payroll tax 281
-- regressiveness of payroll tax has exceeded progressivness of income tax 281
+- regressiveness of payroll tax has exceeded progressiveness of income tax 281
 - middle-class labor the highest taxed factor of production 281
 - wage subsidies plus higher minimum wage 282-3
 - 1968 LSE poster 284
