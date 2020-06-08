@@ -236,6 +236,58 @@ tags:
 - "exhausted, anxious inauthenticity" 156
 
 ## Chapter 6
+- "collectivism, risk aversion, and a complacent insulation from adversaries" 157
+- "Rivals did not impinge" 157
+- "The top jobs pay so well because a raft of new technologies has fundamentally transformed work to make exceptional skills enormously more productive..." 158
+- labor market polarization 158
+- lousy and lovely jobs 158
+- gloomy jobs: no immediate reward or hope for promotion 159
+- glossy jobs: outer shine masks inner distress 159
+- technology accounts for change 159
+- McDonald's labor and training 159
+- technology explains skill and pay changes 161
+- generic BA guarantees no place among elite 162
+- institutional, cultural, legal technologies 162
+- midcentury: elite avoided finance, middle class filled in 163
+- banker bonus stats 164
+- home mortgage loan officers 165
+- Dictionary of Occupational Titles 167
+- 19th-20th centuryies: too much turnover for managers 169
+- simple 0products easy to contract for and price 170
+- unions peaked at 1/3 private workforce 171
+- wave of 1980s restructurings 173
+- reversion to artisanal model 176
+- midcentury retail 177
+- Bezos was summa cum laude and Phi Beta Kappa at Princeton, recruited American Rhodes Scholars 178
+- superstar entertainers 178
+- US auto: 1,200 robots per 10k employees 179
+- quarter of midskill jobs gone since 1980 180
+- "The labor market has ... abandoned the midcentury workforce's democratic center ..." 181
+- education maps teh fault line 182
+- 1963: postgraduate income premium over BA was near zero 183
+- Lafarque's The Right to Be Lazy 185
+- the four-hour day 185
+- Keynes assumed productivity would increase leisure 186
+- released from drudgery, excluded from industry 187
+- listless indolence 187
+- "Idleness under meritocracy produces almost precisely the social effect that toil produced under aristocracy" 187
+- lifetime employment "simply no longer on teh table" 188
+- "work/life balance is not on the menu" 189
+- "A superordinate worker who rejects self-explotation brings his whole world crashing down---on his children." 189
+- "rat-race equilibrium" 189
+- scull rowers display on victory, eigh-person boats slum in exhaustion 189
+- "When individual effort ... employers cannot measure ... use long hours as a proxy ..." 189
+- lavish apartment with a mattress and a sleeping bag 190
+- no personal lives 190
+- "stories of lawyers closing deals or drafting documents in hospital delivery rooms are distrubingly common" 190
+- stress-related workers' comp claims 191
+- Palo Alto Medical Foundation mobile doctors' office 191
+- vitamin D deficiency in SV 191
+- "being paid $3m to fight Mike Tyson" 193
+- not vocational 192
+- find "the Harvard of everything" 193
+- vocational v. alienated labor 193
+- "In order for meritocratic inequality to rise, the ideology of leisure had to be broken." 194
 
 # Part 3
 
