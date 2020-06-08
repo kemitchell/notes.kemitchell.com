@@ -349,21 +349,21 @@ tags:
 - <mark>teeth replace height as physical wealth sign 231</mark>
 
 ## Chapter 8
-- 1970s: ran out of income, began borrowing 233
+- <mark>1970s: ran out of income, began borrowing 233</mark>
 - stagnant wages v. increasing consumption 233
-- excess elite income created savings ready to lend 234
-- Europe: funded by redistribution 235
-- fueled demand for finance 235
+- <mark>excess elite income created savings ready to lend 234</mark>
+- <mark>Europe: funded by redistribution 235</mark>
+- <mark>fueled demand for finance 235</mark>
 - Wall Street rocket scientists 236
 - math and pragmatism fit 237
 - financial innovations had lain dormant 237
 - wages capture half of net revenue 239
-- appearance of super-skilled induced innovations that favored elite 239
+- <mark>appearance of super-skilled induced innovations that favored elite 239</mark>
 - feedback loops 239
 - guides innovation 240
-- Safeway founder: cash-and-carry, not credit for groceries 240
-- "Behave as if it were operated for the benefit of its producers, employees, and consumers" 241
-- 1968: Safeway worked to save a competitor serving Hunters Point 241
+- <mark>Safeway founder: cash-and-carry, not credit for groceries 240</mark>
+- <mark>"Behave as if it were operated for the benefit of its producers, employees, and consumers" 241</mark>
+- <mark>1968: Safeway worked to save a competitor serving Hunters Point 241</mark>
 - "meritocratic rather than democratic" 242
 - separation of ownership and control 243
 - innovations remaking management 242
@@ -371,22 +371,22 @@ tags:
 - McKinsey, Bain, BCG 245
 - management consulting 245
 - corporate reengineering 246
-- 1986 LBO of Safeway 247
+- <mark>1986 LBO of Safeway 247</mark>
 - theory: advanced ancient societies didn't industrialize because of abundant slave labor 249
 - unskilled labor moves to city, prompts innovations to use it 250
 - Germany on opposite path 252
 - "capital deepening" 253
-- Vietnam draft and high baby boom college enrollment induced computers 254
-- ladder metaphor 254
+- <mark>Vietnam draft and high baby boom college enrollment induced computers 254</mark>
+- <mark>ladder metaphor 254</mark>
   1.  which rung you start on
   2.  distance between rungs 255
 - individually innocent choices 256
 - resource curse of human capital 256
-- "Meritocratic inequality casts a human resource curse." 257
+- <mark>"Meritocratic inequality casts a human resource curse." 257</mark>
 
 ## Chapter 9
-- "meritocracy" coined in 1958 258
-- Young's The Rise of Meritocracy 258
+- <mark>"meritocracy" coined in 1958 258</mark>
+- Young's The Rise of Meritocracy dystopian 258
 - nurture over nature 259
 - "aristocracy" already taken 260
 - Shaw's aristocratic democracy" 260
@@ -400,16 +400,16 @@ tags:
 - agrarian economy: long-term land management 262
 - value contextual, like skill as a baseball picture 264
 - "...meritocratic virtues ... artifacts of economic inequality" 264
-- leading argument circular 265
-- marginal output, allowing otters to reorganize production optimally without contributor 265
+- <mark>leading argument circular 265</mark>
+- <mark>marginal output, allowing others to reorganize production optimally without contributor 265</mark>
 - "discounted by the reduced productivity that these innovation simpose on non-elite workers" 267
-- "the best evidence suggests that the elite's true product may be near zero" 267
-- not accompanied by economic growth or productivity increases 267
+- <mark>"the best evidence suggests that the elite's true product may be near zero" 267</mark>
+- <mark>not accompanied by economic growth or productivity increases 267</mark>
 - parable of farmers and warriors 267
 - the training war 268
 - a sham 268
 - "actually an ideological conceit, constructed to launder a fundamentally unjust allocation of advantage" 268
-- iron law of oligarchy 269
+- <mark>iron law of oligarchy 269</mark>
 - the useless and the used up 269
 
 # Conclusion
@@ -418,30 +418,30 @@ tags:
 - demagogues 271
 - on-site gyms, nap rooms, breast milk shipping, cost of egg freezing 271-2
 - life coaches 272
-- "They will cling to the only ship that acknowledges the storm." 272
+- <mark>"They will cling to the only ship that acknowledges the storm." 272</mark>
 - progressive missteps 272
 - "from the rich to the poor in a leaky bucket" 273
 - Warn on Inequality 273
-- one historical instance of peaceful redistribution that large, the New Deal 274
+- <mark>one historical instance of peaceful redistribution that large, the New Deal 274</mark>
 - "The rich and the rest cannot escape separately, but only together." 275
 - progressives: equality 275
 - will take generations 275
 - open, inclusive education 275
 - make mid-skilled labor the center of production 276
 - cannot be planned out in advance 276
-- meritocratic education as tax shelter 276
-- at current rates, top 10 universities will own the whole country in next century 277
-- no exemption unless 2/3 students from bottom 2/3 by income 277
+- <mark>meritocratic education as tax shelter 276</mark>
+- <mark>at current rates, top 10 universities will own the whole country in next century 277</mark>
+- <mark>no exemption unless 2/3 students from bottom 2/3 by income 277</mark>
 - encourage compliance by expanding enrollment 277
 - recent modest excise tax on rich private universities 278
 - women brought in likewise 279
 - SF health plan with nurse-practitioners 280
 - dentist health-screening 280
 - special-purpose legal technicians 280
-- limit complexity in finance 280
+- <mark>limit complexity in finance 280</mark>
 - change payroll tax 281
-- regressiveness of payroll tax has exceeded progressiveness of income tax 281
-- middle-class labor the highest taxed factor of production 281
+- <mark>regressiveness of payroll tax has exceeded progressiveness of income tax 281</mark>
+- <mark>middle-class labor the highest taxed factor of production 281</mark>
 - wage subsidies plus higher minimum wage 282-3
 - 1968 LSE poster 284
 - workers of the world unite 286
