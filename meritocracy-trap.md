@@ -386,5 +386,63 @@ tags:
 - "Meritocratic inequality casts a human resource curse." 257
 
 ## Chapter 9
+- "meritocracy" coined in 1958 258
+- Young's The Rise of Meritocracy 258
+- nurture over nature 259
+- "aristocracy" already taken 260
+- Shaw's aristocratic democracy" 260
+- Grand Ecole Sciences Po 260
+- Jefferson's "natural aristocracy" 260
+- "comprehensively isolates an elite caste" 260
+- Pound: "Wealth, in a commercial age, is made up largely of promises." 261
+- "renovates the dynastic impulse for this new world" 261
+- children free of parents' debts analogous to fee tail 261
+- "depend on exploiting not others but rather themselves" 262
+- agrarian economy: long-term land management 262
+- value contextual, like skill as a baseball picture 264
+- "...meritocratic virtues ... artifacts of economic inequality" 264
+- leading argumetn circular 265
+- marginal output, allowing otyhers to reorganize production optimally without contributor 265
+- "discounted by the reduced productivity that these innovation simpose on non-elite workers" 267
+- "the best evidence suggests that the elite's true product may be near zero" 267
+- not accompanied by economic growth or productivity increases 267
+- parable of farmers and warriors 267
+- the training war 268
+- a sham 268
+- "actually an ideological conceit, constructed to launder a fundamentally unjust allocation of advantage" 268
+- iron law of oligarchy 269
+- the useless and the used up 269
 
 # Conclusion
+- "also transformed politics" 271
+- opportunists 271
+- demagogues 271
+- on-site gyms, nap rooms, breast milk shipping, cost of egg freezing 271-2
+- life coaches 272
+- "They will cling to the only ship that acknowledges the storm." 272
+- progressive missteps 272
+- "from the rich to the poor in a leaky bucket" 273
+- Warn on Inequality 273
+- one historical instance of peaceful redistribution that large, the New Deal 274
+- "The rich and the rest cannot escape separately, but only together." 275
+- progressives: equality 275
+- will take generations 275
+- open, inclusive education 275
+- make mid-skilled labor the center of production 276
+- cannot be planned out in advance 276
+- meritocratic education as tax shelter 276
+- at current rates, top 10 universities will own the whole country in next century 277
+- no exemption unless 2/3 students from bottom 2/3 by income 277
+- encourage compliance by expanding enrollment 277
+- recent modest excise tax on rich private universities 278
+- women brought in likewise 279
+- SF health plan with nurse-practitioners 280
+- dentist health-screening 280
+- special-purpose legal technicians 280
+- limit complexity in finance 280
+- change payroll tax 281
+- regressiveness of payroll tax has exceeded progressivness of income tax 281
+- middle-class labor the highest taxed factor of production 281
+- wage subsidies plus higher minimum wage 282-3
+- 1968 LSE poster 284
+- workers of the world unite 286
