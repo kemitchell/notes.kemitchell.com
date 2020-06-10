@@ -198,3 +198,65 @@ tags:
   3.  staff trusteeship governance 100
       - Holocracy 100
       - Sociocracy 100
+
+## Chapter 16 (Woolard)
+1.  Can you make a platform for an existing co-op? 103
+2.  Who will build the cooperative platform? 104
+    - "small teams with shared goals but different skill sets" 104
+    - 3-6 people 104
+    - every person you add doubles time to make a decision 104
+    - "Ask the larger group to consent to the expertise of your small team..." 104
+3.  How much time and money do you have?
+    - "do you want to get it done, or do you want to get it done _your way_?" 106
+4.  What if you ran events and hired a community organizer instead of building software? 106
+- hire number three at Airbnb was a lobbyist 106
+- $300k for team of 5 106
+- How to Start a Trade School manual 107
+
+## Chapter 17 (Hoover)
+- social movement and market intervention 108
+- impulse to muddy co-op concept 108
+- "values-based businesses that operate for member benefit, that are owned and controlled by the people who do business within them" 108
+- running examples: carrots 109
+- consumer, producer (marketing), worker, multi-stakeholder 109
+- "removes any accountable mediator between capital and labor" 110
+- "trust mark not backed by actual cooperative structures" 111
+- millions in VC still not market viable 111
+- added value of "cooperative" in platform cooperativism 111
+- "structurally built on trust" 112
+- democratic commitments 112
+
+## Chapter 18 (Carroll)
+- "The standard template for creating a tech company has begun to crack." 113
+- recovering entrepreneur 113
+- "bursting of the content bubble" 114
+- Member's Media 114
+- Resonate 114
+- crowded app stores 114
+- chat UI replacing apps 115
+- Jena 115
+- 50% chance software will write itself by 2050 115
+- answer to the cloud 116
+- free and open legal frameworks 117
+- new attorney compensation models 117
+- autopsy.io 117
+
+## Chapter 19 (Gorbis)
+- user interaction design 119
+- socioeconomic design 119
+- "the inmates are running teh asylum" again 120
+- "Positive Platforms" 120
+- Institute for the Future ethnography of people working on platforms 120
+- minimum wage can limit earnings 121
+- own small enterprises 121
+- minimize, give advance notice of pay changes 121
+- transparency:
+  1.  algorithm
+  2.  archived data 121
+- unclear how to maximize earnings 122
+- make reputation portable 122
+- facilitate upskilling 122
+- communities outside the platforms, e.g. Mechanical Turker forums 122
+- v. bias: Knack, Unitive 123
+- "It is hard to negotiate with algorithms ... " 123
+- no HR departments 123
