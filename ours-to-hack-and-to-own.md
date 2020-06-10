@@ -15,7 +15,7 @@ tags:
 
 # Part 1
 
-## Chapter 1
+## Chapter 1 (Scholz and Schneider)
 - "This is a guidebook for a fairer kind of Internet." 11
 - analogy to 19th century labor issues 11
 - alternatives to Silicon Valley model 11
