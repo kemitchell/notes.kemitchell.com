@@ -260,3 +260,146 @@ tags:
 - v. bias: Knack, Unitive 123
 - "It is hard to negotiate with algorithms ... " 123
 - no HR departments 123
+
+## Chapter 20 (Tonkinwise)
+- design:
+  1.  attract
+  2.  focus
+  3.  habit 125
+- nonprofit, co-op systems feel less convenient 125
+- focus on attracting 125
+- sharing should have awkwardness 126
+- ride-sharing opportunities for solidarity 126
+- lighter communities 127
+- "member", "community" 127
+- more "we" and "our" 128
+- anonymity and identity in contexts 128
+- anonymous or collective 128
+- more nuanced peer rating 129
+
+## Chapter 21 (Gűrses)
+- [ ] Data Commons Cooperative 130
+- developer-user dichotomy 130
+- expose user's personal information to build trust 131
+- risk of discrimination on users 131
+- privacy design approaches:
+  - privacy as confidentiality 133
+  - privacy as control 133
+    - colnflicting legal requirements 133
+  - privacy as practice 134
+    - "social transluscence" 134
+    - code of conduct 134
+
+## Chapter 22 (Spitzberg)
+- crowdfunding sounds good, but co-ops struggle with it 135
+- marketing skewed view 135
+- "Community in collective action with a shared story." 135
+- worked with Loconomics 135
+- freelancers weren't mad at on-demand platforms, but craved belonging 136
+- crowdfunding v. membership 136
+- one-off collective action 136
+- Ochicha forrest study: effectively, affectively 137
+- TaskRabbit charges $500 to move relationship off-platform 137
+- emotional labor 138
+- embracing emotion benefits democratic participation 138
+- investment into stewardship 138
+- surface acting v. deep acting 139
+- rolling barn-raisers: regular activities of co-creation 139
+- PIE:
+  1.  connect with people
+  2.  marks an invitation
+  3.  sustain engagement
+
+## Chapter 23 (Sundararajan)
+- OuiShare festival: purpose-driven v. profit-driven, disappointment 140
+- need growth capital 140
+- co-op optimum:
+  1.  similar levels of contribution
+  2.  low external competition
+  3.  no need for frequent investment 141
+- worker-owned Lyft or Uber quite feasible 142
+- Swift (New York) 142
+- Juliet Schor: value system better articulated than value proposition 143
+- more focused on sharing value than creating it 143
+- blockchain 143
+- near-term: stock ownership 143
+- ESOPs 143
+- "provider stock ownership programs" 143
+- Juno (ridesharing) 143
+- United Airlines ESOP from union negotiations 144
+
+## Chapter 24 (Crisccitiello)
+- organized labor getting into platform co-ops: deal with the devil 145
+- "It is no secret that unions are dying." 145
+- cases: Harris v. Quinn, Friedrichs 145
+- union-startup collab on co-op for lciensed vocational nurses 145
+- models:
+  1.  industrial
+      - e.g. Freelancer's Union 146
+  2.  pre-industrial guilds 146
+      - CBA between co-op and union 146
+      - monopolization the labor supply 146
+- meetings with VCs 148
+- "Democratic, one-worker-one-vote principles feel, at a gut level, at odds with the capital that the platform needs to grow." 148
+- "taking a leap of faith" 148
+
+## Chapter 25 (Sassen)
+- ecosystem of apps 149
+- "settings where hardships and losses do not always facilitate trust among neighbors" 149
+- "The high-end worker..." 149
+- apps geared to high-end work 149
+- Coopify 150
+- home and neighborhood 150
+- mobile phones, not e-mail 151
+- Kinvolved 151
+- Propel 152
+- Neat Streak 152
+- Panoply 152
+
+## Chapter 26 (Milland)
+- self-governing crowd work 154
+- workers ignored in creating platforms 154
+- Mechanical Turk worker 154
+- earned as much as possible in one day: $19.64 154
+- Does this make you cry? 155
+- reject worker, keep work 155
+- TurkerNation.com 156
+- CrowdMed, TopCoder, InnoCentive, 99designs, CoContest 156
+- "juggernaut plowing downhill" 156
+- crowd workers not at conference in force 156
+- small audence for panel 156
+- CEOs of co-ops an oxymoron 157
+- we could all end up working for something like Mechnical Turk 157
+
+## Chapter 27 (Slee)
+- "Do new technologies embed a set of values?" 158
+- rating systems 158
+- reputation 159
+- O'Reilly "algorithmic regulation" 159
+- we rate people higher 159
+- "Lake Wobegon systems" 159
+- like a guestbook 160
+- eBay: 99% ratings positive 160
+- severs owners via appearance of high-trust environment 160
+- Panopticon 160
+- platofrms that don'T vouch or mediate 161
+- external audit 161
+
+## Chapter 28 (Bawens and Kostakis)
+- new kind of feudalism 163
+- open cooperativism: CBPP principles infusted with cooperatives 164
+- extending seventh principle: concern for community 164
+- six interrelated strategies 164
+1.  artificial scarcity
+2.  distributed tasks 164
+    - openm-value accounting 165
+    - contributory accounting 165
+3.  CopyFair licenses
+    - GPL ... "fails to encourage reciprocity for commercial use of the commons, or to foster a level playing field for ethical enterprises" 165
+- FairShares Association: CC-BY-NC, members can use commercially 165
+4.  open designs 165
+    - no planned obsolescence 165
+5.  reduce waste 166
+    - open supply chains 166
+6.  physical infrastructure, too 166
+- "they must become open" 166
