@@ -36,7 +36,7 @@ tags:
   2.  rules changed to benefit cooperation 17
 - thicken loose Internet ties 17
 - rules tilted against cooperativism 17
-- can say "yet" to platform co-ops instead olf just "no" to Uber 18
+- can say "yet" to platform co-ops instead of just "no" to Uber 18
 - quotes Roszak 18
 
 ## Chapter 3 (Schulz)
@@ -46,7 +46,7 @@ tags:
 - "hyper meritocracy" 21
 - UBI 21
 - average on-demand worker: $7,900 per year 21
-- "strategic nullificationof the law" 22
+- "strategic nullification of the law" 22
 - "capitalism ... amazingly ineffective in watching out for people" 22
 - approaches:
   1.  lobby for fair standards
@@ -136,7 +136,7 @@ tags:
 - Dave, NYC actor-bartender 60
 - SAF-AFTRA health, pensions 61
 - reputation portability and protection 62
-- evolve fo rnew tech 62
+- evolve for new tech 62
 
 ## Chapter 12 (Kleiner)
 - Marx' Mr. Peel goes to Australia 63
@@ -144,7 +144,7 @@ tags:
 - early Internet 64
 - enclosure 64
 - Facebook's profits from labor producing advertised goods 65
-- "selling audence commodity" 65
+- "selling audience commodity" 65
 - sold be measure and grade 65
 - "Corporations built to maximize profits are unable to build consensual platforms." 66
 - 1990s disintermediation 66
@@ -157,7 +157,7 @@ tags:
 - run on computers of users 68
 
 ## Chapter 13 (Bollier)
-- openm platforms "free" within bounds of market norms and extractive business models 69
+- open platforms "free" within bounds of market norms and extractive business models 69
 - the user is the product 69
 - platform more valuable than IP 70
 - Reed's "That Sneaky Exponential" 70
@@ -172,8 +172,8 @@ tags:
 - "Things are very much up in the air." 91
 - history: stable in competition, but not competitive to force way into markets 91
 - "we are in the cultural moment of cooperation" 91
-- "not the moral midgest and sociopaths that populate game theory and rational actor modeling" 92
-- "networks have destabilized the model fo the firm" 92
+- "not the moral midgets and sociopaths that populate game theory and rational actor modeling" 92
+- "networks have destabilized the model of the firm" 92
 - "Peer production has thrived on pooling voluntary contributions of participants who had other means of making a living." 93
 - new challenge: charging, distributing money 93
 - "Ethical coherence strongly suggests that cooperatives providing information goods must develop models of shared membership or service, rather than aim for building on an "intellectual property" strategy that will separate these cooperatives from the heart of the movement." 94
@@ -195,6 +195,6 @@ tags:
       - cup proceeds to members, balance to charity 99
   2.  cap payouts and compensation 99
       - Loconomics: 3.5 times BLS all in region 99
-  3.  staff trusteeship goernance 100
+  3.  staff trusteeship governance 100
       - Holocracy 100
       - Sociocracy 100
