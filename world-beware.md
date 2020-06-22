@@ -204,3 +204,114 @@ tags:
 - "_I_ am bound for gloy and _you_ are condemned to eternal perdition." 176
 - pluralism := spontaneous joy we take in the human variety, the delightful surprise we experience when we meet someone who has taken another road in life" 176
 - Walt Whitman: singing the song of ourselves, mass jazz improvization on a million themes 176
+
+## Chapter 6
+- main opposition: liberal Democrats 179
+- hard tiems: suburbanization, big business, values 179
+- All in the Family's Archie Bunker 180
+- backlog of discontent and insecurity 180
+- Reagan drug laws began "family values" motif 182
+- Reagan acting skill 182
+- not his job to do details 182
+- Iran-Contra "the most blatant and serious blow to constitutional government in American history" 183
+- mid-80s position papers 184
+- Reagan racist 185
+- Willy Horton political ads 185
+- racial justice "a central concern of youthful protest during the 1960s" 185
+- ethical fatigue 186
+- reverse racism 186
+- failure to calrify covert forms of racism 186
+- "shame of the cities" 187
+- Progressive and Populist movements 187
+- New Deal avoided alienating the "solid south" 188
+- "bad manners ... suggest that the rich and the poor have divergent intersts" 189
+- submerged issue of race 190
+- sequence
+  1.  slavery
+  2.  Jim Crow
+  3.  since Reagan 190
+- fall short of being superstarts 190
+- "That a small percentage of African-Americans have had the talent and drive to achieve high success means that those left behind have only themselves to blame." 190
+- disenfranchise ... prison system 191
+- more black males in jail than in college 191
+- drug possession 191
+- felon disenfranchisement 192
+- error-prone Florida computer system 192
+- nonvoting prisoners count in census 193
+- "The United States is a nation of frightened people..." 193
+- OAkland the murder capital 193
+- funding punishment over social programs 194
+- $25-40k per prisoner per year 194
+- Bush-bashing had little effect on his base 195
+- muckrakers: if only we can get the turth out, the public will rise  up... 195
+- Hijacking Catastrophe 196
+- They know exactly what Bush is up to----_and they approve_. 196
+- fundamental moral asymmetry 196
+- Vietnam liberals lost faith in own party, protested it 196
+- Hubert Humphrey 196
+- Republicans haven't sacrificed unity on a matter of conscience 197
+- Clinton impeachment as retaliation for Nixon 197
+- blank ethical check 197
+- moderates purged first 198
+- "The Republican Party scares the living daylights out of me..." 198
+- Tom DeLay 198
+- Theodore Bilbo 199
+- crazy quilt of single-issue voters 200
+- Cheney met with oil moguls over maps of Iraqi oil 202
+
+## Chapter 7
+- more educated than ever 205
+- overworked, overbusy, mentally and physically fatigued population of workaholics 206
+- Generation X 206
+- vanished: politics v. ads v. entertainment 206
+- "higher illiteracy" 206
+- Warren Harding first to hire an ad agency 206
+- Bernays ran Coolidge campaign 207
+- ads : economy :: propaganda : politics 207
+- non-voting as largest mass movement of our time 210
+- fantasy wars for TV 211
+- going negative 213
+- description of Fox News 214
+- Horatio Alger's 300 childrens books 215
+- "only losers need social programs" 216
+- campaign costs to buy media 217
+- give money to both sides 217
+- "One can no longer assume that any photograph, any television or film footage, is a picture of the real thing" 218
+- Wag the Dog 219
+- SUV: illusion of power of invulnerability 222
+- Schwarzenegger embodies everything wrong 223
+- dot-com bust plus energy crisis 224
+- refused to debate, avoided press conferences 225
+- go to the people 226
+- facade for moneyed intersts 227
+- Hollywood for ugly people. 228
+- award shows 229
+- deeper explanation for political incompetence: justifiable anger 230
+- paranoid style: victimes of elite 231
+- intellectual embarassment 232
+- An Operating Manual for Spaceship Earth 232
+- "human beings can create systems that do not understand human beings and will not serve their needs" 233
+- ignorance hurts 233
+- parenthood 233
+- blame problems outside of control 233
+- Internet for answerse 234
+- "more technological dependency" 234
+- high tech symbolizes, anchors sense of helpelessness 235
+- error-increasingly complexity 235
+- "Nobody had to be 'refrigerator-literate'." 236
+- didn't envy or fear expertise in radios, TVs 236
+- our ignorance being exploited 236
+- big government, new corporate power 237
+- "smart" 237
+- "outdistancing the intelligence of those who invented it" 237
+- Vietname was both liberals' and conservatives' faults 238
+- Republican iron discipline 238
+- bin Laden: "Contrary to Bush's claim that we hate freedom, let him tell us why we didn ot attack Sweden." 239
+- Adorno's "authoritarian personality" 239
+- samurai soldier v. "ornery, unruly homo democritus" 240
+- corporados as militarist hierarchy 240
+- Handmaid's Tale 241
+- absolute values 242
+- dominance and submission 243
+- no liberal top-down hierarchy 244
+- Enlightenment an aberrant, ephemeral stage 244
