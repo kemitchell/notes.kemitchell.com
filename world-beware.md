@@ -315,3 +315,41 @@ tags:
 - dominance and submission 243
 - no liberal top-down hierarchy 244
 - Enlightenment an aberrant, ephemeral stage 244
+
+## Chapter 8
+- rhythm of quiescence and belligerence 248
+- wait for an incident 249
+- reserves as citizens army 252
+- Salvadoran military contractors 253
+- expand military to cover job losses 254
+- popularity between elections means nothing 256
+- election strategy:
+  - bait Sout hand Mountain voters
+  - explosive last-minute issue
+  - fund Nader-type splitters
+  - suppress black vote
+  - litigate narrow losses
+  - terrorist scare 257
+- need support from outside US 258
+- triumphalist-moderate strain 258
+- materialism v. Christianity 259
+- radically egalitarian movements from religious conviction 261
+- "When Adam delved and Eve span, who was then the gentleman?" 261
+- Jim Wallis' Sojourners 261
+- Evangelical CAll to Civic Responsibility 262
+- What Would Jesus Drive? 263
+- John-Paul's Warriors 263
+- Social Security, Medicare, the elderly 265
+- "intrusion of objective reality" 267
+- no proposal to address Katrina with a free-market solution 268
+- "Friends don't let friends build empires." 269
+- "the UN is a faulty instrument" 270
+- best-kept secret: deteriorating economy 273
+- "Re-educating America" 278
+- travel trous 281
+- wary of patriorism 283
+- no claim to moral superiority 284
+- "an empire in denial" 286
+- "alone...no experience of th edownside to imperialism" 286
+- absolute power corrupts absolutely 287
+- "What shall it profit a man to gain the whole world and lose his soul?" 287
