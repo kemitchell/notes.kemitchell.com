@@ -117,3 +117,33 @@ tags:
 - other side will reword 45
 - tone or body language inconsistent with words 45
 - rapport building: think Oprah Winfrey 46
+
+## Don't Feel Their Pain, Label It
+- emotions as means, not obstacles 50
+- therapeutic relationship 50
+- talking through door 50
+- calm them down 51
+- empathy:
+  1.  pay attention
+  2.  ask what they're feeling
+  3.  commit to understand their world 52
+- tactical empathy 52
+- neural resonance 53
+- H. Clinton denounced for advocating respect for enemies 53
+- labeling: validating emotion by acknowledging it verbally 54
+- "words, music, and dance" 55
+- how psychics work 56
+- passive construction: "It sounds like..." 56
+- the word "I" raises others' guard 56
+- follow with silence 56
+- "slowly alter the inner voices of our counterparty's consciousness" 57
+- labeling negative diffuses, labeling positive reinforces 57
+- country clearance 58
+- "Bless me, Father, for I have sinned." 58
+- "Look, I'm an asshole." 59
+- amygdala 61
+- "Sixty seconds or she dies" 64
+- defense lawyers "taking the sting out" by listing all charges and weaknesses in opener 65
+- process:
+  1.  "accusation audit": list every terrible thing they could say 65
+- "extensions of natural human interactions and not artificial conversational tics" 71
