@@ -59,7 +59,7 @@ tags:
 - hostage negotiator has to win 18
 - "Negotiation is the heart of collaboration." 21 [???]
 
-## 2.  Be A Mirror
+## 2. Be A Mirror
 - bank robber: "Next one is real." 23
 - NYC has most hostage negotiations 23
 - use skills to reveal inevitable surprises 24
@@ -118,7 +118,7 @@ tags:
 - tone or body language inconsistent with words 45
 - rapport building: think Oprah Winfrey 46
 
-## Don't Feel Their Pain, Label It
+## 3. Don't Feel Their Pain, Label It
 - emotions as means, not obstacles 50
 - therapeutic relationship 50
 - talking through door 50
@@ -221,7 +221,7 @@ tags:
   6.  give gifts to stimulate reciprocity 133
 - negotiating salaries 135
 
-## 7.  Create the Illusion of Control
+## 7. Create the Illusion of Control
 - squabbling U.S. agencies 140
 - coaxing, not overcoming 141
 - calibrated/open-ended question 141
