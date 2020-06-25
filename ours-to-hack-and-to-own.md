@@ -409,30 +409,171 @@ tags:
 ## Loomio
 - below market rate 170
 - redeemable preferred shares 170
+
 ## Fairshares
 - IP 171
 - licensed to association 171
+
 ## Swarm Alliance
 - Distributed Collaborative Organization 172
 - blockchain 172
+
 ## The Madeline System
 - local investment funds 173
+
 ## Purpose Fund
 - "purpose ownership" 174
 - dedcouple voting and dividends 174
 - profits as means to an end 174
+
 ## rCredits
 - banking 175
 - private donations 175
+
 ## External Revenue Service
 - "peer-to-peer tax sysmte" 176
 - Kickstarter 176
+
 ## Data Commons Cooperative
 - unclear what it does 177
+
 ## Coliga
 - blockchain 179
+
 ## Backfeed
 - algorithms values contributions 180
 - Primavera de Filippi 180
+
 ## My User Agreement
 - user agreement for sharing your data 181
+
+## Chapter 29 (Duda)
+- "recuperation" 182
+- 60s counterculture as consumers 182
+- Whole Earth Catalog 182
+- liberation as shopping exercise 183
+- food cooperatives 183
+- TODO Seikatsu Cooperative and food poliy 183
+- worker coops a lot less white than people think 184
+- TODO Prospera coop in Oakland 184
+- leaving autonomy, independence behind 184
+- "cooperative purity" 185
+- "shelter from the market" 186
+
+
+## Chapter 30 (Martin)
+- money, finance are a platform 187
+- finance a barrier to our platforms 188
+- platforms bilt on government, spontaneous organization 188
+- turn finance into a cooperative 189
+- Mondragon's Caja Laboral 189
+- credit unions, public banks, cooperative lenders 189
+- profitable businesses shutter when owners retire 190
+- "Organizing is not the opposite of business." 191
+
+## Chapter 31 (Rojas)
+- "We often _think_ we lack is capital." 192
+- The Workers Lab 192
+- disconnected from potential user-owners 193
+- obtaining capital for attacks on the capital system 193
+- Austin Workers Defense Project 194
+- owned by users who don't share values 194
+- state-subsidized, foundation-funded organizers saying capital can't be a tool for change 195
+- JOBS Act 195
+
+## Chapter 32 (Gregory)
+- "learn to code" mantra 196
+- code schools: the educated underemployed or unemployed 197
+- heroic figure of lone, privatized individual 198
+- co-op code school 199
+
+## Chapter 33 (Shah)
+- National Domestic Workers Alliance 200
+- Good Work Code 202
+
+## Chapter 34 (Metts)
+- "tech co-ops" 204
+- Agaric 204
+- TechWorker.coop 205
+- U.S. Federaton of Worker Cooperatives 207
+- free software, e.g. GnuCash 207
+
+## Chapter 35 (Peck)
+- "New Mutualism" 208
+- 1worker1vote.org 209
+- Green Taxi Cooperative 210
+- Freelancers Union 211
+- American Sustainable Busiuness Council 211
+
+## Chapter 36 (Morell)
+- little quantitative analysis 213
+- p2pvalue.eu 213
+- CBPP 213
+- open v. closed, autonomy v. dependence 215
+- six governance factors 214
+- six value dimensions 216
+- correlations with cooperative platform 217
+
+## Chapter 37 (Bria)
+- functioning social-democratic safety net -> Uber, Airbnb not appealing 219
+- austerity measures 219
+- excessive returns to capital 219
+- inability to tax high-tech and finance 219
+- Barcelona: 15M, Ada Colan220
+- crowdfunded, online platform for police input 220
+- crackdown on illegal tourism 220
+- re-municipalization 220
+- data as asset class 221
+- surveillance capitalism 221
+- EC's CAPS program 222
+- dcentproject.eu 222
+
+## Chatper 38 (Cherry)
+- misclassification suits don't challenge fundamental model 223
+- shadow (under-the-table) workers 224
+- no uniform US co-op law 224
+- CA 2015 225
+- encourage LLCs 224
+- immigrant women workers 224
+- B corporations 225
+- mission drift 225
+- flexible and part-time 226
+- workers from many jurisdictions 226
+- easy entry and exit 226
+- set out member expectations 227
+
+## Chapter 39 (O'Dwyer)
+- "blockchain 2.0" 228
+- "put a blockchain on it" 228
+- La-Zooz ridesharing 229
+- Swarm fundraising 229
+- problems with techno-utopian ideology 229
+- cooperation: institutions, norms, laws, markets 229
+- long-term bank strikes in '70s Ireland 229
+- hardcore libertarians and anarcho-communitsts 230
+- doesn't replace all functions of institutions 230
+- abdication of trust altogether 231
+- dispensing with social institutions naive 231
+- not inherently critical of system, like punch cards before 231
+- "conflate a technical architecture with a social or political mode of organization" 231
+- no causation from decentralization to equality or equity 232
+- solutions, not challenges, to liberal economic problesm 232
+- SV appropriates left ideas 232
+- large bank, startup collaborations 232
+
+## Chapter 40 (Taylor)
+- just as good a case for cooperativism in industrial age 233
+- confrontational 233
+- class struggle 233
+- oppositional spirit 234
+- TODO Nembhard's Collective Courage 234
+- TODO Oakland & the World Enterprises 234
+- history: lack of access to capital 234
+- tendency to valorize small, local, decentralized 235
+- TODO Brown's Undoing the Demos 235
+- "devolution" 235
+- centralized public options and decentralized cooperative options 235
+- Elaine Brown 236
+- organic farm in West Oakland 236
+- never organize or mobilize around abstract principles 236
+- "We need to make our case by building and pointing to real examples." 237
