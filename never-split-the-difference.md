@@ -311,6 +311,6 @@ tags:
 - paradox of power: the harder you push, the more they resist 227
 - reasonable tone plus "because" 231
 - "They're crazy." 232
-- [] Negotiation Genius 233
+- TODO Negotiation Genius 233
 - get face-to-face 236
 - "People generally fear conflict..." 241
