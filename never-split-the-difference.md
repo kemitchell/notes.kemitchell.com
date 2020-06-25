@@ -272,3 +272,44 @@ tags:
 - "Humanize yourself." 180
 - four levels of "no" 181
 - staying focused to the very end 185
+
+## 9. Bargain Hard
+- Buying Toyota: "This lot was my only shot." 188
+- "clash for cash" 190
+- Accommodators, Assertives, Analysts 192
+- [ ] Wiliams, Legal Negotiations and Settlement 192 n.1, 261
+  - 65% lawyers cooperative 112
+  - 25% truly assertive 192
+  - effective: 75% cooperative, 12% assertive 193
+- time as preparation, relationship building, or money 197
+- different interpretations of silence 197
+- treat others as they need to be treated 198
+- [ ] info.blackswanltd.com/3-types
+- expressing anger beneficial 202
+- strategic umbrage 202
+- "The person across the table is never the problem.  The unsolved issue is." 204
+- to avoid emotional escalation 204
+- Mick Ackerman haggling 205
+- Howard Raiffa 206
+- start at 65%, then 85%, 95%, 100% 206
+- elicit counters before increasing 206
+- end on precise, nonround figure 206
+- throw in nonmonetary item 206
+- getting concessions makes people feel good 207
+
+## 10. Find the Black Swan
+- hostage taker demand shootout 214
+- never kill hostages on deadline 214
+- suicide by cop sniper 215
+- Taleb black swan 215
+- didn't connect murders to hostage taking 217
+- no demands 217
+- leverage := ability to inflict loss and withhold gain 220
+- sloshing fuild 221
+- Positive, Negative, Normative 221
+- paradox of power: the harder you push, the more they resist 227
+- reasonable tone plus "because" 231
+- "They're crazy." 232
+- [] Negotiation Genius 233
+- get face-to-face 236
+- "People generally fear conflict..." 241
