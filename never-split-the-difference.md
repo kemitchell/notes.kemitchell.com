@@ -147,3 +147,128 @@ tags:
 - process:
   1.  "accusation audit": list every terrible thing they could say 65
 - "extensions of natural human interactions and not artificial conversational tics" 71
+
+## 4. Beware "Yes"---Master "No"
+- "Compromise and concession, even ot the truth, feels like defeat." 74
+- trap: take what others say literally 77
+- book: Start with NO 78
+- need for autonomy 78
+- Don't hear "no" as rejection 79
+- yes: counterfeit, confirmation, commitment 80
+- HelpLine: no more than 20 minutes 81
+- most calls from frequent callers 81
+- primal urges:
+  1.  feel safe and secure
+  2.  feel in control 84
+- Mark Cuban: "Every 'No' gets me closer to a 'Yes'." 91
+- mislabel an emotion or desire 91
+- ask what they'd say not to 91
+- inability to say no as a tell 91
+- "Have you given up on this project?" 92
+- loss aversion 92
+- against shallow niceness 93
+
+## 5. Trigger...
+- Behavioral Change Stairway Model:
+  1.  active listening
+  2.  empathy
+  3.  rapport
+  4.  influence
+  5.  behavior change 97
+- Carl Rogers' unconditional positive regard 97
+- behavior doesn't change after open-heart 97
+- two words: "That's right." 98
+- Abu Sabaya 98
+- negotiator hated counterpart 101
+- win: "That's right." 105
+- fail: "You're right." 105
+- "In this culture it is not really possible to know what a superior is thinking." 111
+- "Sleeping in the same bed and dreaming different dreams." 111
+
+## 6. Bend Their Reality
+- Haiti surpassed Colombia as American kidnap capital 113
+- "There's always leverage." 114
+- e.g.:
+  - fear of deadlines
+  - power of odd numbers
+  - fairness 114
+- don't split the difference 115
+- "The win-win mindset ... usually ineffective and often disastrous." 115
+- mismatched shoe compromise 115
+- "never split the difference" 116
+- missed deadlines rarely bring negative consequences 117
+- No deal is better than a bad deal. 117
+- thugs partying through the weekend 118
+- closer to consequences, more specific threats 118
+- [ ] You Can Negotiate Anything 119
+- don't hide your deadline 120
+- Ultimate Game 120
+- "That's not empathy; that's projection." 121
+- only rational offer is $1 121
+- [This is not correct. Guy is full of himself.] 
+- "while we may use logic to reason ourselves toward a decision, the actual _making_ is governed by emotion." 122
+- [Does not follow.]
+- "The most powerful word in negotiations is 'Fair'." 122
+- Robin Williams in Aladdin 123
+- How to Become a Rainmaker 126
+- Kahneman and Tversky prospect theory 127
+  1.  anchor emotions 128
+  2.  let them go first 129
+  3.  establish a range 131
+  4.  pivot to nonmonetary terms 132
+      - stimulate brainstorm about what else they can offer 132
+  5.  use odd numbers 132
+  6.  give gifts to stimulate reciprocity 133
+- negotiating salaries 135
+
+## 7.  Create the Illusion of Control
+- squabbling U.S. agencies 140
+- coaxing, not overcoming 141
+- calibrated/open-ended question 141
+- US largely uninterested, despite beheading of American 143
+- 9/11, videotape 143
+- change negotiator => harder line 144
+- US doesn't pay ransoms, but found a donor 144
+- Phillippine Scout Rangers shot up the hostages 144-5
+- parallel negotiation 146
+- "Hey, dog, how do I know she's all right?" 149
+- "he thinks it's his idea" 149
+- Dutton's Split-Second Persuasion 149
+- "stop them unbelieving" 150
+- "How am I supposed to do that?" 151
+- what, how, why 153
+- self-control and emotional regulation 156
+- Japanese use of unnecessary translaters 159
+
+## 8. Guarantee Execution
+- St. Martin Parish, LA prison siege 162
+- "'Yes' is nothing without 'How'." 163
+- Ecuador kidnapping 164
+- "Questions, always questions." 166
+- tone of voice critical 167
+- forced empathy 168
+- the art of letting someone else have your way 169
+- questions
+  1.  How will we know we're on track?
+  2.  How will we address things if we find we're off track? 169
+- responses
+  1.  You're right.
+  2.  I'll try. 169
+- aggressive jerks, serial fabricators 172
+- 7-35-55 rule 176:
+  - 7% words
+  - 38% tone of voice
+  - 55% body language and face
+- Yes: Commitment, Confirmation, Counterfeit 177
+- Rule of Three: agree to the same thing three times in the same conversation 177
+- lying tells:
+  - more wods 178
+  - more third-person pronouns 178
+  - more complex sentences 178
+  - "Pinocchio Effect" 178
+- important people avoid first-person 179
+- use your own first name 179
+- "What's the Chris discount?" 180
+- "Humanize yourself." 180
+- four levels of "no" 181
+- staying focused to the very end 185
