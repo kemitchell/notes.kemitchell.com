@@ -1,5 +1,6 @@
 ---
 title: Never Split the Difference
+subtitle: Negotiating As If Your Life Depended On It
 people:
 - Chris Voss
 year: 2016
