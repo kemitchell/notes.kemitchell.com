@@ -201,7 +201,7 @@ tags:
 - No deal is better than a bad deal. 117
 - thugs partying through the weekend 118
 - closer to consequences, more specific threats 118
-- [ ] You Can Negotiate Anything 119
+- TODO You Can Negotiate Anything 119
 - don't hide your deadline 120
 - Ultimate Game 120
 - "That's not empathy; that's projection." 121
@@ -278,14 +278,14 @@ tags:
 - Buying Toyota: "This lot was my only shot." 188
 - "clash for cash" 190
 - Accommodators, Assertives, Analysts 192
-- [ ] Wiliams, Legal Negotiations and Settlement 192 n.1, 261
+- TODO Wiliams, Legal Negotiations and Settlement 192 n.1, 261
   - 65% lawyers cooperative 112
   - 25% truly assertive 192
   - effective: 75% cooperative, 12% assertive 193
 - time as preparation, relationship building, or money 197
 - different interpretations of silence 197
 - treat others as they need to be treated 198
-- [ ] info.blackswanltd.com/3-types
+- TODO info.blackswanltd.com/3-types
 - expressing anger beneficial 202
 - strategic umbrage 202
 - "The person across the table is never the problem.  The unsolved issue is." 204
