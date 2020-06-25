@@ -244,7 +244,7 @@ tags:
 ## Chapter 19 (Gorbis)
 - user interaction design 119
 - socioeconomic design 119
-- "the inmates are running teh asylum" again 120
+- "the inmates are running the asylum" again 120
 - "Positive Platforms" 120
 - Institute for the Future ethnography of people working on platforms 120
 - minimum wage can limit earnings 121
@@ -285,9 +285,9 @@ tags:
 - privacy design approaches:
   - privacy as confidentiality 133
   - privacy as control 133
-    - colnflicting legal requirements 133
+    - conflicting legal requirements 133
   - privacy as practice 134
-    - "social transluscence" 134
+    - "social translucence" 134
     - code of conduct 134
 
 ## Chapter 22 (Spitzberg)
@@ -298,7 +298,7 @@ tags:
 - freelancers weren't mad at on-demand platforms, but craved belonging 136
 - crowdfunding v. membership 136
 - one-off collective action 136
-- Ochicha forrest study: effectively, affectively 137
+- Ochicha forest study: effectively, affectively 137
 - TaskRabbit charges $500 to move relationship off-platform 137
 - emotional labor 138
 - embracing emotion benefits democratic participation 138
@@ -332,7 +332,7 @@ tags:
 - organized labor getting into platform co-ops: deal with the devil 145
 - "It is no secret that unions are dying." 145
 - cases: Harris v. Quinn, Friedrichs 145
-- union-startup collab on co-op for lciensed vocational nurses 145
+- union-startup collab on co-op for licensed vocational nurses 145
 - models:
   1.  industrial
       - e.g. Freelancer's Union 146
@@ -367,9 +367,9 @@ tags:
 - CrowdMed, TopCoder, InnoCentive, 99designs, CoContest 156
 - "juggernaut plowing downhill" 156
 - crowd workers not at conference in force 156
-- small audence for panel 156
+- small audience for panel 156
 - CEOs of co-ops an oxymoron 157
-- we could all end up working for something like Mechnical Turk 157
+- we could all end up working for something like Mechanical Turk 157
 
 ## Chapter 27 (Slee)
 - "Do new technologies embed a set of values?" 158
@@ -382,17 +382,17 @@ tags:
 - eBay: 99% ratings positive 160
 - severs owners via appearance of high-trust environment 160
 - Panopticon 160
-- platofrms that don'T vouch or mediate 161
+- platforms that don't vouch or mediate 161
 - external audit 161
 
 ## Chapter 28 (Bawens and Kostakis)
 - new kind of feudalism 163
-- open cooperativism: CBPP principles infusted with cooperatives 164
+- open cooperativism: CBPP principles infused with cooperatives 164
 - extending seventh principle: concern for community 164
 - six interrelated strategies 164
 1.  artificial scarcity
 2.  distributed tasks 164
-    - openm-value accounting 165
+    - open-value accounting 165
     - contributory accounting 165
 3.  CopyFair licenses
     - GPL ... "fails to encourage reciprocity for commercial use of the commons, or to foster a level playing field for ethical enterprises" 165
@@ -423,7 +423,7 @@ tags:
 
 ## Purpose Fund
 - "purpose ownership" 174
-- dedcouple voting and dividends 174
+- decouple voting and dividends 174
 - profits as means to an end 174
 
 ## rCredits
@@ -431,7 +431,7 @@ tags:
 - private donations 175
 
 ## External Revenue Service
-- "peer-to-peer tax sysmte" 176
+- "peer-to-peer tax system" 176
 - Kickstarter 176
 
 ## Data Commons Cooperative
@@ -453,7 +453,7 @@ tags:
 - Whole Earth Catalog 182
 - liberation as shopping exercise 183
 - food cooperatives 183
-- TODO Seikatsu Cooperative and food poliy 183
+- TODO Seikatsu Cooperative and food policy 183
 - worker coops a lot less white than people think 184
 - TODO Prospera coop in Oakland 184
 - leaving autonomy, independence behind 184
@@ -464,7 +464,7 @@ tags:
 ## Chapter 30 (Martin)
 - money, finance are a platform 187
 - finance a barrier to our platforms 188
-- platforms bilt on government, spontaneous organization 188
+- platforms built on government, spontaneous organization 188
 - turn finance into a cooperative 189
 - Mondragon's Caja Laboral 189
 - credit unions, public banks, cooperative lenders 189
@@ -495,7 +495,7 @@ tags:
 - "tech co-ops" 204
 - Agaric 204
 - TechWorker.coop 205
-- U.S. Federaton of Worker Cooperatives 207
+- U.S. Federation of Worker Cooperatives 207
 - free software, e.g. GnuCash 207
 
 ## Chapter 35 (Peck)
@@ -503,7 +503,7 @@ tags:
 - 1worker1vote.org 209
 - Green Taxi Cooperative 210
 - Freelancers Union 211
-- American Sustainable Busiuness Council 211
+- American Sustainable Business Council 211
 
 ## Chapter 36 (Morell)
 - little quantitative analysis 213
@@ -519,7 +519,7 @@ tags:
 - austerity measures 219
 - excessive returns to capital 219
 - inability to tax high-tech and finance 219
-- Barcelona: 15M, Ada Colan220
+- Barcelona: 15M, Ada Colan 220
 - crowdfunded, online platform for police input 220
 - crackdown on illegal tourism 220
 - re-municipalization 220
@@ -528,7 +528,7 @@ tags:
 - EC's CAPS program 222
 - dcentproject.eu 222
 
-## Chatper 38 (Cherry)
+## Chapter 38 (Cherry)
 - misclassification suits don't challenge fundamental model 223
 - shadow (under-the-table) workers 224
 - no uniform US co-op law 224
@@ -547,18 +547,18 @@ tags:
 - "put a blockchain on it" 228
 - La-Zooz ridesharing 229
 - Swarm fundraising 229
-- problems with techno-utopian ideology 229
+- problems with techno-Utopian ideology 229
 - cooperation: institutions, norms, laws, markets 229
 - long-term bank strikes in '70s Ireland 229
-- hardcore libertarians and anarcho-communitsts 230
+- hardcore libertarians and anarcho-communists 230
 - doesn't replace all functions of institutions 230
 - abdication of trust altogether 231
 - dispensing with social institutions naive 231
 - not inherently critical of system, like punch cards before 231
 - "conflate a technical architecture with a social or political mode of organization" 231
 - no causation from decentralization to equality or equity 232
-- solutions, not challenges, to liberal economic problesm 232
-- SV appropriates left ideas 232
+- solutions, not challenges, to liberal economic problems 232
+- Silicon Valley appropriates left ideas 232
 - large bank, startup collaborations 232
 
 ## Chapter 40 (Taylor)
