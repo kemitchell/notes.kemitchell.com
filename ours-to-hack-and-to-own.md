@@ -403,3 +403,36 @@ tags:
     - open supply chains 166
 6.  physical infrastructure, too 166
 - "they must become open" 166
+
+# Part 4
+
+## Loomio
+- below market rate 170
+- redeemable preferred shares 170
+## Fairshares
+- IP 171
+- licensed to association 171
+## Swarm Alliance
+- Distributed Collaborative Organization 172
+- blockchain 172
+## The Madeline System
+- local investment funds 173
+## Purpose Fund
+- "purpose ownership" 174
+- dedcouple voting and dividends 174
+- profits as means to an end 174
+## rCredits
+- banking 175
+- private donations 175
+## External Revenue Service
+- "peer-to-peer tax sysmte" 176
+- Kickstarter 176
+## Data Commons Cooperative
+- unclear what it does 177
+## Coliga
+- blockchain 179
+## Backfeed
+- algorithms values contributions 180
+- Primavera de Filippi 180
+## My User Agreement
+- user agreement for sharing your data 181
