@@ -10,6 +10,7 @@ tags:
   - Law
   - History
   - United States
+  - Oakland
 types: [book]
 ---
 
