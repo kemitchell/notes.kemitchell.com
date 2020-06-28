@@ -3,5 +3,6 @@ exclude:
 - publish
 - Gemfile
 - Gemfile.lock
+- "*.bak"
 defaults:
 - { scope: { path: "" }, values: { layout: "page" }}
