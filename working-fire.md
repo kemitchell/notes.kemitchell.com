@@ -8,6 +8,7 @@ types: [book]
 tags:
 - Firefighting
 - Memoir
+- Oakland
 ---
 
 - "still" a big fire (2)
