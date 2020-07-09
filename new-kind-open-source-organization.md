@@ -7,6 +7,7 @@ tags:
 - Open Source
 - Trademarks
 - Foundations
+- Google
 ---
 
 - > How project trademarks are used is different from how their code is used, as trademarks are a method of quality assurance.
