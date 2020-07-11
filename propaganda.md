@@ -1,6 +1,7 @@
 ---
-title: Propoaganda
+title: Propaganda
 types: [book]
+year: 1928
 people: 
 - Edward Bernays
 tags:
