@@ -1,7 +1,8 @@
 ---
 title: Propoaganda
 types: [book]
-people: [Edward Bernays]
+people: 
+- Edward Bernays
 tags:
 - Public Relations
 - Advertising
