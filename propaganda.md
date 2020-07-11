@@ -11,7 +11,9 @@ tags:
 - Business
 ---
 
-# Introduction
+# Notes
+
+## Introduction
 - "propaganda" little used before WWI 9
 - Pope Gregory XV's Office for the Propagation of the Faith 9
 - opposite of deception 9
