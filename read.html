@@ -1,0 +1,34 @@
+---
+layout: none
+---
+
+<!doctype html>
+<html lang=en-US>
+  <head>
+    <meta charset=UTF-8>
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <title>{{site.title | smartify}}</title>
+    <link rel=stylesheet href=https://readable.kemitchell.com/all.css>
+  </head>
+  <body>
+    <header>
+      <h1>{{site.title | smartify}}</h1>
+    </header>
+    <main>
+      {% assign grouped = site.pages | group_by_exp: "page", "page.finished" %}
+      {% assign sorted_groups = grouped | sort: "name" %}
+      {% for year in sorted_groups %}
+      {% if year.name %}
+      <ul>
+        <h2 id="{{year.name}}">{{year.name}}</h2>
+        {% assign sorted_pages = year.items | sort: "title" %}
+        {% for page in sorted_pages %}
+        <li>{% include page_link.html %}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% endfor %}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
