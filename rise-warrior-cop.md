@@ -1,13 +1,15 @@
 ---
 title: Rise of the Warrior Cop
+subtitle: The Militarization of America's Police Forces
 year: 2013
 read: 2020
+types: [book]
 people:
-- Radley Balko
+  - Radley Balko
 tags:
-- Police
-- Law
-- Politics
+  - Police
+  - Law
+  - Politics
 ---
 
 # Notes
