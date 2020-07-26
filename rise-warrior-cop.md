@@ -536,3 +536,113 @@ tags:
 - flashbang fires 278
 - confusion a risk of violence 278
 - qualified immunity for unreasonable use of flashbang 279
+- Sal Culosi, optometrist, betting on football games 280
+- "Why did you shoot me? I was reading a book." 282
+- Texas Hold 'Em craze 282
+- Aaron Awtry shoots back 283
+- Poker Players Alliance attorney netwrk 283
+- raids on unlicensed barbers 284
+- underage drinking raids 284
+- brought along Alcoholic Beverage Control after warrant denied 285
+- two beer bottles not marked samples, bottle of vodka in office 286
+- "If the government wants to make an example of you by pounding you ... it can." 286
+- IP traces for child pornography 287
+- Shaq on mistaken raid 287
+- Matt Damon studying for a movie 288
+- "fairly common to take sports stars on drug raids" 288
+- Steven Seagal, Lawman 288
+- raided for cockfighting, euthanized chickens, shot his dog 288
+- illegal bottle rockets by physicist 289
+- Tim Lynch: people get mad only at point when I mention ATF killed Davidians' dogs 290
+- puppycide blog: a few a week 290
+- ASPCA, Humane Society offer training, few takers 291
+- USPS: serious attacks by dogs almost nonexistent 292
+- drug dealer pit bulls v. other dealers, not cops 292
+- notion: have to control every situation 292
+- camouflage? 293
+- "disquieting ease now with which authorities are willing to crush dissent" 293
+- more important decision makers more shielded from dissent 293
+- 2009 G-20 snatch-and-grab "disappearance" of protester 294
+- Chicago police took vacation to freelance at 294
+- arrest for tweeting police locations 294
+- took camera, broke it, deleted photos 295
+- peremptory raids before 2009 RNC 295
+- 2008 DNC: pepper-sprayed undercover cops posing as violent protesters 296
+- t-shirt: "We get up early, to beat the crowds" 296
+- "We kicked your father's ass in 1986..." 296
+- Occupy 2011 296
+- Oakland transit cop shot man in cuffs on stomach 297
+- smartphone demographic 297
+- inconsistent partisan views 297
+- attacks by both fringe right and left groups are down 299
+- Obama increased raids 301
+- .50 caliber weapons 302
+- 2012 suspension of 1033 303
+- sales and auctions of equipment bought 303
+- "There's always a good time to use a Taser." 304
+- popular culture 304
+- recruitment videos 306
+- wrong-door raid in pop culture 307
+
+## Chapter 9
+- small-town mayor raided 309
+- FedEx package interception ring 313
+- "Quite frankly, we'd do it again. Tonight." 314
+- call not to be interpreted as apology 314
+- Cheye Calvo goes to the press 316
+- dog killed after wrong address 316
+- promise to return next day, kill dog 317
+- "I'll blow your fucking head off if you keep talking." after asking about dog 317
+- mother thought gunshot at dog had killed son 317
+- "only law enforcement should police itself" 319
+- reforms:
+  - end the drug war 321
+  - end federal equipment and funding 321
+  - restrict use of SWAT 322
+  - restrict no-knock and forced entry 322
+  - restrict search warrants 322
+  - make redacted informant records available to lawyers 322
+  - replace informant names with accuracy percentages 322
+  - no SWAT for regulatory agencies 322
+  - SWAT reporting laws 323
+  - recording laws 323
+  - record all forced-entry raids, make available 323
+  - body cameras 323
+  - warrant databases 324
+  - shootings and excessive force reporting 324
+  - judges and prosecutor records on warrants 324
+  - community policing: walk beats, ditch stats 325
+  - quotas create cheaters 325
+  - Franklin:
+    1.  accept risk of dangerous job 325
+    2.  protecting others the priority 326
+  - cops actually creative when facing real danger, e.g. White Bulger 326
+  - counseling and deescalation training 327
+  - command presence 327
+  - "The very best cops I ever worked around were quiet." 327
+  - low physical fitness leads to unnecessary escalations 328
+  - control politician war rhetoric 328
+  - bills of rights "shield cops from the laws they're paid to enforce" 328
+  - cities give misconduct protections for money when budgets tight 329
+  - Blue Code of Silence 329
+    - union apologized to chief 330
+  - strong civilian review boards 330
+  - most productive: impose liability 331
+  - qualified immunity "well established" discourages cops from keeping up on new court decisions 331
+  - Glenn Reynolds: strict liability for SWAT 331
+- public has to start caring 331
+
+## Conclusion
+- Are today's police forces consistent with the principles of a free society? 334
+- tighter bond than soldiers 334
+- stricter omerta 334
+- communities where many refuse to talk to police 334
+- fear police more than criminals 334-335
+- soldiers object to militarization 335
+- military more careful raiding houses of suspected insurgents 335
+- embody the standing army 335
+- not a police state 335
+- "elevated police officers above the people they serve" 336
+- military contractors, new industry marketing to police 336
+- private interests, funded by government grants, lobbying 336
+- "police industrial complex" 336
