@@ -14,6 +14,10 @@ tags:
   - Sociology
   - Psychology
   - Politics
+  - Russia
+  - Serfdom
+  - Slavery
+  - Caste
 ---
 
 # Notes
