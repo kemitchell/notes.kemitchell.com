@@ -4,6 +4,8 @@ title: Stamped from the Beginning
 year: 2016
 people:
   - Ibram X. Kendi
+urls:
+  - https://lccn.loc.gov/2015033671
 tags:
   - American History
   - Racism
