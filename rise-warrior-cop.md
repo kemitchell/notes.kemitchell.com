@@ -290,3 +290,60 @@ tags:
 - 1979 peak year for illicit drug use in America 137
 
 ## Chapter 6
+- "victor over the Fourth Amendment is complete." --- William Brennan 139
+- Justice as "the internal arm of the national defense" 139
+- the "hard chargers" prosecutors, including Rudy Giuliani 139
+- GAO report on civil asset forfeiture for Joe Biden 140
+- common-law deodands 140
+- crown abuse of forfeiture inspired Fifth Amendment 140
+- RICO named after gangster in 1931 _Little Caesar_ film 140
+- GAO: revenue opportunity 141
+- FBI had resisted joining drug war 141
+- focus on marijuana 141
+- Perot recommended new drug czar 141
+- tweed caucus intellectualized the culture wars 142
+- "born bad" 142
+- drugs as commonality of culture-war enemies 143
+- "We have to create a generation of drug-free Americans to purge society." 143
+- purge psychiatrists from agencies 143
+- questioning drug war as sign of marijuana addiction 143
+- linked to big government while expanding government power 145
+- 1981 Military Cooperation with Law Enforcement Act 145
+- substitute assets theory 146
+- Biden preempted White House-sponsored forfeiture bill with his own 146
+- South Florida task force like ODALE 147
+- Campaign Against Marijuana Production (CAMP) in California 147
+- U-2 spy planes over California 148
+- helicopter raids 148
+- occupation of Denny, California 149
+- largest armed law enforcement operation in American history 149
+- Operation Delta-9 149
+- Illinois v. Gates weakened test for anonymous tip to totality of circumstances 150
+- US v. Leon carved out "good-faith exception" 150
+- Nix v. Williams "inevitable discovery" 151
+- 1984: election year, needed own ominbus crime bill 151
+- no policy debate, but competition 152
+- asset forfeiture profit sharing 152
+- drug investigations as revenue source 152
+- Ruzzamenti: point to seize land, reversed burden of proof 152
+- dropped charges for land 153
+- perverse incentives 153
+- cursory federal involvement to avoid general fund or schools 154
+- helped fund SWAT explosion 154
+- LA used 1984 Olympics, "Rescue Vehicle" paint job to keep APCs for battering crack houses 155
+- trial run punches hole in house with women and children, crashes into Cadillac on the street 155
+- court ruled ram unreasonable 156
+- "We still had some limits." 157
+- Reagan designated drugs a threat to national security 157
+- National Guard cooperation 158
+- surplus military equipment 800 number and catalog 158
+- killing of Tommie DuBose in SD 159
+- raided by mistake, then next week raided next door 161
+- San Diego community-oriented reforms 162
+- saved from riots after Rodney King verdict 162
+- one of safest big cities 163
+- national crime rate peaked in 1991 163
+- Dukakis attacked as soft on crime 163
+- William Bennett begged to be drug czar 163
+- cast drugs as moral issue 164
+- circle: immoral because illegal 164
