@@ -477,3 +477,62 @@ tags:
 - reducing crime doesn't increase federal dollars 243
 - narcotics task forces 244
 - "virtually unaccountable" 244
+- Tulia, Texas raids 244
+- Tom Coleman, Texas lawman of the year 245
+- Hearne, Texas raids 245
+- Regina Kelly refused to plead guilty 246
+- American Violet movie 246
+- Perry pulled matching funds 247
+- Operation Byrne Blitz to make case for funding 247
+- Obama criticized Republicans for cutting Byrne 247
+- $2b infusion, largest ever 248
+- $3m for shooting son in head in Modesto raid 248
+- "I helped ..." campaign after 9/11 250
+- US aid to Taliban, Thailand, and Colombia 251
+- continued medical marijuana raids 252
+- opioid overprescription 253
+- DHS grants dwarfed 1033 254
+- Lenco spokesman public comments at meeting v. marketing video for police 255
+- Montgomery County, Texas: $300k surveillance drone 256
+- crashed drone into Bearcat 256
+- Racine, WA rave raid 257
+- Spanish Fork Canyon: arrested private security for possessing drugs confiscated at door 258
+- raid whole venues for a few offenders 258
+- Strafford High School raided on tip from principal about pot, no drugs, no arrests 258
+- Operation TAPS (The Aggressive Police Strategy): whole neighborhood 259
+- Operation Shock and Awe in Buffalo 259
+- US v. Banks: 15-20s after knock, guy in shower, at night 260
+- Hudson v. Michigan: exclusionary rule and illegal no-knock 261
+- Scalia cited Sam Walker 262
+- "Thanks for Nothing, Nino" 262
+- Kentucky v. King: exigent circumstances, even if cops create them 262
+- NYC: >450 raids per months 263
+- Alberta Spruill heart attack from flashbang 264
+- memo on locksmiths and repairmen for wrong-address doors 265
+- Civilian Complaint Review Board limitations 265
+- NYPD referred victims to Board 266
+- 10% unjustified raids 266
+- courts didn't file warrants 266
+- Walter and Rose Martin, in 80s, wrong raided >50 times between 2002 and 2010 268
+- tried proper channels, nothing until went to media 268
+- address used as test for new computer system 268
+- banned flashbang grenades 269
+- raids increased all the same 269
+- National Institute for Justice: use of assault weapons in gun crimes rare, even before ban 269
+- Justice: vast majority of gun crimes with handguns 270
+- LAPD: drug dealers prefer easily concealed handguns 270
+- Independence Institute stats on kinds of weapons 271
+- "The job of police officer has been getting progressively safer for a generation." 271
+- police homicide rate v. city rates 271
+- fatalities up: need more firepower, fatalities down: militarization is working 272
+- public rarely optimistic on crime 272
+- "whatever I need to do to get home safe at the end of the day" 273
+- can't get figures on police shootings 274
+- defective flashbang explodes 275
+- Pyrotechnic Specialties Inc. 276
+- Clay Conrad: flashbangs just assault 276
+- "if these things are as harmless as the state claims, we should be able to detonate one in the courtroom" 277
+- "nonlethal" refers only to officer intent 277
+- flashbang fires 278
+- confusion a risk of violence 278
+- qualified immunity for unreasonable use of flashbang 279
