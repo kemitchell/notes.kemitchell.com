@@ -2,6 +2,7 @@
 title: Domination and the Arts of Resistance
 subtitle: Hidden Transcripts
 types: [book]
+year: 1990
 read: 2020
 people:
   - James C. Scott
