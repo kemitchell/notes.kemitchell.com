@@ -1,9 +1,13 @@
 ---
 title: Rise of the Warrior Cop
+year: 2013
+read: 2020
 people:
 - Radley Balko
 tags:
 - Police
+- Law
+- Politics
 ---
 
 # Notes
