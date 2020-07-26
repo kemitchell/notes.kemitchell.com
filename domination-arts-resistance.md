@@ -135,3 +135,68 @@ tags:
 - Weber: "the right to his happiness" 68
 - "The kind could not awe his subjects since they never saw him..." 69
 - more force on elites than commoners 69
+
+## Chapter 4
+- troubled terms: false consciousness, hegemony 70
+- thick: ideology pervades subordinates of value 72
+- evidence: generally untenable 72
+- thin: convince that social order natural and inevitable 72
+- thick: consent, thin: resignation 72
+- pluralists v. antipluralists 72
+- define what is realistic 74
+- "below the tragic level" (Hoggart) 74
+- "naturalization of its own arbitrariness" (Bourdieu) 75
+- "Necessity becomes virtue" 76
+- implied: diminishes social conflict 77
+- have to provide hwy in best interest 77
+- many violent conflicts could have been handled within the social order 77
+- goals well within ruling ideology 78
+- how could social change ever come from below? 78
+- misreadings of subordination, exaggerating their own power 79
+- no troubles imagining total reversal 80
+- imagine negations of oppressive distinctions 81
+- "When Adam delved and Even span, who was then the gentleman?" 81
+- "slave and peasant uprising occur frequently enough and fail almost invariably" 82
+- conditions for ideological hegemony over involuntary subordination:
+  1.  good chance many subordinates will hold power 82
+      - "exercise the domination that one endures today" 82
+      - promise of living set free 83
+  2.  atomized, closely obscured 83
+      - Foucault: "Solitude is the primary condition of total submission." 83
+      - POW camps 83
+      - Migram's experiments 84
+- measures too stringent for large scale 85
+- division, hopelessness, no time, cynicism 85-86
+- official transcript avoids evidence of dissent 86
+- Levellers, Lollards 88
+- "has honor" 88
+- Malay formers' Islamic tithe 88-89
+- protecting ingratiation 89
+- subordinates more free in thought, less free in action 91
+- Barrington Moore:
+  1.  showing elites don't perform function 91
+  2.  showing individual elites don't 91
+  3.  elite doesn't serve any useful social purpose 92
+- gradient of radicalism 92
+- "The least radical step is to criticize some of the dominant stratum for having violated the norms by which they claim to rule; the next most radical step is to accuse the entire stratum of failing to observe the principles of its rule; and the most radical step is to repudiate the very principles by which the dominant stratum justifies its dominance." 92
+- this king, kinds in general, kingship 92
+- man who wants a raise 92
+- hire a French notary to pad complaint with euphemisms 93
+- censoriousness strategy of inmates 94
+- Tokugawa peasant petitions 95
+- paysays obligent 96
+- "He who speaks of desperation to his sovereign, threatens him." 96
+- Daniel Field on Czar-Deliverer 97
+- no evidence that promoted passivity 97
+- invitation to resist supposed agents 97
+- imposters unresponsive to petition 97
+- suppressed decrees 98
+- mythology as joint product of struggle 100
+- "Vive le Roi!" as "With all due respect..." 101
+- German Peasants' War, English Civil War, French Revolution, Russian Revolution, Spanish Republic of 1936 102
+- discursive negation 104
+- symbolic Achilles heel 105
+- critiques within the hegemony 105
+- Voinovich: greatest threat from young people interested in theory 106
+- acceptance breeds radicalism 106
+- "The anger born of a sense of betrayal implies an earlier faith." 107
