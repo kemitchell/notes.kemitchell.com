@@ -23,6 +23,8 @@ tags:
 - oppression denies subordinates negative reciprocity xii
 - hidden transcript open, disguised xii
 - rare moments: hidden transcript spoken directly and publicly xiii
+
+## Chapter 1
 - "speak truth to power" ... rarely practiced 1
 - vast majority of people in history 2
 - public transcript := open interaction between subordinates and those who dominate 2
@@ -44,6 +46,8 @@ tags:
 - premises of inherent superiority 12
 - "sacred aura of judges" 13
 - each person knows only public transcript and their own circle's hidden transcript 15
+
+## Chapter 2
 - "often fugitive political conduct of subordinate groups" 17
 - "safer course of anonymous attacks" 17
 - "the _self_-portrait of dominant elites" 18
@@ -90,3 +94,4 @@ tags:
 - DuBois' double consciousness, North and South 44
 
 ## Chapter 3
+
