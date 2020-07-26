@@ -1,6 +1,8 @@
 ---
 title: Domination and the Arts of Resistance
 subtitle: Hidden Transcripts
+types: [book]
+read: 2020
 people:
   - James C. Scott
 tags:
