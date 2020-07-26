@@ -21,3 +21,272 @@ tags:
 - Larry Flynt's SWAT magazine xii
 - recording of Columbia SWAT xiii
 - "this is not an 'anti-cop' book" xiv
+- "If anything, this is an anti-politician book." xv
+- "Bad cops are the product of bad policy." xv
+- real beginning: 1960s xvi
+
+## Chapter 1
+- praetorian cohorts 2
+- urban cohorts 2
+- vigiles 2
+- Praetorian Guards assassinated emperors and potential heirs 2
+- ancient Roman public sensitive to militarized policing 3
+- cross of the Rubicon ended the republic 3
+- Praetorian Guard reconnected with the army, eventually disbanded 3
+- centralization of dispute resolution, punishment, remuneration 3
+- Italian city patrols 4
+- French national police v. revolts 4
+- England: tythings of ten families each handed criminals over to king 4
+- ten tythings to a shire 4
+- shire reeve -> sheriff 4
+- common law: dispute resolution, Roman law: will of sovereign 4
+- Norman conquest: constables 5
+- urban constables: draft watchmen, raise hue and cry 5
+- thief takers: private bounty hunters 5
+- Castle Doctrine in America 6
+- sanctity of home from state intrusion 6
+- Semayne's Case (1572) 6
+- must knock, announce, afford change to avoid violence 7
+- drug war: abandoned idea of chance to avoid violence 7
+- general warrant against smugglers 8
+- writ of assistance empowering customs officials 8
+- comparison to drug warrants 8
+- James Otis Jr., attorney, resigned as advocate general of admiralty court, offered free representation 9
+- Paxton's Case as speech platform 9
+- John Adams attended, impressed 10
+- Otis: rights for black men, too 10
+- "Then and there, the child Independence was born." 10
+- Fourth Amendment 10
+
+## Chapter 2
+- Third Amendment 11
+- aversion to standing army 12
+- pardoned criminals, conscripted, billeted in towns and cities 13
+- French and Indian War 13
+- Quartering Act, Stamp Act 13
+- second Quartering Act in peacetime, only to quell insubordination 14
+- civil asset forfeiture analogy 14
+- Antifederalists against standing army 15
+- Shays' Rebellion 16
+- Calling Forth Act 17
+- Whiskey Rebellion v. first fed. tax 18
+- Insurrection Act: state must request 18
+- Thomas Sims 19
+- Fugitive Slave Acts "outrageous" 19
+- Anthony Burns 20
+- armed Vigilance Committee attempted rescue, killing a federal marshal 20
+- Pierce's occupation of Boston 21
+- doughface: Northerner with Southern sympathies 22
+- Cushing Doctrine: marshals call up army 22
+- occupation during Reconstruction 23
+- Force Acts 23
+- Compromise of 1877 24
+- Posse Comitatus Act repealed Cushing doctrine 24
+
+## Chapter 3
+- three distinct policing traditions 28
+- Northeast: night watch patrols 28
+- South: slave patrols 28
+  - enter slave quarters 28
+  - enforce laws against, e.g., education 28
+- West: vigilantes, police for hire 29
+- first modern police force: London 1829 29
+  - Sir Robert Peel 29
+  - blue to set apart from army red 29
+- New York 1845 30
+  - unarmed, no uniforms 30
+  - nominated from their wards 30
+  - ran soup kitchens, housed homeless 30
+  - political, ethnic, brutal, ineffective 31
+- centralized London model better protected individual rights 31
+- London police gained trust, American departments hit bottom 31
+- elites: paternalistic, enforce morals 31
+- professionalism movement 32
+- August Vollmer, Berkeley: radios, squad cars, bikes, lie detectors, crime labs 32
+- Prohibition:
+  - homicide spiked 32
+  - increased corruption 32
+  - arms race 33
+  - hardliners calling for violence 33
+  - only criminalized production and sale, not possession or consumption 32
+  - some places refused to enforce 33
+- squad cars changed perception 34
+- William Parker in LA:
+  - military hierarchy 34
+  - took on corruption 34
+  - cocreated Dragnet 34
+  - despised community policing 34
+  - worsening relations with black and latino residents 35
+  - Dary Gates, protege 35
+- direct militarization: use of standing army 35
+- indirect militarization: police adopt characteristics 35
+- Militia Act of 1903:
+  - militias performed poorly in Spanish-American War 36
+  - converted into National Guard 36
+  - called up by governors 36
+  - president can federalize 36
+- demonstrations created resentment 36
+- 1932 Bonus March
+  - MacArthur, Patton, Eisenhower 37
+  - tear gas 37
+  - MacArthur defied order not to move on Hooverville. 37
+- Patton's Federal Troops in Domestic Disturbances 37
+- Patton and MacArthur rose during first Red Scare 38
+- Basic Field Manual on domestic violence 39
+- Faubus and Little Rock 40
+- after meeting with Eisenhower, Faubus pulled Guard entirely, allowing mob to drive off students 40
+- "No one made a decision to militarize the police in America." 42
+
+## Chapter 4
+- Miller v. US (bothched drug buy) 44
+- Ker v. California (walk into apartment) 44
+- exigent circumstances, e.g. suspect would destroy evidence 45
+- jeopardize officer safety, emergency, futile gesture (e.g. hot pursuit) 45
+- generally accepted: armed and likely to resist 46
+- Brennan dissent: presumption of innocence, ambiguous conduct 46-47
+- NY "no-knock" and "stop-and-frisk" laws one year after Ker 48
+- no-knock law had little effect 49
+- "no-knock raid" c. 1964 50
+- Watts incident 51
+- "monkeys in a zoo" 52
+- Gates: didn't know how to handle guerilla 53
+- America's first SWAT team 53
+- Ike: Earl Warren a mistake 53
+- Mapp v. Ohio (1961) (fake warrant) 54
+- Robinson v. California: can't incarcerate for addiction to drugs 54
+- Gideon and Brady v. Maryland 54
+- Miranda derided 54
+- Katz v. US: reasonable expectation of privacy, not just physical intrusions 55
+- Terry v. Ohio: reasonable suspicion for stop, detain, frisk 55
+- Norm Stamper's _Breaking Rank_ 56
+- Warren Court decision spurred generation-long backlash 56
+- UT Austin shooter 56
+- police guns couldn't reach tower 57
+- brain tumor in hypothalamus 58
+- birth date of SWAT concept 58
+- popped the bubble of suburban safety 58
+- Kern County labor strikes 59
+- Ceasar Chavez 59
+- cop specialization 59
+- Surry Street shootout 60
+- Century City antiwar protest clashes 61
+- Tactical Operations Planning unit 61
+- "Shake, Rattle, & Roll Boys" 61
+- "Special Weapons Attack Teams" 62
+- "abecedarian" 62
+- trained on backlot sets 62
+- _The Challenge of Crime in a Free Society_ 64
+- Bureau of Narcotics and Dangerous Drugs 65
+- Law Enforcement Assistance Administration 65
+- introduce funding, then threaten to pull 65
+- "Law enforcement is just like any other interest group.  They're always after greater power." 66
+- "preventive detention" 66
+- 1968 crime bill passes 67
+- MLK assassination riots 67
+- drug use didn't surge violent crime 68
+- exploited association of drugs, crime, counterculture, race 68
+- used Robert Kennedy's death to push crime bill 68
+- 1968 DNC: Chicago PD instigated riot, beat liberal protesters 68
+- poll: majority thought headed toward anarchy, but only 28% felt local crime had increased 69
+- Nixon law-and-order 70
+- Egil Krogh, fresh law grad 70
+- crime bill for DC to start 70
+- John Mitchell, bond lawyer 71
+- most worrying crimes not federal 71
+- drugs as common denominator of blacks, counterculture, antiwar 71
+- shopping crime measures for symbolism, not effect 72
+- model state legislation 73
+- rehab and treatment programs 73
+- Operation Intercept shut down border 74
+- misfire after raiding wrong apartment kills man holding baby 75
+- first SWAT raid: LA Black Panthers HQ 76
+- practical disaster, PR success 76
+- surrounded as "test run" 77
+- Fred Hampton shooting 77
+- mayor called Washington for permission to use grenade launcher 78
+- nobody died 79
+- tactics created self-defense argument 79
+
+## Chapter 5
+- Sam Erwin, NC senator 81
+- The Southern Manifesto
+- "great crime bill orgy of 1970" 86
+- "peccadilloes" 86
+- researchers and medical orgs fought Controlled Substances Act scheduling 88
+- "sob-sisterism" 89
+- amendment trick: watering-down made identical to Senate version 90
+- "garbage pail" of police powers 90
+- DC opposition to DC crime bill 91
+- DC crime peaked before bill passed 92
+- Justice withheld DC crime stats 92
+- "like a penal colony" 92
+- "anti-perjury bill" 933
+- "quick entry" to avoid "catchword" 93
+- "They didn't value education or training. They valued hardware." 96
+- "make themselves look more fearsome" 96
+- Detroit: cracking down on dealers led to turf wars 97
+- "self-perpetuating, self-escalating feedback loop" 97
+- Jerry Wilson in DC 97
+  - recruited local black officers 95
+  - high-profile patrols 98
+  - college grads 98
+  - riot teams in buses out of sight 99
+  - chief the first to confront protesters, throw tear gas 99
+  - union resolution criticizing 99
+  - "I don't stand behind my men, I stand in front of them." 99
+  - refused no-knock raids 99
+- Nixon got four supreme court picks 101
+- first picks rejected in 40 years 101
+- ABA deemed unqualified 101
+- Rehnquist was Office of Legal Counsel 102
+- wrote opinions supporting crime bills 102
+- make crime stats at federal level: narcotics 103
+- wanted shift from high quality arrests of high-level traffickers to high volume of low-level arrests 103
+- whip up heroin panic to get authority 104
+- ODALE strike teams all for show 105
+- shooting of Patrick Berti in Humboldt 106
+- hippies invade Garberville 106
+- Dirk Dickerson's ranch surveillance 107
+- brought reporter and two photogs along for the raid 108
+- Lloyd Clifton, violent Berkeley officer 108
+- firsthand account of raid 110
+- "The idea of shooting to wound is bush league." 113
+- planted mini drug lab? 113
+- federal narcs indicted for murder 2 114
+- local defense lawyer deputized federally 115
+- "armed men running up the hall dressed like hippies with pistols" 116
+- "You're going to die if you don't tell us where the drugs are." 117
+- "Boy, you shut your mouth." 117
+- "Fuck your animals." 117
+- shotgun at sixteen-year-old boy's face 118
+- >100 no-knocks in six months 119
+- agents suspended with pay 120
+- held 77 hours with no call 120
+- no warrants 120
+- whispering or yelling just before hitting the door 121
+- DEA consolidation 122
+- John Bartels Jr. policy changes 123
+- repeal and federal liability laws 124
+- "compunctious" 125
+- Reagan revival of Nixon drug war 125
+- Symbionese Liberation Army 126
+- SWAT requested frag grenades 127
+- two women shot dead while leaving house 128
+- maximum media exposure 129
+- Chris McNab 130
+- SWAT became household word 130
+- ABC drama S.W.A.T. 131
+- SWAT merchandizing, lunchboxes, &c. 132
+- "pressure to be up to date without any knowledge of what they're actually getting into" 132
+- 1930s submachine gun salesmen 132
+- small towns and suburbs: bully protesters, counterculture, minority activists 133
+- Kaplan's The Law of the Instrument 133
+- "solve all society's problems with an M-16" 133
+- pat-time SWAT getup for SJ Hell's Angels 134
+- old-school cops didn't need no-knock 134
+- "These guys got new toys. They want to use them." 135
+- allegations that Carter staff used drugs 136
+- merger of drug war and militarization 136
+- 1979 peak year for illicit drug use in America 137
+
+## Chapter 6
