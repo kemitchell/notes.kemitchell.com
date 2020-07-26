@@ -379,3 +379,101 @@ tags:
 - army helicopter over Greatful Dead show in Foxboro 179
 - Guard bridges cop and soldier 180
 - DEA v. Customs 181
+- agency turf wars 182
+- statistics based on raw seizure and arrest figures 183
+- "Every narc, at one time or another, has hit a wrong door." 183
+- $2.75m settlement 183
+- since mid-1980s, judges almost never denied search warrants 183
+- survey of Chicago judges on police lies and fabricated evidence 184
+- Russ Jones on prior thorough review 184
+- magistrate shopping 185
+- Denver: no-knock even when not requested 185
+- judges and prosecutors "nearly conspiring" 186
+- report on LAPD excessive force 186
+- "monkey slapping time" 187
+- recommended removing Daryl Gates 188
+- Rodney King riots ended career 188
+- Watts Riots led to SWAT, but SWAT couldn't handle Rodney King riots 188
+- San Diego "demilitarize" recognition 189
+- prior attempts: Lakewood, CO, Menlo Park, Beverly Hills 189
+- avoid military rank names 190
+- "It's a war out there." 191
+- shut off water, have plumber install a catch net 192
+- Albuquerque SWAT shouts shoots suicidal man under tree from 43 feet away 192
+- new chief disabanded SWAT 193
+- Clinton Joint Technology Program 193
+- troops to cops program subsidized hiring veterans 194
+- soldiers don't make better candidates 195
+- one-strike public housing eviction policy 195
+- Wilson v. Arkansas: knock-and-announce part of Fourth Amendment 196
+- Richards v. Wisconsin 196
+- US v. Ramirez: destruction of evidence, threat to officer, useless gesture exceptions 198-199
+- "The Court's conservative wing has always believed in original intent---except when it hasn't." 199
+- G. Gordon Libby calls for resisting ATF by force 199
+- Ruby Ridge, Waco, Elián González 200
+- many of same agents at Ruby Ridge and Waco 201
+- Waco and Ruby Ridge made militarization a political issue 202
+- botched ATF raids 202-203
+- lent momentum to militia movement 203
+- Oklahoma City bombing as retaliation for Waco 203
+- Elián González INS raid 204
+- examples of partisan hypocrisy 205
+- Navy using Coast Guard to get around restrictions 206
+- police department surveys 207
+- safest city in America has a SWAT team 207
+- media attention, but nothing really changed 209
+- 1033 program in 1997 209
+- small department inferiority complex, arms race 210
+- officer who want to join SWAT are the last officers you want in SWAT 211
+- Ed Sanow: practice SWAT raids on low-level offenders 211
+- techno-warrior image 213
+- "rush of power" 213
+- Peter Krasksa 214
+- addicted to the rush 214
+- threats on doctors after medical marijuana measures 215
+- raids to send political messages 215
+- Todd McCormick and Peter McWilliams 216
+- couldn't tell jury doctor said pot keeping him alive 217
+- bail condition: no pot, and mother put up house as collateral 217
+- choked to death on vomit from nausea before sentencing 217
+- community policing v. call-and-response 218
+- COPS grants 218
+- no definition of "community policing", just proactive 218
+- many departments used community policing money to militarize 219
+- example of Portland 220
+- nice-sounding name, from Democrats 220
+- "community" meant zero-tolerance 220
+- SWAT a part of community policing strategy 221
+- funding based solely on drug stats 221-222
+- Biden credited COPS for crime drop 222
+- Hoover Institution: conservative think tank associated with Stanford 224
+- Joseph McNamara in San Jose 224
+- conference hypos: raid for crack, pot, Valium, booze? 225
+- "robot mentality", not questioning 227
+- afraid to speak openly 228
+- North Hollywood 228
+- broadcast live by helicopter 229
+- next September: 600 M-16s to LAPD 230
+- Columbine High School 230
+- SWAT teams didn't go in 231
+- three hours to reach victims 232
+- cite North Hollywood and Columbine, but use for drug busts 233
+- mass shootings exceedingly rare 233
+- Norm Stamper headed Seattle PD during 199 WTO 234
+- despite training, threw gas behind front line of protesters 235
+- mayor declared possessing a gas mask a crime 235
+- cops panicked 235
+- Molotov rumors 235
+- Stamper changed mind on gas during book tour 236
+- "control", Darth Vader look 236
+
+## Chapter 8
+- Matthew 5:9 in speech about new APC 239
+- "there are no innocent people" 241
+- years of nightmares 242
+- homeland security funding 242
+- SWAT even used for regulatory inspections 242
+- audio, video, social media 242
+- reducing crime doesn't increase federal dollars 243
+- narcotics task forces 244
+- "virtually unaccountable" 244
