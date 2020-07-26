@@ -18,6 +18,8 @@ tags:
   - Serfdom
   - Slavery
   - Caste
+  - Class
+  - Marx
 ---
 
 # Notes
