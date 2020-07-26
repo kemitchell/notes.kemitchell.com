@@ -347,3 +347,35 @@ tags:
 - William Bennett begged to be drug czar 163
 - cast drugs as moral issue 164
 - circle: immoral because illegal 164
+- punishment, not rehabilitation 165
+- "It's a funny war when the 'enemy' is entitled to due process and of law and a fair trial." 165
+- urged children to turn friends in 165
+- Daryl Gates started DARE 165
+- numerous children turned in parents after DARE lectures 166
+- Gates: "treason", "taken out and shot", own son used drugs 166
+- Byrne grants 167
+- Caspar Winberger, voice of reason 167
+- Democrats attacked Bush drug plan as too weak 167
+- Biden: "not tough enough..." 168
+- judge: "grim specter of a totalitarian state" 168
+- Milton Friedman concerned 169
+- "in effect, a proclamation of martial law ... narrow class ... young blacks" 169
+- anti-loitering laws 170
+- Riverside: man awoken by flashbang charged with interfering, resisting 170
+- man with shotgun charged with provoking officer to shoot unarmed boy 171
+- police shot by police during raids 171
+- policemen killed in firefight 172
+- internal investigations clear botched raid leaving innocent man and cop shot dead 173
+- open fields doctrine expanded to low-hovering helicopters 173
+- "outrage fatigue" 174
+- Brennan's dissent:
+  - drug war exception to the Fourth Amendment 174
+  - quoted 1984 helicopter Police Patrol 174
+
+## Chapter 7
+- 1989 invasion of Panama 177
+- replace Soviet threat with drugs 178
+- National Guard involvement brought funding to states 179
+- army helicopter over Greatful Dead show in Foxboro 179
+- Guard bridges cop and soldier 180
+- DEA v. Customs 181
