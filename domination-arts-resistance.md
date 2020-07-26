@@ -94,4 +94,42 @@ tags:
 - DuBois' double consciousness, North and South 44
 
 ## Chapter 3
-
+- "He who is master cannot be free." --- JJ. Rousseau 45
+- reinforcement, maintenance, adjustment 45
+- parade v. mob, rabble 45
+- Robert Owens' silent monitor 46
+- self-fulfilling prophecy 49
+- Hitler: "One cannot rule by force alone." 49
+- private violations 51
+- Soviet labor camps 51
+- dual culture 51
+- cosmetic euphemization 52
+- without contestation, no explain itself, nothing to answer for 53
+- unemployment euphemisms 53-54
+- bonus a pious zakan 54
+- masks also traps 55
+- appearance of unanimity 55
+- elite more uniform, popular more local 55
+- Alexander I punished cruel masters in secret 56
+- avoid public insubordination 56
+- public apologies 57
+- Great Purge of 1930s 57
+- symbolic taxes 58
+- "The show is all actors and no audience." 59
+- Potemkin cooperative in Laos 60
+- typically high seriousness 60
+- authorized gatherings 61
+- vertical, dyadic reciprocities 61
+- assume no links among subordinates but through superior 62
+- veneration of graves of Japanese peasant petitioners 63
+- no gatherings of >= 5 slaves without white observer 63
+- working-class cafe, slave hush arbor 64
+- Marx: "dull compulsion of economic relations" 66
+- stable, effective, here to stay 66
+- estimated cohesion 67
+- threat of renegade elites 67
+- self-hypnosis 67
+- Catholicism for feudal elites 68
+- Weber: "the right to his happiness" 68
+- "The kind could not awe his subjects since they never saw him..." 69
+- more force on elites than commoners 69
