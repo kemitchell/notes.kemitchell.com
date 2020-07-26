@@ -25,259 +25,259 @@ tags:
 # Notes
 
 ## Preface
-- class relations in Malay village ix
-- poor and economically dependent ix
-- public v. hidden transcripts x
-- postmodernist: no social or analytical position of truth x
-- similar domination, similar resistance xi
-- dignity and autonomy over material exploitation xi
-- oppression denies subordinates negative reciprocity xii
-- hidden transcript open, disguised xii
-- rare moments: hidden transcript spoken directly and publicly xiii
+- class relations in Malay village (ix)
+- poor and economically dependent (ix)
+- public v. hidden transcripts (x)
+- postmodernist: no social or analytical position of truth (x)
+- similar domination, similar resistance (xi)
+- dignity and autonomy over material exploitation (xi)
+- oppression denies subordinates negative reciprocity (xii)
+- hidden transcript open, disguised (xii)
+- rare moments: hidden transcript spoken directly and publicly (xiii)
 
 ## Chapter 1
-- "speak truth to power" ... rarely practiced 1
-- vast majority of people in history 2
-- public transcript := open interaction between subordinates and those who dominate 2
-- "prudent and misleading deference" 2
-- "impression management" 3
-- generally: stereotypical ritualism corresponds to disparity in power, arbitrary exercise 3
-- "the more menacing the power, the thicker the mask" 3
-- Jamaican slaves: "Play fool, to catch wise." 3
-- dialectic of disguise and surveillance 4
-- hidden transcript := "offstage" 4
-- rehearsing imaginary speeches 8
-- "fantasy of revenge and confrontation" 9
-- hydraulic metaphor 9
-- "faces have grown to fit that mask" 10
-- Orwell's Shooting and Elephant 10
-- theatrical metaphor 11
-- Nixon Oral Office tapes, special shops for Community Party elites 11
-- "sedulously" 12
-- premises of inherent superiority 12
-- "sacred aura of judges" 13
-- each person knows only public transcript and their own circle's hidden transcript 15
+- "speak truth to power" ... rarely practiced (1)
+- vast majority of people in history (2)
+- public transcript := open interaction between subordinates and those who dominate (2)
+- "prudent and misleading deference" (2)
+- "impression management" (3)
+- generally: stereotypical ritualism corresponds to disparity in power, arbitrary exercise (3)
+- "the more menacing the power, the thicker the mask" (3)
+- Jamaican slaves: "Play fool, to catch wise." (3)
+- dialectic of disguise and surveillance (4)
+- hidden transcript := "offstage" (4)
+- rehearsing imaginary speeches (8)
+- "fantasy of revenge and confrontation" (9)
+- hydraulic metaphor (9)
+- "faces have grown to fit that mask" (10)
+- Orwell's Shooting and Elephant (10)
+- theatrical metaphor (11)
+- Nixon Oral Office tapes, special shops for Community Party elites (11)
+- "sedulously" (12)
+- premises of inherent superiority (12)
+- "sacred aura of judges" (13)
+- each person knows only public transcript and their own circle's hidden transcript (15)
 
 ## Chapter 2
-- "often fugitive political conduct of subordinate groups" 17
-- "safer course of anonymous attacks" 17
-- "the _self_-portrait of dominant elites" 18
-- rule on behalf of subjects 18
+- "often fugitive political conduct of subordinate groups" (17)
+- "safer course of anonymous attacks" (17)
+- "the _self_-portrait of dominant elites" (18)
+- rule on behalf of subjects (18)
 - four varieties of political discourse:
   1.  public
   2.  hidden
-  3.  between 18
-  4.  rupture 19
-- "infrapolitics of subordinate groups" 19
-- cites Discipline and Punish 20
-- charisma 20
-- "These forms of domination are institutionalized means of extracting labor, goods, and services from a subject population." 21
-- "strong element of personal rule" 21
-- "personal terror" 21
-- family resemblance 21
-- giving and taking orders 23
-- deference 23
-- parents socializing children 24
-- English middle class: motives, working: outward conformity 25
-- transcripts plural 25
-- relations among subordinates 26
-- power: can be more negligent, casual about performance 29
-- women increasingly use men's language 30
-- tag question form/rising tone 30
-- linguistic marks of subordination 30
-- Normal-Saxon 31
-- effort to ban French vous 31
-- linguistic Heisenberg effect 32
-- "The evasion ... at ... cost ... public transcript that _apparently_ satisfies the social ideology of the dominant." 33
-- "thread their way among dangerous whites" 33
-- abuse of child or spouse 37
-- "The cruelest result of human bondage is that it transforms the assertion of personal dignity into a mortal risk." 37
-- "suppressing a violent rage" 37
-- Hegel's duelist 37
-- "frustration of reciprocal action" 37
-- customer as king, ledger evened by a wage 38
-- the "baaaad Nigger" 41
-- virtuous trickster 41
-- sports reversal and revenge 41
-- schadenfreude 41
-- e.g. sinking of Titanic 42
-- call down curses 42
-- DuBois' double consciousness, North and South 44
+  3.  between (18)
+  4.  rupture (19)
+- "infrapolitics of subordinate groups" (19)
+- cites Discipline and Punish (20)
+- charisma (20)
+- "These forms of domination are institutionalized means of extracting labor, goods, and services from a subject population." (21)
+- "strong element of personal rule" (21)
+- "personal terror" (21)
+- family resemblance (21)
+- giving and taking orders (23)
+- deference (23)
+- parents socializing children (24)
+- English middle class: motives, working: outward conformity (25)
+- transcripts plural (25)
+- relations among subordinates (26)
+- power: can be more negligent, casual about performance (29)
+- women increasingly use men's language (30)
+- tag question form/rising tone (30)
+- linguistic marks of subordination (30)
+- Normal-Saxon (31)
+- effort to ban French vous (31)
+- linguistic Heisenberg effect (32)
+- "The evasion ... at ... cost ... public transcript that _apparently_ satisfies the social ideology of the dominant." (33)
+- "thread their way among dangerous whites" (33)
+- abuse of child or spouse (37)
+- "The cruelest result of human bondage is that it transforms the assertion of personal dignity into a mortal risk." (37)
+- "suppressing a violent rage" (37)
+- Hegel's duelist (37)
+- "frustration of reciprocal action" (37)
+- customer as king, ledger evened by a wage (38)
+- the "baaaad Nigger" (41)
+- virtuous trickster (41)
+- sports reversal and revenge (41)
+- schadenfreude (41)
+- e.g. sinking of Titanic (42)
+- call down curses (42)
+- DuBois' double consciousness, North and South (44)
 
 ## Chapter 3
-- "He who is master cannot be free." --- JJ. Rousseau 45
-- reinforcement, maintenance, adjustment 45
-- parade v. mob, rabble 45
-- Robert Owens' silent monitor 46
-- self-fulfilling prophecy 49
-- Hitler: "One cannot rule by force alone." 49
-- private violations 51
-- Soviet labor camps 51
-- dual culture 51
-- cosmetic euphemization 52
-- without contestation, no explain itself, nothing to answer for 53
-- unemployment euphemisms 53-54
-- bonus a pious zakan 54
-- masks also traps 55
-- appearance of unanimity 55
-- elite more uniform, popular more local 55
-- Alexander I punished cruel masters in secret 56
-- avoid public insubordination 56
-- public apologies 57
-- Great Purge of 1930s 57
-- symbolic taxes 58
-- "The show is all actors and no audience." 59
-- Potemkin cooperative in Laos 60
-- typically high seriousness 60
-- authorized gatherings 61
-- vertical, dyadic reciprocities 61
-- assume no links among subordinates but through superior 62
-- veneration of graves of Japanese peasant petitioners 63
-- no gatherings of >= 5 slaves without white observer 63
-- working-class cafe, slave hush arbor 64
-- Marx: "dull compulsion of economic relations" 66
-- stable, effective, here to stay 66
-- estimated cohesion 67
-- threat of renegade elites 67
-- self-hypnosis 67
-- Catholicism for feudal elites 68
-- Weber: "the right to his happiness" 68
-- "The kind could not awe his subjects since they never saw him..." 69
-- more force on elites than commoners 69
+- "He who is master cannot be free." --- JJ. Rousseau (45)
+- reinforcement, maintenance, adjustment (45)
+- parade v. mob, rabble (45)
+- Robert Owens' silent monitor (46)
+- self-fulfilling prophecy (49)
+- Hitler: "One cannot rule by force alone." (49)
+- private violations (51)
+- Soviet labor camps (51)
+- dual culture (51)
+- cosmetic euphemization (52)
+- without contestation, no explain itself, nothing to answer for (53)
+- unemployment euphemisms (53-54)
+- bonus a pious zakan (54)
+- masks also traps (55)
+- appearance of unanimity (55)
+- elite more uniform, popular more local (55)
+- Alexander I punished cruel masters in secret (56)
+- avoid public insubordination (56)
+- public apologies (57)
+- Great Purge of 1930s (57)
+- symbolic taxes (58)
+- "The show is all actors and no audience." (59)
+- Potemkin cooperative in Laos (60)
+- typically high seriousness (60)
+- authorized gatherings (61)
+- vertical, dyadic reciprocities (61)
+- assume no links among subordinates but through superior (62)
+- veneration of graves of Japanese peasant petitioners (63)
+- no gatherings of >= 5 slaves without white observer (63)
+- working-class cafe, slave hush arbor (64)
+- Marx: "dull compulsion of economic relations" (66)
+- stable, effective, here to stay (66)
+- estimated cohesion (67)
+- threat of renegade elites (67)
+- self-hypnosis (67)
+- Catholicism for feudal elites (68)
+- Weber: "the right to his happiness" (68)
+- "The kind could not awe his subjects since they never saw him..." (69)
+- more force on elites than commoners (69)
 
 ## Chapter 4
-- troubled terms: false consciousness, hegemony 70
-- thick: ideology pervades subordinates of value 72
-- evidence: generally untenable 72
-- thin: convince that social order natural and inevitable 72
-- thick: consent, thin: resignation 72
-- pluralists v. antipluralists 72
-- define what is realistic 74
-- "below the tragic level" (Hoggart) 74
-- "naturalization of its own arbitrariness" (Bourdieu) 75
-- "Necessity becomes virtue" 76
-- implied: diminishes social conflict 77
-- have to provide hwy in best interest 77
-- many violent conflicts could have been handled within the social order 77
-- goals well within ruling ideology 78
-- how could social change ever come from below? 78
-- misreadings of subordination, exaggerating their own power 79
-- no troubles imagining total reversal 80
-- imagine negations of oppressive distinctions 81
-- "When Adam delved and Even span, who was then the gentleman?" 81
-- "slave and peasant uprising occur frequently enough and fail almost invariably" 82
+- troubled terms: false consciousness, hegemony (70)
+- thick: ideology pervades subordinates of value (72)
+- evidence: generally untenable (72)
+- thin: convince that social order natural and inevitable (72)
+- thick: consent, thin: resignation (72)
+- pluralists v. antipluralists (72)
+- define what is realistic (74)
+- "below the tragic level" (Hoggart) (74)
+- "naturalization of its own arbitrariness" (Bourdieu) (75)
+- "Necessity becomes virtue" (76)
+- implied: diminishes social conflict (77)
+- have to provide hwy in best interest (77)
+- many violent conflicts could have been handled within the social order (77)
+- goals well within ruling ideology (78)
+- how could social change ever come from below? (78)
+- misreadings of subordination, exaggerating their own power (79)
+- no troubles imagining total reversal (80)
+- imagine negations of oppressive distinctions (81)
+- "When Adam delved and Even span, who was then the gentleman?" (81)
+- "slave and peasant uprising occur frequently enough and fail almost invariably" (82)
 - conditions for ideological hegemony over involuntary subordination:
-  1.  good chance many subordinates will hold power 82
-      - "exercise the domination that one endures today" 82
-      - promise of living set free 83
-  2.  atomized, closely obscured 83
-      - Foucault: "Solitude is the primary condition of total submission." 83
-      - POW camps 83
-      - Migram's experiments 84
-- measures too stringent for large scale 85
-- division, hopelessness, no time, cynicism 85-86
-- official transcript avoids evidence of dissent 86
-- Levellers, Lollards 88
-- "has honor" 88
-- Malay formers' Islamic tithe 88-89
-- protecting ingratiation 89
-- subordinates more free in thought, less free in action 91
+  1.  good chance many subordinates will hold power (82)
+      - "exercise the domination that one endures today" (82)
+      - promise of living set free (83)
+  2.  atomized, closely obscured (83)
+      - Foucault: "Solitude is the primary condition of total submission." (83)
+      - POW camps (83)
+      - Migram's experiments (84)
+- measures too stringent for large scale (85)
+- division, hopelessness, no time, cynicism (85-86)
+- official transcript avoids evidence of dissent (86)
+- Levellers, Lollards (88)
+- "has honor" (88)
+- Malay formers' Islamic tithe (88-89)
+- protecting ingratiation (89)
+- subordinates more free in thought, less free in action (91)
 - Barrington Moore:
-  1.  showing elites don't perform function 91
-  2.  showing individual elites don't 91
-  3.  elite doesn't serve any useful social purpose 92
-- gradient of radicalism 92
-- "The least radical step is to criticize some of the dominant stratum for having violated the norms by which they claim to rule; the next most radical step is to accuse the entire stratum of failing to observe the principles of its rule; and the most radical step is to repudiate the very principles by which the dominant stratum justifies its dominance." 92
-- this king, kinds in general, kingship 92
-- man who wants a raise 92
-- hire a French notary to pad complaint with euphemisms 93
-- censoriousness strategy of inmates 94
-- Tokugawa peasant petitions 95
-- paysays obligent 96
-- "He who speaks of desperation to his sovereign, threatens him." 96
-- Daniel Field on Czar-Deliverer 97
-- no evidence that promoted passivity 97
-- invitation to resist supposed agents 97
-- imposters unresponsive to petition 97
-- suppressed decrees 98
-- mythology as joint product of struggle 100
-- "Vive le Roi!" as "With all due respect..." 101
-- German Peasants' War, English Civil War, French Revolution, Russian Revolution, Spanish Republic of 1936 102
-- discursive negation 104
-- symbolic Achilles heel 105
-- critiques within the hegemony 105
-- Voinovich: greatest threat from young people interested in theory 106
-- acceptance breeds radicalism 106
-- "The anger born of a sense of betrayal implies an earlier faith." 107
+  1.  showing elites don't perform function (91)
+  2.  showing individual elites don't (91)
+  3.  elite doesn't serve any useful social purpose (92)
+- gradient of radicalism (92)
+- "The least radical step is to criticize some of the dominant stratum for having violated the norms by which they claim to rule; the next most radical step is to accuse the entire stratum of failing to observe the principles of its rule; and the most radical step is to repudiate the very principles by which the dominant stratum justifies its dominance." (92)
+- this king, kinds in general, kingship (92)
+- man who wants a raise (92)
+- hire a French notary to pad complaint with euphemisms (93)
+- censoriousness strategy of inmates (94)
+- Tokugawa peasant petitions (95)
+- paysays obligent (96)
+- "He who speaks of desperation to his sovereign, threatens him." (96)
+- Daniel Field on Czar-Deliverer (97)
+- no evidence that promoted passivity (97)
+- invitation to resist supposed agents (97)
+- imposters unresponsive to petition (97)
+- suppressed decrees (98)
+- mythology as joint product of struggle (100)
+- "Vive le Roi!" as "With all due respect..." (101)
+- German Peasants' War, English Civil War, French Revolution, Russian Revolution, Spanish Republic of 1936 (102)
+- discursive negation (104)
+- symbolic Achilles heel (105)
+- critiques within the hegemony (105)
+- Voinovich: greatest threat from young people interested in theory (106)
+- acceptance breeds radicalism (106)
+- "The anger born of a sense of betrayal implies an earlier faith." (107)
 
 ## Chapter 5
-- "negation", e.g. reworking of Christian doctrine by slaves 108
-- psychological price 109
-- psychology: methodological individualism suspect 109
-- compliance, but not willing 109
-- reactance theory 109
-- actor's face looks less like mask 110
-- "... the greater the extrinsic reasons compelling our action...the less we have to provide satisfactory reasons to ourselves for our conduct" 110
-- GIs broken in Korean POW camps 110
-- material appropriation, mastery and subordination, ideological justification 111
-- offstage responses and rejoinders 111
-- Marx: material appropriation, here: indignities, control, &c. 111
-- working class: constantly taking commands arouses greatest resentment 112
-- lack of minimal recognition 112
-- appropriation personal, domination personalized 112
-- dignity, public and private 113
-- greater harm in public 113
-- standing with master and among peers 114
-- substitute for assertion in the face of power 115
-- "Just wait until..." 115
-- dress rehearsal 115
-- public v. private slave Christianity 115
-- hush arbors 116
-- meekness and service v. deliverance and redemption 116
-- cornerstone: revolution in black-white relations 117
-- "scheduled castes" 117
-- untouchables: karma, mythical injustice, apostasy 117
-- "counterideology" 118
-- hidden transcript still requires a public, just not the dominant 118
-- insulated social spaces 118
-- product of mutuality 119
-- "... the cabaret is the parliament of the people." --- Balzac, Los Paysans 120
+- "negation", e.g. reworking of Christian doctrine by slaves (108)
+- psychological price (109)
+- psychology: methodological individualism suspect (109)
+- compliance, but not willing (109)
+- reactance theory (109)
+- actor's face looks less like mask (110)
+- "... the greater the extrinsic reasons compelling our action...the less we have to provide satisfactory reasons to ourselves for our conduct" (110)
+- GIs broken in Korean POW camps (110)
+- material appropriation, mastery and subordination, ideological justification (111)
+- offstage responses and rejoinders (111)
+- Marx: material appropriation, here: indignities, control, &c. (111)
+- working class: constantly taking commands arouses greatest resentment (112)
+- lack of minimal recognition (112)
+- appropriation personal, domination personalized (112)
+- dignity, public and private (113)
+- greater harm in public (113)
+- standing with master and among peers (114)
+- substitute for assertion in the face of power (115)
+- "Just wait until..." (115)
+- dress rehearsal (115)
+- public v. private slave Christianity (115)
+- hush arbors (116)
+- meekness and service v. deliverance and redemption (116)
+- cornerstone: revolution in black-white relations (117)
+- "scheduled castes" (117)
+- untouchables: karma, mythical injustice, apostasy (117)
+- "counterideology" (118)
+- hidden transcript still requires a public, just not the dominant (118)
+- insulated social spaces (118)
+- product of mutuality (119)
+- "... the cabaret is the parliament of the people." --- Balzac, Los Paysans (120)
 - conditions:
   1.  sequestered from control, surveillance, repression
-  2.  only close confidants 120
-- hush arbors 120
-- under wash pot 120
-- alehouse, pub, inn, &c. seen as places of subversion 121
-- tavern, pub for workers 122
-- coffeehouse, club room for middle 122
-- marketplace, carnival 122
-- Max Weber's pariah-intelligentsia 124
-- physically mobile trades and vocations 124
-- evidence: effort to abolish 124
-- German Peasants' War pilgrimage sites 125
-- bishop commissioned mocking verses 125
-- Hans Keil 125
-- slaveholders preferred ethnic and linguistic diversity to minimize communication among slaves 127
-- ban on slave pidgin 127
-- slave informers, mounted patrols 127
-- imperial tradition: recruit administrative staff from marginal, despised groups 128
-- durable 19th Century American Utopian communities: celibacy or free love 128
-- abolish family life, leaving only public roles 128
-- Shakers: watchtowers, peepholes, public confessions 128
-- intentional communities dominate, too 128
-- use of dialect in England 129
-- women speak more Standard English 129
-- "covert prestige" of working-class usage 129
-- sanctions behind linguistic solidarity 129
-- "union" among agricultural workers in Franco's Spain 130
-- social pressure over coercive force 131
-- Tamil plantation labor in Caribbean 131
-- Laotian bogus village leaders 132
-- Ellison's Invisible Man strategy 133
-- playing dumb 133
-- Hobsbawn: "The refusal to understand is a form of class struggle." 133
-- elite drive to distinguish by elaborate culture 133
-- "communities of fate" 134
-- miners, merchant seamen, lumberjacks, longshoremen 134
-- homogeneity and isolation, close mutual dependence, little differentiation 135
-- analogy to dialect 135
+  2.  only close confidants (120)
+- hush arbors (120)
+- under wash pot (120)
+- alehouse, pub, inn, &c. seen as places of subversion (121)
+- tavern, pub for workers (122)
+- coffeehouse, club room for middle (122)
+- marketplace, carnival (122)
+- Max Weber's pariah-intelligentsia (124)
+- physically mobile trades and vocations (124)
+- evidence: effort to abolish (124)
+- German Peasants' War pilgrimage sites (125)
+- bishop commissioned mocking verses (125)
+- Hans Keil (125)
+- slaveholders preferred ethnic and linguistic diversity to minimize communication among slaves (127)
+- ban on slave pidgin (127)
+- slave informers, mounted patrols (127)
+- imperial tradition: recruit administrative staff from marginal, despised groups (128)
+- durable 19th Century American Utopian communities: celibacy or free love (128)
+- abolish family life, leaving only public roles (128)
+- Shakers: watchtowers, peepholes, public confessions (128)
+- intentional communities dominate, too (128)
+- use of dialect in England (129)
+- women speak more Standard English (129)
+- "covert prestige" of working-class usage (129)
+- sanctions behind linguistic solidarity (129)
+- "union" among agricultural workers in Franco's Spain (130)
+- social pressure over coercive force (131)
+- Tamil plantation labor in Caribbean (131)
+- Laotian bogus village leaders (132)
+- Ellison's Invisible Man strategy (133)
+- playing dumb (133)
+- Hobsbawn: "The refusal to understand is a form of class struggle." (133)
+- elite drive to distinguish by elaborate culture (133)
+- "communities of fate" (134)
+- miners, merchant seamen, lumberjacks, longshoremen (134)
+- homogeneity and isolation, close mutual dependence, little differentiation (135)
+- analogy to dialect (135)
