@@ -200,3 +200,75 @@ tags:
 - Voinovich: greatest threat from young people interested in theory 106
 - acceptance breeds radicalism 106
 - "The anger born of a sense of betrayal implies an earlier faith." 107
+
+## Chapter 5
+- "negation", e.g. reworking of Christian doctrine by slaves 108
+- psychological price 109
+- psychology: methodological individualism suspect 109
+- compliance, but not willing 109
+- reactance theory 109
+- actor's face looks less like mask 110
+- "... the greater the extrinsic reasons compelling our action...the less we have to provide satisfactory reasons to ourselves for our conduct" 110
+- GIs broken in Korean POW camps 110
+- material appropriation, mastery and subordination, ideological justification 111
+- offstage responses and rejoinders 111
+- Marx: material appropriation, here: indignities, control, &c. 111
+- working class: constantly taking commands arouses greatest resentment 112
+- lack of minimal recognition 112
+- appropriation personal, domination personalized 112
+- dignity, public and private 113
+- greater harm in public 113
+- standing with master and among peers 114
+- substitute for assertion in the face of power 115
+- "Just wait until..." 115
+- dress rehearsal 115
+- public v. private slave Christianity 115
+- hush arbors 116
+- meekness and service v. deliverance and redemption 116
+- cornerstone: revolution in black-white relations 117
+- "scheduled castes" 117
+- untouchables: karma, mythical injustice, apostasy 117
+- "counterideology" 118
+- hidden transcript still requires a public, just not the dominant 118
+- insulated social spaces 118
+- product of mutuality 119
+- "... the cabaret is the parliament of the people." --- Balzac, Los Paysans 120
+- conditions:
+  1.  sequestered from control, surveillance, repression
+  2.  only close confidants 120
+- hush arbors 120
+- under wash pot 120
+- alehouse, pub, inn, &c. seen as places of subversion 121
+- tavern, pub for workers 122
+- coffeehouse, club room for middle 122
+- marketplace, carnival 122
+- Max Weber's pariah-intelligentsia 124
+- physically mobile trades and vocations 124
+- evidence: effort to abolish 124
+- German Peasants' War pilgrimage sites 125
+- bishop commissioned mocking verses 125
+- Hans Keil 125
+- slaveholders preferred ethnic and linguistic diversity to minimize communication among slaves 127
+- ban on slave pidgin 127
+- slave informers, mounted patrols 127
+- imperial tradition: recruit administrative staff from marginal, despised groups 128
+- durable 19th Century American Utopian communities: celibacy or free love 128
+- abolish family life, leaving only public roles 128
+- Shakers: watchtowers, peepholes, public confessions 128
+- intentional communities dominate, too 128
+- use of dialect in England 129
+- women speak more Standard English 129
+- "covert prestige" of working-class usage 129
+- sanctions behind linguistic solidarity 129
+- "union" among agricultural workers in Franco's Spain 130
+- social pressure over coercive force 131
+- Tamil plantation labor in Caribbean 131
+- Laotian bogus village leaders 132
+- Ellison's Invisible Man strategy 133
+- playing dumb 133
+- Hobsbawn: "The refusal to understand is a form of class struggle." 133
+- elite drive to distinguish by elaborate culture 133
+- "communities of fate" 134
+- miners, merchant seamen, lumberjacks, longshoremen 134
+- homogeneity and isolation, close mutual dependence, little differentiation 135
+- analogy to dialect 135
