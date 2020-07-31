@@ -60,7 +60,7 @@ tags:
 - Federal Reserve unprepared to intervene in crisis (27)
 - no federal economic statistics (28)
 - Smoot-Hawley Tariff controversy (28)
-- >20% US banks folded (30)
+- more than 20% of US banks folded (30)
 - stat laws against bank branches produced weak "unit banks" (30)
 - 20s orthodoxy defied older, tested view (30)
 - voluntary, civic, nongovernmental action (31)
