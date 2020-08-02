@@ -1,6 +1,7 @@
 ---
 title: To Protect and Serve
 subtitle: How to Fix America's Police
+types: [book]
 people:
   - Norm Stamper
 tags:
