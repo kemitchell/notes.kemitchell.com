@@ -1,5 +1,8 @@
 ---
 title: To Protect and Serve
+subtitle: How to Fix America's Police
+people:
+  - Norm Stamper
 tags:
   - Police
   - United States
@@ -126,3 +129,45 @@ tags:
 - "we're at an impasse of sorts" (20)
 
 ## Chapter 3
+- 1960s San Diego: drug enforcement an almost ancillary duty (31)
+- narcs a small percentage of cops (31)
+- "street gangs fought over, well, streets" (31)
+- Nixon changed everything: "handy, politically attractive, powerless target" (32)
+- until 1980s, war on drugs was mostly propaganda (32)
+- "bought into the Big Lie" (32)
+- Reefer Madness, PSAs, Scared Straight (32)
+- Nixon actually devoted more to prevention and rehabilitation than since (32)
+- all out war under Reagan (33)
+- "war on his own people" (33)
+- parade of horribles:
+  - more than $1.3 trillion since '71 (33)
+  - tens of millions incarcerated (33)
+  - cost of inmate versus cost to educate child (33)
+  - corporatization of prisons (33)
+  - mandatory minimums, three strikes (34)
+  - deforestation, pollution (34)
+  - deaths by cartels (34)
+  - destabilization (34)
+  - revenue (34)
+- "Prohibition does exactly the opposite of what its proponents intend..." (35)
+- alcohol prohibition effect on crime (35)
+- Democrats supported 1980s laws (36)
+- TODO Alexander's _The New Jim Crow_ (36)
+- unconstitutional stop-and-frisk (36)
+- 2013 study of NYPD:
+  - 444,000 pot possession arrests 2001-2012 (37)
+  - blacks more often, though whites use as often (37)
+- Jeffrey Walker (Philadelphia) spoke to Internal Affairs about planting pot (37)
+- "Your now a rat I hope you die.  I will have you locked up by midnight.  Goodbye loner." (37)
+- both went to prison (37)
+- beating, planting on Floyd Dent (38)
+- William "RoboCop" Melendez (38)
+- Reichbach's comments on NYPD trial (39)
+- "If you're a character-challenged cop, the Narcotics Detail is the place to be." (39)
+- 1990 asset forfeiture changes (39)
+- 1980-2010: US attorneys seized $12.6b, annual growth rate of 19.4% (39)
+- TODO Sarah Stillman, New Yorker, 2013-08-12 (39)
+- heights of rage, depth of despair (40)
+- 80% forfeitures without charge (40)
+- Civil Asset Forfeiture Reform Act of 2000 fell far short (40)
+- drug war "worst public policy since slavery and Jim Crow" (41)
