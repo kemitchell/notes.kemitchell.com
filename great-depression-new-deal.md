@@ -3,6 +3,7 @@ title: The Great Depression and New Deal
 subtitle: A Very Short Introduction
 people:
   - Eric Rauchway
+finished: 2020-07-31
 tags:
   - History
   - American History
