@@ -1,5 +1,6 @@
 ---
 title: Firefox Accounts/Sync Protocol
+types: [documentation]
 tags:
 - https://github.com/mozilla/fxa-auth-server/wiki/onepw-protocol?source=post_page
 tags:

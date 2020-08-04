@@ -1,6 +1,7 @@
 ---
 title: Introducing the Open Usage Commons
 date: 2020-07-08
+types: [blog post]
 urls:
 - https://openusage.org/news/introducing-the-open-usage-commons/
 tags:

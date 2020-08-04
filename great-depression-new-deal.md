@@ -1,6 +1,7 @@
 ---
 title: The Great Depression and New Deal
 subtitle: A Very Short Introduction
+types: [book]
 people:
   - Eric Rauchway
 finished: 2020-07-31
