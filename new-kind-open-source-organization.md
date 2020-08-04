@@ -1,6 +1,7 @@
 ---
 title: Announcing a New Type of Open Source Organization
 date: 2020-07-08
+types: [blog post]
 urls:
 - https://opensource.googleblog.com/2020/07/announcing-new-kind-of-open-source.html
 tags:
