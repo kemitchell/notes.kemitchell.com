@@ -52,3 +52,28 @@ tags:
 - default global visibility a mistake (42)
 - too terse (42)
 - overloaded symbols table (43)
+- "some of the operators have the wrong precedence" (44)
+- * and / come before + and -. Put everything else in parentheses. (47)
+- fgets() instead of gets() (49)
+- other systems separate command flags and arguments (51)
+- maximal munch strategy (53)
+- returning allocated memory v. requiring caller to allocate memory (58)
+- "Memory management works best if you can write the 'free' at the same time as you write the 'malloc'." (58)
+- mistake to split lint out of compiler (59)
+- "Lint is your software conscience."  (59)
+- the earlier bug found, the cheaper to fix (60)
+- Mariner 1 algorithm bug (60)
+- C declarations easy to parse for compiler (64)
+- significantly and needlessly complicated (65)
+- declarations resemble uses (65)
+- declarator: identifier, pointers, function brackets, array indications (67)
+- prefer not mixing struct and variable dec's (70)
+- parameters in registers for speed (70)
+- unions in structs with type info. (72)
+- 100 times more structs than unions (73)
+- precedence, high to low:
+  - parentheses grouping
+  - postfix:
+    - function pointers
+    - array brackets
+  - prefix: pointer syntax (74)
