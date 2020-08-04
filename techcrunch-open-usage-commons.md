@@ -3,6 +3,7 @@ title: Google Launches the Open Usage Commons, a New Organization for Managing O
 people:
 - Frederic Lardinois
 - Chris DiBona
+types: [blog post]
 urls:
 - https://techcrunch.com/2020/07/08/google-launches-the-open-usage-commons-a-new-organization-for-managing-open-source-trademarks/
 tags:
