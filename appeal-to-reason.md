@@ -11,6 +11,10 @@ tags:
 - Economics
 ---
 
+Went digging for a book to counterbalance some reading I'd done on climate change.  This is what I found.
+
+Makes some informed methodological critiques of projections and modeling.  Shifts toward a fundamentally economic point on discount rates, intergenerational equity, and developing nations.  Devolves from there into one last ideological hoorah of a retired conservative.
+
 # Notes
 - Churchill demanded a one-handed economist (5)
 - "serried" (8)
