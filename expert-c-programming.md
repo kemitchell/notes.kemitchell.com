@@ -194,3 +194,32 @@ tags:
 - cooked terminal input (212)
 - "Games software is more important than generally thought." (213)
 - `(**(**state[i])();` (218)
+- software easier to change, harder than hardware otherwise (219)
+- sendmail and make "debugged into existence" (220)
+- "cast":
+  1.  type conversion
+  2.  disambiguation (223)
+- obfuscated C contest inspired by Bourne shell source (225)
+- "vieux chapeua" (226)
+
+## Chapter 9
+- confusion from standard references literature (240)
+- Rule 1: An "Array Name is an Expression" Is a Pointer (243)
+- Rule 2: C Treats Arra Subscripts as Pointer Offset (244)
+- Rule 3: An "Array Name as a Function Parameter" Is a Pointer (246)
+- more efficient to implement lint as a separate program (246)
+- preference: always define parameter as a pointer (249)
+- think "vector" (254)
+- starting batch jobs at night with alarm clocks (260)
+
+## Chapter 10
+- multidimensional arrays rare in systems programming (263)
+- array of pointers / Hifte Vector (sp?) / display / dope vector (265)
+- conventions for passing arrays:
+  1.  size parameter
+  2.  special value (273)
+- "the bounds of this array can vary from call to call" (273)
+- Use strings utility to find error messages a program can generate (281)
+- "Bad bcb: we're in big trouble now" (282)
+- dynamic arrays with malloc (283)
+- realloc (285)
