@@ -47,3 +47,39 @@ tags:
 - Reclaim The Commons Manifesto (xiv)
 - privatization and commodification (xiv)
 - Occupy movement (xv)
+
+## Introduction
+- 2008: 120m people in 38k co-ops (1)
+- only about 300 worker co-ops (2)
+- employment was considered a form of bondage (2)
+- "wage slavery" (3)
+- parallel institutions (3)
+- protective and mutual aid (4)
+- unions, co-ops, parties (4)
+- first wave: 1830s (4)
+- Knights of Labor (4)
+- National Grange and Farmers' Alliance (5)
+- "counter-institutional" (5)
+- Farmer's Alliance Exchanges (5)
+- Greenback-Labor Party & Populist Party (5)
+- destroyed after Great Uprising (5)
+- WWII swept away New Deal-era cooperatives (5)
+- McCarthyism dispatched survivors (5)
+- consumer co-op movement (5)
+- communalist tradition (6)
+- "winners write history" (7)
+- "economic freedom" (7)
+- important: Mondragon, Emilia-Romagna, Venezuela, Yugoslavia (8)
+- cooperative:
+  1.  organized democratically among equals
+  2.  fruits divided fairly among workers (8)
+- collective := small work group of equals, based on direct democracy (8)
+- commune := common household or very close-knit (8)
+- "equalitarian" (8)
+- no adequate legal structure (9)
+- TODO Book: We Own It (9 note 24)
+- author history:
+  - Heartwood Cooperative Woodshop
+  - Drop City
+  - Bag Warehouse
+  - old Berkeley Co-Op (11)
