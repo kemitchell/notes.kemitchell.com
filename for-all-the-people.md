@@ -83,3 +83,26 @@ tags:
   - Drop City
   - Bag Warehouse
   - old Berkeley Co-Op (11)
+
+## Chapter 1
+- Native American cooperation (15)
+- council-consensus system (17)
+- Spanish community land grants with ejidos common lands (18)
+- Zapatistas defended ejidos (19)
+- Plymouth Pilgrims (20)
+- contract dispute about work on separate plats (20-21)
+- insurrection of Mayflower servants (21)
+- settlers bought out investors (21)
+- land speculation destroyed the common-land system (22)
+- former servants squatting in the wilderness (23)
+- most of workforce indentured (23)
+- soul drivers kidnapped (23)
+- traders brought first black slaves to America in 1619 (24)
+- hush-bush meetings (24)
+- "maroon" settlements (24)
+- Library Company of Philadelphia (24)
+- Union Fire Company (25)
+- Philadelphia Contributorship mutual fire insurance (25)
+- Perseverance Benevolent Mutual Aid Association (25)
+- Free African Society (25)
+- guild-like societies for traders (26)
