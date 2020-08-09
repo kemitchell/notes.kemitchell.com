@@ -367,3 +367,17 @@ tags:
 - bloody carnival of 1580 Romans, France (179)
 - 1861 abolition of serfdom signed during carnival week (181)
 - delayed proclamation for two weeks (181)
+
+## Chapter 7
+- "infrapolitics" (183)
+- hollow posing? (184)
+- masters stop just short of flashpoint (186)
+- better retaliation by direct injury (186)
+- aggressive play and fantasy violence increase chance of actual aggression (186-187)
+- other aspects: food, drink, time off, &c. (187)
+- "idealist fallacy" (187)
+- material and symbolic taxes (188)
+- "every public act of appropriation is, figuratively, a ritual of subordination" (188)
+- "war on two fronts" (188)
+- slave pilfering: "theft" v. taking back fruits of own labor (188)
+- forest crimes in 18th & 19th C. Europe (189)
