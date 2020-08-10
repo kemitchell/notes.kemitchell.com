@@ -6,8 +6,8 @@ types: [talks]
 urls:
 - https://www.youtube.com/watch?v=uC8Uc_0tlQM
 tags:
-- open source
-- funding
+- Open Source
+- Funding
 ---
 
 - Roman plumbing metaphors limited understanding of the brain

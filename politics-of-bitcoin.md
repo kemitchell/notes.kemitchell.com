@@ -7,7 +7,7 @@ people:
 tags:
   - Bitcoin
   - Blockchain
-  - Peer-to-Peer
+  - Peer to Peer
   - Politics
   - Software
 types: [book]

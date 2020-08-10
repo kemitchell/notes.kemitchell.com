@@ -4,10 +4,10 @@ types: [blog post]
 people:
 - Bradley Kuhn
 tags:
-- copyleft
-- free software
-- open source
-- software licensing
+- Copyleft
+- Free Software
+- Open Source
+- Software Licensing
 - GPL
 urls:
 - https://sfconservancy.org/blog/2020/jan/06/copyleft-equality/

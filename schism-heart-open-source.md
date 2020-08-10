@@ -4,8 +4,8 @@ types: [article]
 people:
 - Sidney Fussell
 tags:
-- open source
-- ethics
+- Open Source
+- Ethics
 urls:
 - https://www.theatlantic.com/technology/archive/2020/01/ice-contract-github-sparks-developer-protests/604339/
 ---

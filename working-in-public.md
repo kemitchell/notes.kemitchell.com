@@ -4,8 +4,18 @@ subtitle: The Making and Maintenance of Open Source Software
 people:
 - Nadia Eghbal
 year: 2020
+finished: 2020-08-10
 tags:
+- Business
+- Business Models
+- Free Software
+- Funding
+- Internet
 - Open Source
+- Platforms
+- Social Media
+- Software Development
+- Software Industry
 ---
 
 # Notes

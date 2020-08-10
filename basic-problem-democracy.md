@@ -6,9 +6,9 @@ people:
 urls:
 - https://www.theatlantic.com/magazine/archive/1919/11/the-basic-problem-of-democracy/569095/
 tags:
-- politics
-- democracy
-- liberty
+- Politics
+- Democracy
+- Liberty
 ---
 
 

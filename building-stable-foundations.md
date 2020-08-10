@@ -7,6 +7,6 @@ types: [talks]
 urls:
 - https://www.youtube.com/watch?v=z_q6nVeD_K4
 tags:
-- open source
-- funding
+- Open Source
+- Funding
 ---

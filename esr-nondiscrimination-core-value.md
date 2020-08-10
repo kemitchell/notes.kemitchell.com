@@ -6,9 +6,9 @@ types: [blog post]
 urls:
 - http://esr.ibiblio.org/?m=201808
 tags:
-- open source
-- open source definition
-- politics
+- Open Source
+- Open Source Definition
+- Politics
 ---
 
 - Lerna
