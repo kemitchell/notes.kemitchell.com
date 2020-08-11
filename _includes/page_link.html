@@ -1,1 +1,1 @@
-<a href="{{page.url}}">{{page.title | smartify}}{% if page.subtitle %}: {{page.subtitle | smartify}}{% endif %}</a> ({{page.types | join: ", "}})
+<a href="{{page.url}}">{{page.title | smartify}}{% if page.subtitle %}: {{page.subtitle | smartify}}{% endif %}</a>{% if page.people %} ({{page.people | join: ', '}}){% endif %}
