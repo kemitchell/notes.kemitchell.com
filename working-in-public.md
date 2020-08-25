@@ -244,7 +244,7 @@ tags:
 - "user-to-user systems" (178)
 - Twitch broadcaster-moderator (180)
 - user support techniques (180)
-- TODO "Understanding User Support Systems in Open Source" (181 n 299)
+- "Understanding User Support Systems in Open Source" (181 n 299)
 - i1915: readily give commit bit to reduce load (182)
 - § The Role of Money in Open Source (184)
 - no simple answer (185)
