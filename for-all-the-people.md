@@ -77,7 +77,7 @@ tags:
 - commune := common household or very close-knit (8)
 - "equalitarian" (8)
 - no adequate legal structure (9)
-- TODO Book: We Own It (9 note 24)
+- Book: We Own It (9 note 24)
 - author history:
   - Heartwood Cooperative Woodshop
   - Drop City
