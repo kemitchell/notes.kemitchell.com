@@ -94,3 +94,25 @@ tags:
 - fire until threat stopped, then CPR (20)
 - 1986 Miami-Dade shootout (20)
 - no Virtual Flowers for Miami shooter (20)
+
+## Chapter 3
+- arresting gambling addicts sworn out of casinos (21)
+- passed on old people gambling (22)
+- "addicts cannot fix themselves" (22)
+- cops, pain pills, alcoholism (23)
+- "the farm" (23)
+- tobacco (23)
+- smash-and-grab, purse snatching likely drug addict (24)
+- dealers stash in the vault: vagina or anus (25)
+- smell hand to tell (25)
+- strip searches:
+  - transgender: they pick
+  - in transition: male for one part, female for another (25)
+- body cavity searches: trained, warrant (25)
+- hit of meth about $5 (26)
+- bicycles great for nabbing dealers (27)
+- distinctive junkie walk on way to fix (27)
+- "Whats up, its J." (28)
+- focus on streets elitist (29)
+- legalization (29)
+- street cops don't tend to support legalization (30)
