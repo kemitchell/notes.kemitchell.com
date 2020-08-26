@@ -6,6 +6,7 @@ year: 2014
 people:
 - Adam Plantinga
 tags:
+- Crime
 - Police
 - United States
 ---
