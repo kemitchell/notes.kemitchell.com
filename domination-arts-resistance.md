@@ -301,7 +301,7 @@ tags:
 - "news on the wind" (142)
 - from gossip to witchcraft (143)
 - rumor (144)
-- TODO Roman delatores (144)
+- Roman delatores (144)
 - embellishment isn't random (145)
 - experiment: white man holding razor confronts black man (145)
 - rumors of monarchist invasion after storming of Bastille (145)
