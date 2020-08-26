@@ -7,6 +7,7 @@ types: [book]
 people:
   - Radley Balko
 tags:
+  - Crime
   - Police
   - Law
   - Politics

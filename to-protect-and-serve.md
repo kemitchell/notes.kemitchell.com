@@ -6,6 +6,7 @@ people:
   - Norm Stamper
 tags:
   - Police
+  - Crime
   - United States
   - American History
 ---

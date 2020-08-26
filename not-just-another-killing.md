@@ -9,6 +9,7 @@ tags:
   - Law
   - Memoirs
   - Oakland
+  - Crime
 types: [book]
 ---
 
