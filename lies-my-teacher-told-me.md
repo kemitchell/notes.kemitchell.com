@@ -1,8 +1,12 @@
 ---
 title: Lies My Teacher Told Me
+subtitle: Everything Your American History Textbook Got Wrong
 types: [book]
+people:
+- James W. Loewen
 tags:
 - History
+- American History
 ---
 
 ## Preface
