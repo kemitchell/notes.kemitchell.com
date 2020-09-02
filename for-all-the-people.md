@@ -7,13 +7,15 @@ urls:
   - https://lccn.loc.gov/2009901373
 types: [book]
 tags:
-  - History
-  - United States
   - Cooperatives
-  - Unions
-  - Labor Movement
-  - Finance
   - Economics
+  - Finance
+  - History
+  - Labor Movement
+  - Oakland
+  - San Francisco
+  - Unions
+  - United States
 ---
 
 # Notes
