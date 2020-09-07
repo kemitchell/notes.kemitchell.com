@@ -48,12 +48,12 @@ tags:
 - police chiefs knew (xv)
 - threatened suit after Reason and WSJ articles (xv)
 
-### Carrington
+#### Carrington
 - Mississippi Innocence Project founder and director (xvi)
 - first case read had Hayne testimony (xvi)
 - DA responses to inaugural fundraiser invitations (xvi)
 
-### Both
+#### Both
 - 90s tough-on-crime race (xvii)
 - habeas corpus rewritten after Oklahoma City bombing xvii-(xviii)
 - "the capital of capital punishment" (xviii)
