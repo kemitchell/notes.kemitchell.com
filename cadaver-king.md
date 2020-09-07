@@ -78,3 +78,125 @@ tags:
 - federal court: no intent to fabricate (xxi)
 - both authors personally involved (xxi)
 - refuse to conduct systematic review (xxiii)
+
+### Chapter 1
+- ineptitude, not malice 8
+- embalmed before West could inspect supposed bite marks 9
+- no retainer to keep shape of excised bite marks 9
+- arrested all men with access to victim 10
+- kids' TV to interviewer of child victims 13
+- sister not reliable witness 14
+- quarter in ear fad 14
+- Levon drives to sheriff to straighten out 16
+- waived right of counsel 17
+- picked from photo array 17
+- "able to get children to say anything" 19
+- Arrested? "Yes, for a similar deal..." 19
+- dental molds excluded everyone, including killer 20
+- Brooks consents to everything 21
+- West: Brooks "did indeed and without a doubt bite the victim" 22
+- Mickens held 8 days, no longer allowed to coach or work with children 23
+- failed polygraph 22
+- Smith suffered ongoing suspicion 23
+- girls moved in with grandmother 23
+- attempted housebreak 24
+- Johnson charged with burglary for touching another woman 24
+
+### Chapter 2
+- judging guilt based on suspect behavior perilous 28
+- similar murder, but didn't affect investigation because Brooks in prison 31
+- knew of Johnson's history 31
+- focused on Kennedy Brewer, despite Johnson having wounds on arms 32
+- taken for dental mold 32
+- another West report to bite mark match 32
+- Johnson plead to burglary with intent to rape 33
+- Brewer charged with murder 33
+- under professional pressure, West replaces "indeed and without doubt" with "within reasonable dental certainty" 33
+
+### Chapter 3
+- Arotistius' autopsy of Caesar: only 23 stab wounds, just one fatal alone, died of blood loss 35
+- forensis: present before public, as in forum 36
+- ancient Chinese investigation system 36
+- coroners from England 37
+- crowner: agent of the crown 37
+- taxation of death 38
+- forfeiture, corruption of blood 38
+- murdrum: fine village for murder if couldn't provide victim Saxon, to protect Normans from reprisal killings 38
+- apportion proceeds from treasure troves 39
+- power to arrest sheriff 40
+- coroner's juries  40
+- Jacksonian populism: appointed positions became elected 40
+- political entree, not professional public service 40
+- physicians resented coroners 41
+- "Thus began the adversarial relationship between science and law." 41
+- American Medical Association 41
+- "protectionism, cronyism, and raw political power" 41
+- "until relatively recently the scientific community has generally steered clear of the criminal justice system ... vacuum" 41
+- progessivism revered professionals 41
+- investigative staffs, prosecution powers 42
+- widespread corruption 42
+- cause of death buying to avoid social scandal, affect insurance payouts 42
+- became patronage positions 42
+- medical examiner system 43
+- coroner's physician as reject or sociopath 43
+- Thomas Jennings, first convicted by fingerprint 43
+- 1904 World's Fair human zoo 44
+- Frana's Galton, father of fringerprint analysis, coined "eugenics", promoted anthropometry 44
+- August Vollmer, Berkeley 45
+- expertise without accountability 45
+- early 1900s: med schools drastically improve 45
+- coroner positions in constitutions 46
+- 1928 report damning coroner system 46
+- 1937: Harvard department of legal medicine 47
+- Richard Childs uses fear of crime against coroner system: crimes go unsolved 47
+- "good place to get away with murder" 47
+- National Association of Coroners, funeral directors 47
+- Fry v. US: D.C. Cir. excludes polygraph instructor testimony 48
+- 1959: American Board of Pathology certification 49
+- lots of grandfathered in certifications 49
+- "self-perpetuating cycle of mediocrity" 49
+- 32 states: coroners, no specialized training 49
+- low public pay, insufficient supply of experts 50
+
+### Chapter 4
+- "We couldn't even count the bullet holes in my brother's head.  But they called it heart failure." 51
+- "deployment to excuse and cover up lynchings, civil rights assassinations, and other racial violence" 51
+- lynchers on coroner's juries 51
+- block federal lynching bills: already illegal under state law 52
+- "persons, part or parties unknown" 52
+- despite photos, witnesses, announcements of lynchings in papers 53
+- terror craved publicity 53
+- names published in paper 53
+- 30s and 40s: less spectacle, more secretive 54
+- 1946 murders of Malcolms and Dorseys 54
+- more unpunished lynchings in Mississippi than any other state 55
+- often didn't investigate black-on-black killings, saved resources 56
+- poisoning of Robert Johnson, bluesman 56
+- cause of death: "no doctor" 57
+- MS racial violence intensified in the Civil Rights era 57
+- MS coroners controlled scene of death 57
+- "pliability" 57
+- serves law enforcement, as intended 58
+- "facilitation of those in power" 58
+- CSI Effect: unrealistic expectations 58
+- murder of Reverend George Lee 60
+- wife: knew would be murdered, left house to spare my life 61
+- accident v. buckshot in head 61
+- US AG ordered FBI investigation 61
+- local DA refuses to prosecute 62
+- jurors all members of local "main street" KKK offshoot 62
+- no one ever tried for murder 62
+- Emmett Till: national outrage provoked defensive reaction 64
+- local lawyer changed mind about representing defendants 65
+- lawyer:
+  > They're peckerwoods. ... But, hell, we've go to have our Milams to fight our wars and keep our niggahs in line. There ain't gonna be no integration.  There ain't gonna be no votin'.  And the sooner everybody in this country realizes it the better.  If any more pressure is put on us, the Tallahatchie won't hold all the niggers that'll be thrown into it. 65
+- sheriff sealed coffin, made uncle promise not to open 65
+- packed with lime, thought to speed decomposition 65
+- sheriff suddenly claimed wasn't sure of identity, after releasing body to family 65
+- conspiracy theories 65
+- defense seized on lack of autopsy 66
+- 2005 autopsy of Till 67
+- Freedom Summer killing deputies involved in prior killings 67
+- searching for bodies, law enforcement found eight other black men 69
+- Highway Patrol drove off agreed Medical Committee for Human Rights autopsy monitors 70
+- clinical, not forensic, pathologist 70
