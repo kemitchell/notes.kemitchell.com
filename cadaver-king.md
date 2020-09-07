@@ -16,6 +16,12 @@ tags:
 - Science
 ---
 
+## Epigram
+
+> Shame may restrain what law does not prohibit.
+>
+> --- Seneca
+
 ## Notes
 
 ### Foreword (John Grisham)
