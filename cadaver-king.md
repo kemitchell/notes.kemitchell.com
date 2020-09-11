@@ -206,7 +206,7 @@ tags:
 - ethics complaint v. second doctor 71
 - coroner's inquest: couldn't determine cause of death 72
 
-## Chapter 5
+### Chapter 5
 - "We just cut her tits off." 73
 - "Best States for a Murder" backfired 73
 - MS reform only applied if county elected physician 74
@@ -249,3 +249,31 @@ tags:
 - 2017: no court has upheld challenge to science of bite mark evidence 88
 - denounced by every panel of scientists 88
 - 25 people exonerated 88
+
+### Chapter 6
+- "ignorance, allied with power" --- Baldwin 91
+- demonstrations of intelligence 91
+- ethics: knew wrong, but helped client 92
+- Dodge Charger done up as undercover police car 92
+- WSJ op-ed 92
+- one of the guys 93
+- intelligent, insecure egomaniac 93
+- Haynes' biography 93
+- later: $1k/autopsy, $350/hour in court 94
+- 1,200 autopsies per year 94
+- NAME: 250/year max 95
+- claimed superhuman work ethic 95
+- held two other full-time positions 95
+- all autopsies at night 95
+- civil cases, several Louisiana parishes 96
+- impartiality v. incentives 96
+- before: unsolved, not "solved" with bad evidence 97
+- relationship with coroner Jimmy Roberts 98
+- opened morgue, charged other counties for use of morgue by Hayne for autopsies 98
+- state medical examiner, despite lack of required certification 99
+- resigned after 8 months 99
+- Texas examiner offered autopsies, told had to get permission from Hayne 100
+- theory: resigned after seeing money opportunity from state level 101
+- theory: resigned after ruling against state employee moonlighting 102
+- "But no one has described Hayne as a racist." 103
+- opportunist 103
