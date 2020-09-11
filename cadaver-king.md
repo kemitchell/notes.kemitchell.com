@@ -200,3 +200,52 @@ tags:
 - searching for bodies, law enforcement found eight other black men 69
 - Highway Patrol drove off agreed Medical Committee for Human Rights autopsy monitors 70
 - clinical, not forensic, pathologist 70
+- obstructed second autopsy 70
+- firebombed mother's house 70
+- had removed internal organs 71
+- ethics complaint v. second doctor 71
+- coroner's inquest: couldn't determine cause of death 72
+
+## Chapter 5
+- "We just cut her tits off." 73
+- "Best States for a Murder" backfired 73
+- MS reform only applied if county elected physician 74
+- heart attack with bullet hole under shirt 75
+- unfunded state medical examiners 75
+- illiterate gas pumpers and septic cleaners as coroners 76
+- Faye Spruill 76
+- only certified in state 76
+- fake death certificates for fees 77
+- Maryland as model system 77
+- Florida: more local control 78
+- reporting more murders makes sheriff or prosecutor look bad 79
+- 1977: almost half reported deaths from "unknown causes" 79
+- 1981: majority of coroners funeral directors 79
+- got new law after coroner never requested examiner's help with two girls 79
+- no funding at all 79
+- Robert Crook: "Hello, niggers.", bill to move black farmers out of state 80
+- sexism 80
+- cut all funding 80
+- worked 13 months without pay 80
+- moved under state crime lab 81
+- Dr. Thomas Bennett 81
+- big celebration on hiring 81
+- coroners did not welcome 82
+- Coroner Reorganization Act of 1986 82
+- psychiatrist's roadside autopsy for second, more conclusive opinion 83
+- severed head delivered to office 83
+- burned out, resigned 84
+- State v. Stinson: convicted for rape and murder based on matching dental mold to photograph 85
+- exonerated by DNA after 23 years 85
+- "unfounded pseudoscience" 85
+- pattern matching, e.g. bite mark, tire tread, tool mark, blood spatter, fingerprint analysis 85
+- date back to 1692 witchcraft trial 86
+- 1974 conviction of Walter Edgar Marx in California 86
+- court conceded no scientific basis 87
+- "eyeball test" 87
+- wrongly cited 87
+- jurisprudential game of Telephone 87
+- upheld only based on other court rulings 88
+- 2017: no court has upheld challenge to science of bite mark evidence 88
+- denounced by every panel of scientists 88
+- 25 people exonerated 88
