@@ -181,3 +181,12 @@ tags:
 - double meaning of "exploit" (64)
 - meeting of three cultures v. "discovery" by one (65)
 - "New World" and "discovery" (65)
+
+## Chapter 3
+- first non-native settlers: African slaves abandoned by Spaniards in 1526 (71)
+- Spanish longer than American (71)
+- began on west coast (71)
+- majority minority population caning (72)
+- Black/Bubonic Plague man's worst disasters (72)
+- judgment imminent, didn't plant crops (77)
+- humans evolved in tropics, diseases with them (73)
