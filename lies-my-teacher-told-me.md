@@ -9,6 +9,8 @@ tags:
 - American History
 ---
 
+# Notes
+
 ## Preface
 - won't be a third edition (xi)
 - won't read any more textbooks (xi)
