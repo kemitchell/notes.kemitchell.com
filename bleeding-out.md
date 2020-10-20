@@ -96,3 +96,17 @@ tags:
 - Kleiman's "dynamic concentration" (42)
 - costs more to reduce crime than keep it down (42)
 - temporary concentration of resources (42)
+
+### Chapter 4
+- balance prevention and punishment (45)
+- Uneasy Peace: number of nonprofits correlates with reduced violent crime (45)
+- measurement differences (46)
+- roughly equal emphasis on prevention and punishment (47)
+- recklessly aggressive policing and prosecution may increase violence (47)
+- law enforcement surges unsustainable (48)
+- balanced perceived as more legitimate (48)
+- punishment appeals to those who trust authority, demand accountability; prevention appeals to those suspicious of authority, believe in root causes (48)
+- prevention can build moral authority for punishment (49)
+- jury nullification (49)
+- Weisbud and Telep findings on police strategies (49)
+- black-by-block study of Seattle (50)
