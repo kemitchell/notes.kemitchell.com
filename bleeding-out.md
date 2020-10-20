@@ -12,7 +12,7 @@ tags:
 - Psychology
 ---
 
-## Chapter 1
+### Chapter 1
 - man shot through femoral (1)
 - "First you stop the bleeding...nothing else matters." (1)
 - 2017: >47 murders per day in USA (2)
@@ -44,3 +44,55 @@ tags:
 - social science and streets agree (11)
 - triage, diagnosis, treatment, prognosis (12)
 - "the structural linchpin of urban poverty" (13)
+
+### Chapter 2
+- hell to pay for man bleeding out on gurney in hospital v. ignoring thousands in neighborhoods (18)
+- redlining, blockbusting, racial covenants (19)
+- poor white neighborhoods better than average black ones in almost all cities (20)
+- violence cycle within a poverty cycle (21)
+- Hatfields and McCoys (21)
+- stress leads to risky behaviors, serious illness (21-22)
+- children not less smart, occupied (22)
+- DC: lose 2 retail or service businesses for every murder (23)
+- Oakland: $25,600 in property values (23)
+- depopulation (23)
+- lower tax revenue (23)
+- $10-19.2m per murder (23)
+- political left: root causes (24)
+- changes in wealth, inequality, crime uncorrelated in 20th century (24-25)
+- "peace dividend" (26)
+- urban renaissance largely from reduced urban violence (27)
+- 1991: height of most recent crime wave (27)
+
+## Part I
+
+### Chapter 3
+- calmly left scene, knowing nobody would snitch, for fear of retribution (31)
+- crime and violence cluster around small numbers of dangerous people, places, things ("sticky") (32)
+- Oakland: 60% murders within social network of about 1-2k people (33)
+- most gangs: 25-50 people, relatively disorganized (33)
+- generally: 2-3 will reliably use guns (33)
+- profile of "shooters" (34)
+- most cities: 4% of city blocks account for ~50% of crime (34)
+- self-selection process (34)
+- primary factors: age, gender, criminal history (35)
+- criminal and juvenile history the only information with demonstrated predictive power (35)
+- without record: less accurate, but better than judgment, only used to give more services, not punishment (35)
+- error: conflate risk and need (36)
+- lead to race bias (36)
+- trifecta: guns, gangs, drugs (36)
+- behaviors, not things (36)
+1.  carrying illegal gun in public (36)
+2.  hanging out with violent people (36)
+3.  dealer competition and substance (alcohol) abuse (37)
+- "liquor is more closely connected to homicide than illegal drugs" (37)
+- power law distribution (37)
+- archetypal nightclub standoff (38)
+- "cyberbanging" (39)
+- public, permanent messages online (39)
+- case for focused interventions (41)
+- minimal displacement to other areas (42)
+- "To be effective, we must be selective." (42)
+- Kleiman's "dynamic concentration" (42)
+- costs more to reduce crime than keep it down (42)
+- temporary concentration of resources (42)
