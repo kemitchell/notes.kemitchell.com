@@ -4,6 +4,8 @@ subtitle: The Mafia and the American Labor Movement
 types: [book]
 people:
 - James B. Jacobs
+urls:
+  - https://lccn.loc.gov/2005022953
 year: 2008
 tags:
 - History
