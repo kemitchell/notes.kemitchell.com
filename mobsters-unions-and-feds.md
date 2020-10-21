@@ -9,7 +9,10 @@ tags:
 - History
 - American History
 - Labor Movement
+- Labor Unions
 - Organized Crime
+- Law
+- Labor Law
 ---
 
 # Notes
