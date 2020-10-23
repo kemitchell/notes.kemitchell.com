@@ -156,4 +156,12 @@ tags:
 - "if the law must be enforced, it has already lost" (71)
 - 2014-2016: homicide increased 21.8% nationally across cities, but remained near historic lows (72)
 - de-policing effect highly localized, not national (73)
-- technically lawful acts provoked outrage
+- technically lawful acts provoked outrage in context of injustice and unfairness (73)
+- street justice is just revenge (73)
+- crime control and justice indivisible (74)
+- Tom Tyler: perceived fairness (74)
+- respect, listen carefully, explain the process (75)
+- no empirical evidence (75)
+- solves false conflict of effectiveness and legitimacy, applicable within and without PDs (76)
+- Task Force on 21st Century Policing endorsed (76)
+- Principles of Procedurally Just Policing (77)
