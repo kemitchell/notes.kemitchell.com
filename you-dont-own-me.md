@@ -1,6 +1,9 @@
 ---
 title: You Don't Own Me
+subtitle: How Mattel V. MGA Entertainment Exposed Barbie's Dark Side
 types: [books]
+people:
+- Orly Lobel
 tags:
 - Intellectual Property
 - Toy Industry
