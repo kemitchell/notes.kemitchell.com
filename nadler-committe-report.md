@@ -67,3 +67,15 @@ tags:
 
 ## Facebook
 - percentage of time user on internet (136)
+- FB uses Onavo VPN data for traffic competitive analysis (137)
+- social networking v. social media, YouTube, "reasonably interchangeable" (140)
+- data downloads unusable for switching (146)
+- app integrations as further switching costs (147)
+- OpenGraph as "steroids for startups" (149)
+- FB: ~63 acquisitions since 2004 (150)
+- bought IG to neutralize competitor (153)
+- WhatsApp: nominal subscription fee after first year, to avoid ads (157)
+- founder quote v. ads (157)
+- Onavo acquisition (162)
+- Apple ban (163)
+- Facebook Research app data program (163)
