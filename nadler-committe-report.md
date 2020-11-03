@@ -15,6 +15,7 @@ tags:
 - Legislative Investigation
 ---
 
+# Notes
 - Brandeis: "We may have democracy, or..." (7)
 - "followed the facts before it" (8)
 - refusal to produce because of ongoing litigation (8)
@@ -52,3 +53,17 @@ tags:
 - funding antitrust institute at Scalia School of Law at George Mason (76)
 - "vertical search engines" e.g. photos, travel search (77)
 - Google first to crawl whole web (79)
+- websites block non-Google crawlers (79)
+- Findx shut down because of it (79)
+- only Google and Bing index comprehensively (80)
+- "head" and "tail" clikc-and-query (80-1)
+- Google "default positions" (81)
+- "competition just a click away" v. internal analyses (82)
+- Amazon's "Big Moats" (87)
+- social network v. social media (91)
+- web apps no substitute for native (96)
+- security warnings designed to discourage side loading (97)
+- Street View -> outrage -> regulations -> barrier for new upstarts (109)
+
+## Facebook
+- percentage of time user on internet (136)
