@@ -2,6 +2,7 @@
 title: Copyleft Hanging
 subtitle: Are Licensees Under the GPL Third Party Beneficiaries?
 types: [article]
+digest: c4897e4f202eadd08fdfb43435cd877b4832f890d659e320d4e6b33697c3b0a8
 people:
 - Paul H. Arne
 - John W. Martin IV
