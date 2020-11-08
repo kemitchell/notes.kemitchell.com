@@ -158,7 +158,7 @@ tags:
 - first commercials targeted at children (87)
 - ABC/Disney Burp Gun commercials (87)
 - special order for Ike's grandson (87)
-- Girls Intelligence Agency slumber parties, guerilla marketing (88)
+- Girls Intelligence Agency slumber parties, guerrilla marketing (88)
 - anatomical impossibility (89)
 - hatred phase, doll mutilation (89)
 - Growing Up Skipper sprouts breasts, narrows waist (90)
@@ -170,39 +170,82 @@ tags:
 - prior disruptors: "We read the studies..." (94)
 - 1990s and 2016 proportion changes (94)
 - Teen Talk Barbie: "Math class is tough!" (95)
-- Barbie: I Can Be a Computer Engineer: need boys to do the coding, remove virus from computer 96
-- Barbie Liberation Organization: swapped GI Joe talk boxes 96
-- "She appears in guises that mask her essential nature" --- Quindlen 97
+- Barbie: I Can Be a Computer Engineer: need boys to do the coding, remove virus from computer  (96)
+- Barbie Liberation Organization: swapped GI Joe talk boxes  (96)
+- "She appears in guises that mask her essential nature" --- Quindlen  (97)
 
 ### Chapter 6
-- Madonna: "If you don't like me and still watch everything I do, bitch, you're a _fan_." 100
-- mid-1990s: sales finally sag 101
-- from tweens to toddlers and preschoolers 102
-- Mattel passed on Start Wars 103
-- He-Man and Master of the Universe 103
-- sued competitor for Warlords and lost 103
-- sued by Conan creators, dismissed 104
-- announced Barbie-Ken divorce 105
-- Ken and homoeroticism 105
-- Mattel managerial plutocracy 106
-- fear of product cannibalizaiton 107
-- Arrow effect: monopolist trap 107
-- Lego surpassed Mattel in 2015 108
-- CEO Robert Eckart from Kraft 108
-- old boys' club 110
-- $3.5b for Learning Co. software shop 111
-- pricey Bain study 112
-- internal Bratz Brief 112
-- Ivy Ross redoes office, attempts to inject office creativity 112-3
-- 2005 holiday: Bratz outsells Barbie 114
-- My Scene knock-ff of Bratz flopped 114
-- Flavas also fails 114
-- color-blind kids 115
-- ambiguous Bratz v. Flavaz stereotypes 115
-- anonymous "Dear CEO" letter tip 116
-- call from lawyers for manufacturer MGA had sued for infringing Bratz 117
-- gave copy of MGA-Bryant contract 117
-- WSJ leak 118
-- Ross left, ran Google Glass 119
-- "Barbie stands for good.  All others stand for evil." 120
-- dossier on Larian 120-1
+- Madonna: "If you don't like me and still watch everything I do, bitch, you're a _fan_."  (100)
+- mid-1990s: sales finally sag  (101)
+- from tweens to toddlers and preschoolers  (102)
+- Mattel passed on Start Wars  (103)
+- He-Man and Master of the Universe  (103)
+- sued competitor for Warlords and lost  (103)
+- sued by Conan creators, dismissed  (104)
+- announced Barbie-Ken divorce  (105)
+- Ken and homoeroticism  (105)
+- Mattel managerial plutocracy  (106)
+- fear of product cannibalization  (107)
+- Arrow effect: monopolist trap  (107)
+- Lego surpassed Mattel in 2015  (108)
+- CEO Robert Eckart from Kraft  (108)
+- old boys' club  (110)
+- $3.5b for Learning Co. software shop  (111)
+- pricey Bain study  (112)
+- internal Bratz Brief  (112)
+- Ivy Ross redoes office, attempts to inject office creativity  (112-3)
+- 2005 holiday: Bratz outsells Barbie  (114)
+- My Scene knock-ff of Bratz flopped  (114)
+- Flavas also fails  (114)
+- color-blind kids  (115)
+- ambiguous Bratz v. Flavaz stereotypes  (115)
+- anonymous "Dear CEO" letter tip  (116)
+- call from lawyers for manufacturer MGA had sued for infringing Bratz  (117)
+- gave copy of MGA-Bryant contract  (117)
+- WSJ leak  (118)
+- Ross left, ran Google Glass  (119)
+- "Barbie stands for good.  All others stand for evil."  (120)
+- dossier on Larian  (120-1)
+
+## Part 3
+
+### Chapter 7
+- sued Aqua for "Barbie girl"  (127)
+- "litigate to death"  (127)
+- Hot Rigz  (127)
+- parody v. satire  (128)
+- The Cat NOT in the Hat! A Parody held a satire  (128)
+- Star Ballz porn  (129)
+- LucasFilm sued U.S. for Star Wars  (129)
+- removing from public domain  (129)
+- LucasFilm registered "droid"  (130)
+- Mickey Mouse and Copyright Extension Act  (130)
+- Star Ballz countersued for libel about targeting porn at children  (131)
+- sci-fi spoof porn alive and well  (131)
+- Alex Kozinski, "America's champion of free culture"  (131)
+- raunchy sense of humor  (132)
+- "Dilution ... a company wants to control the way a brand is presented to the public."  (133)
+- Mattel shuttered indie collectors magazine  (133)
+- "The parties are advised to chill."  (133)
+- Mattel bought rights to Aqua song for marketing  (134)
+- Food Chain Barbie art photos  (134)
+- 5 years, ACLU on defense  (135)
+- Mattel has used Quinn Emmanuel for a long time  (135)
+- "bullies represented by bullies"  (135)
+- Annette Hurst, of Bay Area, took the case pro bono  (135)
+- won fair use, fees and costs  (136)
+- boosted Forsythe's artistic career  (136)
+- Barbie's Shop of fetish wear, owner Barbara Anderson-Walley  (137)
+- Dungeon Barbie S&M art  (137)
+- William Marston, Wonder Woman creator, a bondage fetishist, poly, women's rights champion  (139)
+- Paul Hansen's Trailer Trash Barbie &c.  (140)
+- "Your client has no sense of humor, that's what this case is about."  (140)
+- anti-SLAPP  (140)
+- Barbie Gets Sad, Too ordered off festival in Mexico  (141)
+- _Reclaiming Fair Use_  (141)
+- Sarah Haney's sexy photos  (142)
+- "all-American Madonna whore"  (142)
+- "Barbie herself is already a parody."  (143)
+- "bitch-goddess identity"  (143)
+- "When we look closely at intellectual property ... most often corporation---rather than creators---are the primary benefactors."  (144)
+- "Mattel does not allow...same infractions...inflicted on Lilli's creators."  (144)
