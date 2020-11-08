@@ -170,4 +170,39 @@ tags:
 - prior disruptors: "We read the studies..." (94)
 - 1990s and 2016 proportion changes (94)
 - Teen Talk Barbie: "Math class is tough!" (95)
-- Barbie: I Can Be a Computer Engineer: ...
+- Barbie: I Can Be a Computer Engineer: need boys to do the coding, remove virus from computer 96
+- Barbie Liberation Organization: swapped GI Joe talk boxes 96
+- "She appears in guises that mask her essential nature" --- Quindlen 97
+
+### Chapter 6
+- Madonna: "If you don't like me and still watch everything I do, bitch, you're a _fan_." 100
+- mid-1990s: sales finally sag 101
+- from tweens to toddlers and preschoolers 102
+- Mattel passed on Start Wars 103
+- He-Man and Master of the Universe 103
+- sued competitor for Warlords and lost 103
+- sued by Conan creators, dismissed 104
+- announced Barbie-Ken divorce 105
+- Ken and homoeroticism 105
+- Mattel managerial plutocracy 106
+- fear of product cannibalizaiton 107
+- Arrow effect: monopolist trap 107
+- Lego surpassed Mattel in 2015 108
+- CEO Robert Eckart from Kraft 108
+- old boys' club 110
+- $3.5b for Learning Co. software shop 111
+- pricey Bain study 112
+- internal Bratz Brief 112
+- Ivy Ross redoes office, attempts to inject office creativity 112-3
+- 2005 holiday: Bratz outsells Barbie 114
+- My Scene knock-ff of Bratz flopped 114
+- Flavas also fails 114
+- color-blind kids 115
+- ambiguous Bratz v. Flavaz stereotypes 115
+- anonymous "Dear CEO" letter tip 116
+- call from lawyers for manufacturer MGA had sued for infringing Bratz 117
+- gave copy of MGA-Bryant contract 117
+- WSJ leak 118
+- Ross left, ran Google Glass 119
+- "Barbie stands for good.  All others stand for evil." 120
+- dossier on Larian 120-1
