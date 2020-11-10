@@ -151,3 +151,6 @@ tags:
 - Googles Maps & Waze teams remain separate; Waze used as guinea pig (239)
 - end of Maps API free tier (239)
 - prohibit use with non-Google maps (241)
+- prohibited caching of maps by others (243)
+- GCP is fastest growing business (245)
+- considering bundling ML with GCP (246)
