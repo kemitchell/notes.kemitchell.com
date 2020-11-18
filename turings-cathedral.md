@@ -1,6 +1,9 @@
 ---
 title: Turing's Cathedral
 types: [book]
+people:
+- George Dyson
+year: 2012
 tags:
 - History
 - Computing
