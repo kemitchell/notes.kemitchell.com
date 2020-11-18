@@ -87,7 +87,7 @@ tags:
 - honesty box banner poster 57
 - Wilson's Strangers to Ourselves 58
 
-## Chapte 5: Cognitive Ease
+## Chapter 5: Cognitive Ease
 - cognitive strain: activate System 2 59
 - level of effort, unmet demands 59
 - sentence: clear font, repeated, primed 59
@@ -136,3 +136,14 @@ tags:
 - meeting: have people write down summaries of positions before discussing 85
 - What You See Is All That Is (WYSIATI) 86
 - good stories: consistency, not completeness 87
+
+## Chapter 8
+- "mental shotgun" 89
+- dominance and trustworthiness 90
+
+## Chapter 9
+- "you are rarely stumped" 97
+- substitution: without good answer to a hard question, swap in a related, easier question 97
+- "heuristic system" 97
+- Paul Slovic's "affect heuristic": likes and dislikes determine beliefs 103
+- list of System 1 characteristics 105
