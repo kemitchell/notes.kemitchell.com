@@ -203,3 +203,65 @@ tags:
 - stock market panic, bank run  (85)
 - recalled Necker  (85)
 - just a caretaker pending Estates-General  (85)
+
+## Chapter 4
+- year of terrible weather 86
+- normal: urban worker spends ⅓-½ wage on bread 86
+- grain price spike 86
+- reduced industrial demand 87
+- attacked spinning jennies 87
+- free-trade treaty with Great Britain 87
+- Necker's return celebrated for weeks 87
+- recalled parlements 87
+- banned demonstrations, inquiry into police action 88
+- moved Estates-General up 88
+- equal representation versus doubled third estate 88
+- Dauphiné the obvious model versus 1614 89
+- Assembly of Notables to advice king 89
+- hostility to privileged orders begins 90
+- double the third, vote by head 90
+- Society of Thirty: nobles against 1614, privileges of all kinds 90
+- model petitions 90
+- Notables oppose doubling third 91
+- 5 princes of the blood petition against doubling, vote by head 92
+- royal pronouncement: double the third, but vote as they decide 93
+- social questions came up front 93
+- bourgeoisie wakes up 93
+- Siegès' Whnat is the Third Estate? 94
+- driven by lawyers 95
+- "chaiers" (grievance lists) 96
+- "the most democratic spectacle ever" 97
+- riots reached Paris 98
+- sympathetic businessmen misunderstood, ransacked 98
+- selection process raised parish priests over church hierarchy 99
+- few robed nobility elected 99
+- nobility disorganized, split 100
+- third estate delegates "remarkably homogeneous and united" 100
+- ⅔ had legal qualifications, ¼ were advocates or notaries 101
+- nobility in silk, third in sober black 101
+- king's heir died 103
+- "the Commons" declares itself the national assembly 103
+- lawyers reluctant to flout law 103
+- clerics came over to Commons 104
+- declared all taxes illegal, but sanctioned until new system, lapses if National Assembly stops meeting 105
+- "This was the revolutionary moment." 105
+- locked out, Royal Session announced 105
+- met in defiance at tennis court 105
+- king proposes imaginative reform program too late, surrounded by soldiers 106
+- nobles and clerics obediently dispersed, third and allied clergy stood ground 106
+- Necker resigns, king lets third stay 107
+- Necker withdraws resignation, but news concludes he was dismissed 107
+- troops in PAris refuse to go against people 107
+- bulk of clergy, 48 nobles join Assembly 107
+- king orders presidents of church and noble assemblies to join 107-8
+- 4,000 stormed a prison 108
+- king amassed troops 108
+- Necker finally dismissed 108
+- populace arms itself after German cavalry clear Tuileries gardens 109
+- seized arms from Invalides 110
+- Bastille the biggest local arsenal 110
+- garrison panicked, fired, killed nearly 100 110
+- French Guards manned Invalides cannon 110
+- Bastille surrendered 110
+- king comes to Assembly, announces dispersing army around Paris 110
+- Broglie advised that couldn't rely on army 110
