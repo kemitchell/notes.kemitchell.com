@@ -305,42 +305,66 @@ tags:
 - broad national consensus (135)
 
 ## Chapter 6
-- clergy lost big 136
-- contemplatives as useless parasites 137
-- Protestant-Catholic violence 138
+- clergy lost big (136)
+- contemplatives as useless parasites (137)
+- Protestant-Catholic violence (138)
 - annexation of papal subjects 138-9
-- pope condemns Declaration and acts 139
-- "The most he could expect was the courtesy of notification." 139
-- conservatives press united to attack Civil Constitution as attack on Catholic faith 142
-- Jacobin club network 142
-- dismissal of resistant clerics, new oath 143
-- Assembly's worst mistake 144
-- "In seeking to identify dissent, in a sense the revolution legitimized it." 144
-- quasi-opinion poll 145
-- Pope comes out against 146
-- papal nuncio left France 146
-- Lyons plotter captured, revealing counter-revolutionary conspiracy 147
-- army mutinies put down by example 147
-- demonstrations outside royal residences to prevent emigration 148
+- pope condemns Declaration and acts (139)
+- "The most he could expect was the courtesy of notification." (139)
+- conservatives press united to attack Civil Constitution as attack on Catholic faith (142)
+- Jacobin club network (142)
+- dismissal of resistant clerics, new oath (143)
+- Assembly's worst mistake (144)
+- "In seeking to identify dissent, in a sense the revolution legitimized it." (144)
+- quasi-opinion poll (145)
+- Pope comes out against (146)
+- papal nuncio left France (146)
+- Lyons plotter captured, revealing counter-revolutionary conspiracy (147)
+- army mutinies put down by example (147)
+- demonstrations outside royal residences to prevent emigration (148)
 - king prefers refractory clergy 147-8
-- crowd surrounds king's carriage to prevent supposed escape attempt 148
+- crowd surrounds king's carriage to prevent supposed escape attempt (148)
 - emigration spikes unemployment 148-9
-- public charity workshop dismantled Bastille 149
-- abolished guilds and corporations 149
-- banned unions, labor actions 149
-- radical leaders mellowed 149
-- Robespierre led republican faction 150
-- motions to keep Constituent members out of executive office and Legislative Assembly 150
-- assembly had voted not to abolish slavery 151
-- Robespierre denounced slavery, dominated Jacobin Club, elected public prosecutor in Paris 151
-- king's attempted escape 151
-- manifesto left behind 152
-- Republicans go public 152
-- Assembly pretends king was kidnapped 152
-- Republican petition backed by Thomas Paine splits Jacobin Club 154
-- massacre at signing of petition cripples 154
-- compromises in Constitution 155
-- restrictions on press 155
-- Declaration of Pillnitz: French monarchy of concern to all monarchs 156
-- king accepted constitution 157
-- "The present constitution has no friends and cannot last." 158
+- public charity workshop dismantled Bastille (149)
+- abolished guilds and corporations (149)
+- banned unions, labor actions (149)
+- radical leaders mellowed (149)
+- Robespierre led republican faction (150)
+- motions to keep Constituent members out of executive office and Legislative Assembly (150)
+- assembly had voted not to abolish slavery (151)
+- Robespierre denounced slavery, dominated Jacobin Club, elected public prosecutor in Paris (151)
+- king's attempted escape (151)
+- manifesto left behind (152)
+- Republicans go public (152)
+- Assembly pretends king was kidnapped (152)
+- Republican petition backed by Thomas Paine splits Jacobin Club (154)
+- massacre at signing of petition cripples (154)
+- compromises in Constitution (155)
+- restrictions on press (155)
+- Declaration of Pillnitz: French monarchy of concern to all monarchs (156)
+- king accepted constitution (157)
+- "The present constitution has no friends and cannot last." (158)
+
+## Chapter 7
+- "The French Revolution took the whole of Europe by surprise." (159)
+- "age of upheaval and defiance" (159)
+- Habsburgs seemed more likely to fall (159)
+- Prussians occupied Dutch Republic (159)
+- Bastille: state prison, symbol of despotism overthrown (160)
+- celebrated in England (161)
+- United States of Belgium (162)
+- "Infinite happiness will result from this everywhere..." !63
+- French renounced offensive warfare (164)
+- Polish "patriots" (165)
+- Burke's _Reflections on the Revolution..._ (166)
+- opposed new energy for parliamentary reform (166)
+- philosophic conspiracy (168)
+- Illuminati: only philosophic conspiracy every proved to have existed (168)
+- Burkes' _Refletions_ focused British admirers of French revolution (168)
+- Thomas Paine's _Rights of Man_ the definitive reply (168)
+- "It is an age of Revolutions..." (169)
+- great debate began (169)
+- "remarkable how slow ... recognize material emanating from France as subversive" (171)
+- Radischev's _Journey from St. Petersburg to Moscow_ (172)
+- "the French revolutionaries had always believed that they stood for principles of universal validity" (172)
+- "Increasingly, the revolutionaries would seek to solve their problems by inflicting them on their neighbors." (173)
