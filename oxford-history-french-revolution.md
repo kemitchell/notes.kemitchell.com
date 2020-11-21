@@ -265,3 +265,41 @@ tags:
 - Bastille surrendered 110
 - king comes to Assembly, announces dispersing army around Paris 110
 - Broglie advised that couldn't rely on army 110
+
+## Chapter 5
+- recalled Necker 112
+- mayor of Paris 112
+- king accepts tricolor cockade for hat 112
+- heads of Bastille governor and city chief magistrate through streets on pikes 112
+- intendant lynched, decapitated 113
+- lawyers and businessmen lead changes in provinces 113
+- Great Fear: peasants assemble, take arms 114
+- attacked symbols of feudalism, especially muniment rooms 115
+- Breton Club proposed abolishing feudalism 116
+- rapid renunciation of all privileges 116
+- peasants really abolished, by refusing 117
+- Declaration of the Rights of Man and the Citizen 118
+- reserved right to alter in constitution proper, but by then it was sacrosanct 118
+- temporary (suspensive) veto by king 120
+- Jean-Paul Marat and L'Ami du People 120
+- Flanders Regiment summoned 121
+- king quibbles on decree, Declaration 121
+- armed mob invades Versailles 121
+- women force king to assent 122
+- procession to Paris 122
+- keep the executive weak 123
+- "active citizens" vote, pay ≥ 3 days' unskilled labor in taxes 124
+- electors and delegates with higher tax requirements 124
+- all public offices elective 124
+- uniformity, decentralization 125
+- Martial Law against Tumults: red flags to declare martial law 126
+- most nobles leery, many flee 128
+- liberty trees planted on seigneurial land, burning chaâteaus, land titles 128,30
+- new direct-taxes system 131
+- nationalize church lands to address debts 132
+- Discount Bank fiasco soured on paper money 133
+- bonds secured by national lands 133
+- became legal tender 134
+- printed more 134
+- Necker resigns, returns to Switzerland, twice arrested as attempted emigre 134
+- broad national consensus 135
