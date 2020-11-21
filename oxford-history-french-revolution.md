@@ -205,101 +205,101 @@ tags:
 - just a caretaker pending Estates-General  (85)
 
 ## Chapter 4
-- year of terrible weather 86
-- normal: urban worker spends ⅓-½ wage on bread 86
-- grain price spike 86
-- reduced industrial demand 87
-- attacked spinning jennies 87
-- free-trade treaty with Great Britain 87
-- Necker's return celebrated for weeks 87
-- recalled parlements 87
-- banned demonstrations, inquiry into police action 88
-- moved Estates-General up 88
-- equal representation versus doubled third estate 88
-- Dauphiné the obvious model versus 1614 89
-- Assembly of Notables to advice king 89
-- hostility to privileged orders begins 90
-- double the third, vote by head 90
-- Society of Thirty: nobles against 1614, privileges of all kinds 90
-- model petitions 90
-- Notables oppose doubling third 91
-- 5 princes of the blood petition against doubling, vote by head 92
-- royal pronouncement: double the third, but vote as they decide 93
-- social questions came up front 93
-- bourgeoisie wakes up 93
-- Siegès' Whnat is the Third Estate? 94
-- driven by lawyers 95
-- "chaiers" (grievance lists) 96
-- "the most democratic spectacle ever" 97
-- riots reached Paris 98
-- sympathetic businessmen misunderstood, ransacked 98
-- selection process raised parish priests over church hierarchy 99
-- few robed nobility elected 99
-- nobility disorganized, split 100
-- third estate delegates "remarkably homogeneous and united" 100
-- ⅔ had legal qualifications, ¼ were advocates or notaries 101
-- nobility in silk, third in sober black 101
-- king's heir died 103
-- "the Commons" declares itself the national assembly 103
-- lawyers reluctant to flout law 103
-- clerics came over to Commons 104
-- declared all taxes illegal, but sanctioned until new system, lapses if National Assembly stops meeting 105
-- "This was the revolutionary moment." 105
-- locked out, Royal Session announced 105
-- met in defiance at tennis court 105
-- king proposes imaginative reform program too late, surrounded by soldiers 106
-- nobles and clerics obediently dispersed, third and allied clergy stood ground 106
-- Necker resigns, king lets third stay 107
-- Necker withdraws resignation, but news concludes he was dismissed 107
-- troops in PAris refuse to go against people 107
-- bulk of clergy, 48 nobles join Assembly 107
+- year of terrible weather (86)
+- normal: urban worker spends ⅓-½ wage on bread (86)
+- grain price spike (86)
+- reduced industrial demand (87)
+- attacked spinning jennies (87)
+- free-trade treaty with Great Britain (87)
+- Necker's return celebrated for weeks (87)
+- recalled parlements (87)
+- banned demonstrations, inquiry into police action (88)
+- moved Estates-General up (88)
+- equal representation versus doubled third estate (88)
+- Dauphiné the obvious model versus 1614 (89)
+- Assembly of Notables to advice king (89)
+- hostility to privileged orders begins (90)
+- double the third, vote by head (90)
+- Society of Thirty: nobles against 1614, privileges of all kinds (90)
+- model petitions (90)
+- Notables oppose doubling third (91)
+- 5 princes of the blood petition against doubling, vote by head (92)
+- royal pronouncement: double the third, but vote as they decide (93)
+- social questions came up front (93)
+- bourgeoisie wakes up (93)
+- Siegès' Whnat is the Third Estate? (94)
+- driven by lawyers (95)
+- "chaiers" (grievance lists) (96)
+- "the most democratic spectacle ever" (97)
+- riots reached Paris (98)
+- sympathetic businessmen misunderstood, ransacked (98)
+- selection process raised parish priests over church hierarchy (99)
+- few robed nobility elected (99)
+- nobility disorganized, split (100)
+- third estate delegates "remarkably homogeneous and united" (100)
+- ⅔ had legal qualifications, ¼ were advocates or notaries (101)
+- nobility in silk, third in sober black (101)
+- king's heir died (103)
+- "the Commons" declares itself the national assembly (103)
+- lawyers reluctant to flout law (103)
+- clerics came over to Commons (104)
+- declared all taxes illegal, but sanctioned until new system, lapses if National Assembly stops meeting (105)
+- "This was the revolutionary moment." (105)
+- locked out, Royal Session announced (105)
+- met in defiance at tennis court (105)
+- king proposes imaginative reform program too late, surrounded by soldiers (106)
+- nobles and clerics obediently dispersed, third and allied clergy stood ground (106)
+- Necker resigns, king lets third stay (107)
+- Necker withdraws resignation, but news concludes he was dismissed (107)
+- troops in PAris refuse to go against people (107)
+- bulk of clergy, 48 nobles join Assembly (107)
 - king orders presidents of church and noble assemblies to join 107-8
-- 4,000 stormed a prison 108
-- king amassed troops 108
-- Necker finally dismissed 108
-- populace arms itself after German cavalry clear Tuileries gardens 109
-- seized arms from Invalides 110
-- Bastille the biggest local arsenal 110
-- garrison panicked, fired, killed nearly 100 110
-- French Guards manned Invalides cannon 110
-- Bastille surrendered 110
-- king comes to Assembly, announces dispersing army around Paris 110
-- Broglie advised that couldn't rely on army 110
+- 4,000 stormed a prison (108)
+- king amassed troops (108)
+- Necker finally dismissed (108)
+- populace arms itself after German cavalry clear Tuileries gardens (109)
+- seized arms from Invalides (110)
+- Bastille the biggest local arsenal (110)
+- garrison panicked, fired, killed nearly 100 (110)
+- French Guards manned Invalides cannon (110)
+- Bastille surrendered (110)
+- king comes to Assembly, announces dispersing army around Paris (110)
+- Broglie advised that couldn't rely on army (110)
 
 ## Chapter 5
-- recalled Necker 112
-- mayor of Paris 112
-- king accepts tricolor cockade for hat 112
-- heads of Bastille governor and city chief magistrate through streets on pikes 112
-- intendant lynched, decapitated 113
-- lawyers and businessmen lead changes in provinces 113
-- Great Fear: peasants assemble, take arms 114
-- attacked symbols of feudalism, especially muniment rooms 115
-- Breton Club proposed abolishing feudalism 116
-- rapid renunciation of all privileges 116
-- peasants really abolished, by refusing 117
-- Declaration of the Rights of Man and the Citizen 118
-- reserved right to alter in constitution proper, but by then it was sacrosanct 118
-- temporary (suspensive) veto by king 120
-- Jean-Paul Marat and L'Ami du People 120
-- Flanders Regiment summoned 121
-- king quibbles on decree, Declaration 121
-- armed mob invades Versailles 121
-- women force king to assent 122
-- procession to Paris 122
-- keep the executive weak 123
-- "active citizens" vote, pay ≥ 3 days' unskilled labor in taxes 124
-- electors and delegates with higher tax requirements 124
-- all public offices elective 124
-- uniformity, decentralization 125
-- Martial Law against Tumults: red flags to declare martial law 126
-- most nobles leery, many flee 128
+- recalled Necker (112)
+- mayor of Paris (112)
+- king accepts tricolor cockade for hat (112)
+- heads of Bastille governor and city chief magistrate through streets on pikes (112)
+- intendant lynched, decapitated (113)
+- lawyers and businessmen lead changes in provinces (113)
+- Great Fear: peasants assemble, take arms (114)
+- attacked symbols of feudalism, especially muniment rooms (115)
+- Breton Club proposed abolishing feudalism (116)
+- rapid renunciation of all privileges (116)
+- peasants really abolished, by refusing (117)
+- Declaration of the Rights of Man and the Citizen (118)
+- reserved right to alter in constitution proper, but by then it was sacrosanct (118)
+- temporary (suspensive) veto by king (120)
+- Jean-Paul Marat and L'Ami du People (120)
+- Flanders Regiment summoned (121)
+- king quibbles on decree, Declaration (121)
+- armed mob invades Versailles (121)
+- women force king to assent (122)
+- procession to Paris (122)
+- keep the executive weak (123)
+- "active citizens" vote, pay ≥ 3 days' unskilled labor in taxes (124)
+- electors and delegates with higher tax requirements (124)
+- all public offices elective (124)
+- uniformity, decentralization (125)
+- Martial Law against Tumults: red flags to declare martial law (126)
+- most nobles leery, many flee (128)
 - liberty trees planted on seigneurial land, burning chaâteaus, land titles 128,30
-- new direct-taxes system 131
-- nationalize church lands to address debts 132
-- Discount Bank fiasco soured on paper money 133
-- bonds secured by national lands 133
-- became legal tender 134
-- printed more 134
-- Necker resigns, returns to Switzerland, twice arrested as attempted emigre 134
-- broad national consensus 135
+- new direct-taxes system (131)
+- nationalize church lands to address debts (132)
+- Discount Bank fiasco soured on paper money (133)
+- bonds secured by national lands (133)
+- became legal tender (134)
+- printed more (134)
+- Necker resigns, returns to Switzerland, twice arrested as attempted emigre (134)
+- broad national consensus (135)
