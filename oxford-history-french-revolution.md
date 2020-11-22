@@ -370,66 +370,66 @@ tags:
 - "Increasingly, the revolutionaries would seek to solve their problems by inflicting them on their neighbors." (173)
 
 ## Chapter 8
-- Legislative Assembly very different from Constituent Assembly 174
-- "Mostly they were men of property, and above all lawyers." 174
-- local experience implementing reforms 174
-- priority: refractory priests 174
-- king appeals to emigres to return 175
-- Feuillants meet in private, Jacobins in public, attracting the ambitious 175
-- opened up, got heckled 176
-- decree: French abroad presumed plotting treason. Return by January 1. 176
-- Austrian committee conspiracy theory 176
-- massacres in Avignon 177
-- new oath for refractories, penalties 177
-- "we shall carry to them, not fire and the sword, but freedom ... awakening of nations" 177
-- royalist case for war 177
-- after ultimatum, electors ordered emigres out of as demanded 178
-- ware fever in Assembly 179
-- new ministry of outright warmongers 180
-- red liberty caps 180
-- declared war on Francis II 180
-- slave uprising in Saint-Domingue 181
-- currency devaluation 182
-- Robespierre voted against keeping death penalty 183
-- new guillotine: "expeditious, egalitarian and above all (experts agreed) painless." 183
-- initial war defeats 184
-- "Frantic to find scapegoats for reverses their own rhetoric had done nothing to prepare them for ... denouncing everybody else." 184
-- new laws against treason 184
-- king proposes veto to divide Assembly 185
-- riot at the Tuileries to force king to reinstate ministers 186
-- "sans culottes" 186
-- king stood ground 186
-- end runs around veto of National Guard camp at Champ de Mars 187
-- illegal mobilization of sansculottes 187
-- Jacobins come out against constitution 188
-- enemy invades, Emperor proclaims goals of restoring monarchy 188
-- "exemplary and forever memorable vengeance" for any harm to king 188
-- arms and active status to all defenders of France 188
-- refused to indict Lafayette for leaving post 189
-- rang tocsin, insurrectionary commune, march on the Tuileries 189
-- Swiss Guards hacked to death 189
-- Bonaparte's first sigh tof carnage women mutilating pile of Swiss corpses 189
-- commune wanted vengeance 190
-- tribunal to try political crimes, e.g. defenders of the Tuileries 190
-- no leaving Paris without approval 190
-- general search of dwellings for hidden weapons and suspects, 3,000 arrests 190
-- Marat for massacre 191
-- Verdun besieged and passed 191
+- Legislative Assembly very different from Constituent Assembly (174)
+- "Mostly they were men of property, and above all lawyers." (174)
+- local experience implementing reforms (174)
+- priority: refractory priests (174)
+- king appeals to emigres to return (175)
+- Feuillants meet in private, Jacobins in public, attracting the ambitious (175)
+- opened up, got heckled (176)
+- decree: French abroad presumed plotting treason. Return by January 1. (176)
+- Austrian committee conspiracy theory (176)
+- massacres in Avignon (177)
+- new oath for refractories, penalties (177)
+- "we shall carry to them, not fire and the sword, but freedom ... awakening of nations" (177)
+- royalist case for war (177)
+- after ultimatum, electors ordered emigres out of as demanded (178)
+- ware fever in Assembly (179)
+- new ministry of outright warmongers (180)
+- red liberty caps (180)
+- declared war on Francis II (180)
+- slave uprising in Saint-Domingue (181)
+- currency devaluation (182)
+- Robespierre voted against keeping death penalty (183)
+- new guillotine: "expeditious, egalitarian and above all (experts agreed) painless." (183)
+- initial war defeats (184)
+- "Frantic to find scapegoats for reverses their own rhetoric had done nothing to prepare them for ... denouncing everybody else." (184)
+- new laws against treason (184)
+- king proposes veto to divide Assembly (185)
+- riot at the Tuileries to force king to reinstate ministers (186)
+- "sans culottes" (186)
+- king stood ground (186)
+- end runs around veto of National Guard camp at Champ de Mars (187)
+- illegal mobilization of sansculottes (187)
+- Jacobins come out against constitution (188)
+- enemy invades, Emperor proclaims goals of restoring monarchy (188)
+- "exemplary and forever memorable vengeance" for any harm to king (188)
+- arms and active status to all defenders of France (188)
+- refused to indict Lafayette for leaving post (189)
+- rang tocsin, insurrectionary commune, march on the Tuileries (189)
+- Swiss Guards hacked to death (189)
+- Bonaparte's first sight of carnage women mutilating pile of Swiss corpses (189)
+- commune wanted vengeance (190)
+- tribunal to try political crimes, e.g. defenders of the Tuileries (190)
+- no leaving Paris without approval (190)
+- general search of dwellings for hidden weapons and suspects, 3,000 arrests (190)
+- Marat for massacre (191)
+- Verdun besieged and passed (191)
 - half prison population of Paris killed 191-2
-- "Septembriseur" became political perjorative 192
-- removed threat of counter-revolution uprising enables sansculottes to volunteer for war, leaving families behind 192
-- Valmy: outgunned the Prussians, fought with unseen enthusiasm 193
-- Convention declared republic, Prussians broke off negotiations 193
-- constitutional convention again "dominated by lawyers ..." 194
-- incriminating papers discovered at the Tuileries 194
-- unknown Saint-Just: people have already tried and convicted the king on August 10 194
-- Robespierre supports 194
-- tried by Convention itself 195
-- king resolute 195
-- requested defending counsel 195
-- Raymond de Sèze defended 195
-- no votes to acquit 196
-- execution --- 361, delaying conditions --- 72, imprisonment --- 288 196
-- reprieve: against --- 380, for --- 310 196
-- executed next to empty pedestal of grandfather's triumphal statute 196
-- more challenge than victory 196
+- "Septembriseur" became political perjorative (192)
+- removed threat of counter-revolution uprising enables sansculottes to volunteer for war, leaving families behind (192)
+- Valmy: outgunned the Prussians, fought with unseen enthusiasm (193)
+- Convention declared republic, Prussians broke off negotiations (193)
+- constitutional convention again "dominated by lawyers ..." (194)
+- incriminating papers discovered at the Tuileries (194)
+- unknown Saint-Just: people have already tried and convicted the king on August 10 (194)
+- Robespierre supports (194)
+- tried by Convention itself (195)
+- king resolute (195)
+- requested defending counsel (195)
+- Raymond de Sèze defended (195)
+- no votes to acquit (196)
+- execution --- 361, delaying conditions --- 72, imprisonment --- 288 (196)
+- reprieve: against --- 380, for --- 310 (196)
+- executed next to empty pedestal of grandfather's triumphal statute (196)
+- more challenge than victory (196)
