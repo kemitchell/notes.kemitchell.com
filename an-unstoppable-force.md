@@ -1,0 +1,126 @@
+---
+title: An Unstoppable Force
+people: [Shane Bauer]
+types: [article]
+publication: New Yorker
+issue: 2020-11-23
+tags:
+- Police
+---
+
+- Sean Monterossa shot by Jarrett Tonn through windshield
+- a week after George Floyd
+- Sean claimed police brutality during prior arrest
+- bodycam turned on after shooting
+- What did he point at us?  I don't know, man.  He pointed a gun at us!
+- hammer in his pocket
+- "You're going to be all right.  We've been through this before."
+- police killings down in big cities, up in suburbs and rural areas
+- PD: "white men who live elsewhere"
+- VPD killed 19 since 2020
+- most force per arrest in California
+- "It can't be awful if it's lawful."
+- $16m in ten years
+- insurer raised deductible to $2.5m
+- first law enforcement strike in California
+- naval shipyard closed in mid-1990s
+- union to city council candidate: "If you win, will you stay bought?"
+- 2000-2007: 55% wage increase
+- lowest incomes in the Bay Area, highest paid police
+- 3/4 of budget to police and fire
+- "the cops owned the council"
+- "You're gonna get yours."
+- anonymous threats, car keyed, tires slashed
+- threatened to declare state of emergency, lay off entire PD and FD
+- declared bankruptcy
+- violent crime decreased after cuts
+- "Time to circle the wagons."
+- "make their lives a living hell"
+- "Get dirty and fight to win."
+- drive-bys at home
+- rap song by Steve Darden
+- allegation: bending tips of badges for fatal shootings
+- cops broke into house, posted photos online
+- watered down police oversight board
+- conclusory VPOA release on Monterrossa shooting
+- nationwide: 80% of police unionized
+- 36% more use-of-force complaints against unionized police
+- Mat Mustard, former union president
+  - Denise Huskins kidnapping: insisted boyfriend faked it all
+  - $2.5m settlement
+  - PD named Mustard officer of the year
+- new president, Michael Nichelini, had been OPD
+- struck protester with motorcycle in 2003
+- called "Mussolini"
+- Robert Nichelini, his father, was chief of VPD
+- Carlos Vescas
+  - pulled over for no plate while plainclothes
+  - told he would take car and keep it
+  - confiscated, reported lost
+  - PD auctioned it off
+- replaced windshield Sean shot through in two days
+- Nichelini suspended for destruction of evidence
+- Jim Capoot shot and killed on duty
+- next year, PD kills 6, 3 by Sean Kenney
+  - Anton Barrett, Sr.
+  - Mario Romero, 3 months later, shot 30 times
+  - Jeremiah Moore, autistic man
+- citizens' advisory committee debates small stuff
+- officers on committee threaten union lawsuits
+- Kenney made detective, investigates officer-involved shootings
+- dismissed cops rehired in other jurisdictions
+- move to smaller PDs that want big-city experience
+- resign before fired
+- Law Enforcement Move helps urban cops relocate to "police-friendly" cities
+- notorious VPD officers from OPD
+- group of 6: 3 in lethal shootings, all 6 sued for excessive force
+- Ryan and David LcLaughlin
+- marijuana smell searches
+- Tonn had been Galt PD
+- cousin Kevin Tonn killed on duty
+- $100k base pay in first year
+- Kent Tribble
+- Tann and Kenner partnered
+- Kevin DeCarlo: rammed car, shot with rifle
+- Pew: only 1/4 cops fire weapons on duty
+- Kenney's 5th shooting in 5 years
+- started Line Driven Strategies consulting firm, use of force training
+- revise training "to ensure officers know that they must react in self defense without consideration for potential future civil unrest"
+- no VPD agreed to speak on record
+- bodycam:
+  - group filming documentary on street
+  - assumed shooting rap video
+  - seen guns in rap videos
+  - cause to detain and search!
+  - arrested onlooker ordered to move on
+  - music causes the violence
+  - cash "consistent with street level sales" ($48)
+  - "Tasers don't work."
+  - forced apology from onlooker before release
+- Willie McCoy
+  - asleep
+  - gun in lap, mag removed
+  - "If he reaches for it, you know what to do."
+  - woke up
+  - 55 rounds fired
+- Ryan McMahon killed Ronnell Foster
+  - bicycle without lights
+  - beat with a flashlight
+  - shot in head and back as fled
+  - $5.7m settlement
+- "fire the fatal fourteen"
+- fired McMahon
+- Chief Williams unpopular
+  - "he thinks he is Black Jesus"
+  - "can't speak English"
+- Chiefs come and go.  Sergeants and shift lieutenants and captains set tone.
+- mayor Bob Sampayan a former cop
+  - "I'm just absolutely done with the VPOA running the show."
+- civilian auditor
+- public safety emergency to go around VPOA
+- non-union assistant chiefs
+- insurance forced disbanding:
+  - Lincoln Heights, OH
+  - Maywood, CA
+- billboard facing PD with Sean's photo
+- "We want to make sure Jarrett Tonn sees the person he killed every single day."
