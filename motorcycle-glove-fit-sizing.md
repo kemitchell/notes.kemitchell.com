@@ -16,4 +16,5 @@ tags:
 - Expect the width of the palm to stretch just a bit.
 - Expect the width of the fingers to stretch just a bit.
 - Check finger and wrist motion and dexterity.
+- Don't bother making a fist.  You don't do that on the bike.
 - Try the glove on your bar and levers.
