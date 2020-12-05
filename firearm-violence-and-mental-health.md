@@ -165,3 +165,33 @@ tags:
 
 - not representative of bulk of mass shooters
 - angry young men, history of bullying, feelings of social isolation
+
+- Connecticut research: effect of disqualification and reporting to NICS
+  - disqualified for mental health only: violent rate down 53%
+  - both mental health and criminal: down 17%
+  - only for criminal: went up
+- but: all community violence, serious mental illness is just 4%
+
+- prior history of violence: high risk of future
+- California: prohibit violent misdemeanants from buying guns (since 1990)
+- Armed Prohibited Persons Program: cross-check with list of people who own firearms, send people out to take guns
+- est. 18k own firearms illegally in California
+- about 35k guns
+- 2015: seized about 3,200 firearms in the year
+- 2016: Firearm (Gun Violence) Restraining Order
+  - after Isla Vista shooting
+  - increasingly bizarre behavior
+  - sparked concern, including among parents
+  - mom called sheriffs department, they went
+  - no history
+  - no case to search or intervene
+  - a few weeks later, killed a bunch of people
+  - family members or police can petition to remove guns
+  - based on domestic violence restraining order
+  - permanent order up to one year
+
+## Take Home Points
+- sensitive and specific prohibitions
+- targeting mental health may not be most effective strategy
+- centralized way to prohibit people
+- short-term prevention tools
